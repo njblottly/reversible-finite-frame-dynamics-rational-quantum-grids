@@ -1,0 +1,3657 @@
+<|"label_count" -> 576, "initial_ray_count" -> 24, "refinement_block_counts" -> {24, 116}, "quotient_class_count" -> 116, "context_counts_by_ray" -> {3, 4, 4, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5}, "maximum_context_count" -> 5, "conditional_fixed_width_bits" -> 3|>
+"All representation-independence checks passed."
+PASS: 24 proper signed permutation rotations
+PASS: transpose involution
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: transpose involution
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: transpose involution
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: transpose involution
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: transpose involution
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: transpose involution
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: transpose involution
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: transpose involution
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: transpose involution
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: transpose involution
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: transpose involution
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: transpose involution
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: transpose involution
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: transpose involution
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: transpose involution
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: transpose involution
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: transpose involution
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: transpose involution
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: transpose involution
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: transpose involution
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: transpose involution
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: transpose involution
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: transpose involution
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: transpose involution
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: exact group closure
+PASS: transpose reverses products
+PASS: 24 initial rays with 24 labels each
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: local involutions
+PASS: local commutation
+PASS: Bell aliases separate
+PASS: witness relative output rotation is phase squared
+PASS: common left multiplication descends on all Bell labels
+PASS: common left multiplication descends on all Bell labels
+PASS: common left multiplication descends on all Bell labels
+PASS: common left multiplication descends on all Bell labels
+PASS: common left multiplication descends on all Bell labels
+PASS: common left multiplication descends on all Bell labels
+PASS: common left multiplication descends on all Bell labels
+PASS: common left multiplication descends on all Bell labels
+PASS: common left multiplication descends on all Bell labels
+PASS: common left multiplication descends on all Bell labels
+PASS: common left multiplication descends on all Bell labels
+PASS: common left multiplication descends on all Bell labels
+PASS: common left multiplication descends on all Bell labels
+PASS: common left multiplication descends on all Bell labels
+PASS: common left multiplication descends on all Bell labels
+PASS: common left multiplication descends on all Bell labels
+PASS: common left multiplication descends on all Bell labels
+PASS: common left multiplication descends on all Bell labels
+PASS: common left multiplication descends on all Bell labels
+PASS: common left multiplication descends on all Bell labels
+PASS: common left multiplication descends on all Bell labels
+PASS: common left multiplication descends on all Bell labels
+PASS: common left multiplication descends on all Bell labels
+PASS: common left multiplication descends on all Bell labels
+PASS: refinement equals exhaustive four-word observation oracle
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient is a permutation
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient well defined
+PASS: quotient is a permutation
+PASS: independent expected quotient and context counts
+PASS: axial moment
+PASS: transverse moment
+PASS: moment difference
+PASS: unique sampled isotropic exception
+PASS: axial moment
+PASS: transverse moment
+PASS: moment difference
+PASS: unique sampled isotropic exception
+PASS: axial moment
+PASS: transverse moment
+PASS: moment difference
+PASS: unique sampled isotropic exception
+PASS: axial moment
+PASS: transverse moment
+PASS: moment difference
+PASS: unique sampled isotropic exception
+PASS: axial moment
+PASS: transverse moment
+PASS: moment difference
+PASS: unique sampled isotropic exception
+PASS: axial moment
+PASS: transverse moment
+PASS: moment difference
+PASS: unique sampled isotropic exception
+PASS: axial moment
+PASS: transverse moment
+PASS: moment difference
+PASS: unique sampled isotropic exception
+PASS: axial moment
+PASS: transverse moment
+PASS: moment difference
+PASS: unique sampled isotropic exception
+PASS: axial moment
+PASS: transverse moment
+PASS: moment difference
+PASS: unique sampled isotropic exception
+PASS: axial moment
+PASS: transverse moment
+PASS: moment difference
+PASS: unique sampled isotropic exception
+PASS: axial moment
+PASS: transverse moment
+PASS: moment difference
+PASS: unique sampled isotropic exception
+PASS: axial moment
+PASS: transverse moment
+PASS: moment difference
+PASS: unique sampled isotropic exception
+PASS: axial moment
+PASS: transverse moment
+PASS: moment difference
+PASS: unique sampled isotropic exception
+PASS: axial moment
+PASS: transverse moment
+PASS: moment difference
+PASS: unique sampled isotropic exception
+PASS: axial moment
+PASS: transverse moment
+PASS: moment difference
+PASS: unique sampled isotropic exception
+PASS: axial moment
+PASS: transverse moment
+PASS: moment difference
+PASS: unique sampled isotropic exception
+PASS: axial moment
+PASS: transverse moment
+PASS: moment difference
+PASS: unique sampled isotropic exception
+PASS: axial moment
+PASS: transverse moment
+PASS: moment difference
+PASS: unique sampled isotropic exception
+PASS: axial moment
+PASS: transverse moment
+PASS: moment difference
+PASS: unique sampled isotropic exception
+PASS: axial moment
+PASS: transverse moment
+PASS: moment difference
+PASS: unique sampled isotropic exception
+PASS: axial moment
+PASS: transverse moment
+PASS: moment difference
+PASS: unique sampled isotropic exception
+PASS: axial moment
+PASS: transverse moment
+PASS: moment difference
+PASS: unique sampled isotropic exception
+PASS: axial moment
+PASS: transverse moment
+PASS: moment difference
+PASS: unique sampled isotropic exception
+PASS: axial moment
+PASS: transverse moment
+PASS: moment difference
+PASS: unique sampled isotropic exception
+PASS: axial moment
+PASS: transverse moment
+PASS: moment difference
+PASS: unique sampled isotropic exception
+PASS: axial moment
+PASS: transverse moment
+PASS: moment difference
+PASS: unique sampled isotropic exception
+PASS: axial moment
+PASS: transverse moment
+PASS: moment difference
+PASS: unique sampled isotropic exception
+PASS: axial moment
+PASS: transverse moment
+PASS: moment difference
+PASS: unique sampled isotropic exception
+PASS: axial moment
+PASS: transverse moment
+PASS: moment difference
+PASS: unique sampled isotropic exception
+PASS: axial moment
+PASS: transverse moment
+PASS: moment difference
+PASS: unique sampled isotropic exception
+PASS: axial moment
+PASS: transverse moment
+PASS: moment difference
+PASS: unique sampled isotropic exception
+PASS: axial moment
+PASS: transverse moment
+PASS: moment difference
+PASS: unique sampled isotropic exception
+PASS: axial moment
+PASS: transverse moment
+PASS: moment difference
+PASS: unique sampled isotropic exception
+PASS: axial moment
+PASS: transverse moment
+PASS: moment difference
+PASS: unique sampled isotropic exception
+PASS: axial moment
+PASS: transverse moment
+PASS: moment difference
+PASS: unique sampled isotropic exception
+PASS: exact equal input and orthogonal outputs at L=4
+PASS: both witness remote marginals are maximally mixed
+PASS: C_2,4 is exactly the 24-rotation Clifford catalogue

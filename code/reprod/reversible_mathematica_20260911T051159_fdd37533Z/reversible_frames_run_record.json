@@ -1,0 +1,3633 @@
+{
+	"started_utc":"2026-09-11T05:11:59Z",
+	"script":"verify_reversible_frames.wl",
+	"script_version":"0.1",
+	"loaded_source_path":null,
+	"execution_mode":"interactive evaluation",
+	"script_sha256":null,
+	"source_hash_status":"unavailable; no executed source file was identified or hashing failed",
+	"record_directory_source":"saved notebook directory",
+	"record_directory":"\/Users\/njblost\/Library\/Mobile Documents\/com~apple~CloudDocs\/9. RS\/raqm-paper\/code\/reproducibility\/reversible_mathematica_20260911T051159_fdd37533Z",
+	"wolfram_version":"13.3.0 for Mac OS X ARM (64-bit) (April 11, 2023)",
+	"system_id":"MacOSX-ARM64",
+	"operating_system":"MacOSX",
+	"system_word_length":64,
+	"numeric_working_precision":50,
+	"numeric_tolerance":"1e-25",
+	"scope":"Exact arithmetic checks and separately identified numerical matrix checks; not interval certification.",
+	"finished_utc":"2026-09-11T05:11:59Z",
+	"status":"failed",
+	"checks":[
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact Haar slab volumes sum to one",
+			"passed":true
+		},
+		{
+			"label":"exact equal Haar cell volumes",
+			"passed":true
+		},
+		{
+			"label":"exact interior frames in assigned slabs",
+			"passed":true
+		},
+		{
+			"label":"exact Haar slab volumes sum to one",
+			"passed":true
+		},
+		{
+			"label":"exact equal Haar cell volumes",
+			"passed":true
+		},
+		{
+			"label":"exact interior frames in assigned slabs",
+			"passed":true
+		},
+		{
+			"label":"exact Haar slab volumes sum to one",
+			"passed":true
+		},
+		{
+			"label":"exact equal Haar cell volumes",
+			"passed":true
+		},
+		{
+			"label":"exact interior frames in assigned slabs",
+			"passed":true
+		},
+		{
+			"label":"exact Haar slab volumes sum to one",
+			"passed":true
+		},
+		{
+			"label":"exact equal Haar cell volumes",
+			"passed":true
+		},
+		{
+			"label":"exact interior frames in assigned slabs",
+			"passed":true
+		},
+		{
+			"label":"exact Haar slab volumes sum to one",
+			"passed":true
+		},
+		{
+			"label":"exact equal Haar cell volumes",
+			"passed":true
+		},
+		{
+			"label":"exact interior frames in assigned slabs",
+			"passed":true
+		},
+		{
+			"label":"exact Haar slab volumes sum to one",
+			"passed":true
+		},
+		{
+			"label":"exact equal Haar cell volumes",
+			"passed":true
+		},
+		{
+			"label":"exact interior frames in assigned slabs",
+			"passed":true
+		},
+		{
+			"label":"exact Haar slab volumes sum to one",
+			"passed":true
+		},
+		{
+			"label":"exact equal Haar cell volumes",
+			"passed":true
+		},
+		{
+			"label":"exact interior frames in assigned slabs",
+			"passed":true
+		},
+		{
+			"label":"exact Haar slab volumes sum to one",
+			"passed":true
+		},
+		{
+			"label":"exact equal Haar cell volumes",
+			"passed":true
+		},
+		{
+			"label":"exact interior frames in assigned slabs",
+			"passed":true
+		},
+		{
+			"label":"exact Haar slab volumes sum to one",
+			"passed":true
+		},
+		{
+			"label":"exact equal Haar cell volumes",
+			"passed":true
+		},
+		{
+			"label":"exact interior frames in assigned slabs",
+			"passed":true
+		},
+		{
+			"label":"exact Haar slab volumes sum to one",
+			"passed":true
+		},
+		{
+			"label":"exact equal Haar cell volumes",
+			"passed":true
+		},
+		{
+			"label":"exact interior frames in assigned slabs",
+			"passed":true
+		},
+		{
+			"label":"exact Haar slab volumes sum to one",
+			"passed":true
+		},
+		{
+			"label":"exact equal Haar cell volumes",
+			"passed":true
+		},
+		{
+			"label":"exact interior frames in assigned slabs",
+			"passed":true
+		},
+		{
+			"label":"exact Haar slab volumes sum to one",
+			"passed":true
+		},
+		{
+			"label":"exact equal Haar cell volumes",
+			"passed":true
+		},
+		{
+			"label":"exact interior frames in assigned slabs",
+			"passed":true
+		},
+		{
+			"label":"exact catalogue size",
+			"passed":true
+		},
+		{
+			"label":"exact matched label permutation",
+			"passed":false
+		}
+	],
+	"matching_rows":[],
+	"finite_maps_exhausted":288,
+	"history_rows":[]
+}

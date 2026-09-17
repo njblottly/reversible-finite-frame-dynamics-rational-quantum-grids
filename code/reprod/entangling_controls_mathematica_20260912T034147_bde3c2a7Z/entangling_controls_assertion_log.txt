@@ -1,0 +1,1326 @@
+"Enumerating exact Clifford frames..."
+<|"group_size" -> 11520, "local_subgroup_size" -> 576, "left_cosets" -> 20, "D" -> 2, "L" -> 4, "single_qubit_frames" -> 24, "initial_phase_pairs" -> 16, "complete_generator_transition_checks" -> 57600, "probability_rows" -> {<|"chronological_word" -> {"HA", "C"}, "probabilities" -> {"1/2", "0", "0", "1/2"}|>, <|"chronological_word" -> {"HA", "C", "SB", "HB", "C", "SA"}, "probabilities" -> {"1/4", "1/4", "1/4", "1/4"}|>, <|"chronological_word" -> {"HB", "SA", "C", "HA", "SB", "C", "HB"}, "probabilities" -> {"1/4", "1/4", "1/4", "1/4"}|>}, "scope" -> "Exact Clifford benchmark only; no non-Clifford CNOT table or numerical quotient radius certified."|>
+"All exact entangling-controller benchmark checks passed."
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: independent local H action
+PASS: independent local S action
+PASS: CNOT involution and XI/IZ images
+PASS: complete and local group orders
+PASS: unique 20-coset factorisation
+PASS: identity preparation chart
+PASS: HA complete transition permutation
+PASS: HA exact inverse on all frames
+PASS: HA retains nonlocal chart
+PASS: HA strictly local physical action
+PASS: HB complete transition permutation
+PASS: HB exact inverse on all frames
+PASS: HB retains nonlocal chart
+PASS: HB strictly local physical action
+PASS: SA complete transition permutation
+PASS: SA exact inverse on all frames
+PASS: SA retains nonlocal chart
+PASS: SA strictly local physical action
+PASS: SB complete transition permutation
+PASS: SB exact inverse on all frames
+PASS: SB retains nonlocal chart
+PASS: SB strictly local physical action
+PASS: C complete transition permutation
+PASS: C exact inverse on all frames
+PASS: CNOT echo restores all frames
+PASS: opposite Hadamards commute on all frames
+PASS: CNOT and conjugated local H are nonlocal
+PASS: H_A then CNOT creates Bell state
+PASS: Bell marginals exactly maximally mixed
+PASS: CNOT computational truth table
+PASS: CNOT computational truth table
+PASS: CNOT computational truth table
+PASS: CNOT computational truth table
+PASS: equal-density Bell preparation recipes
+PASS: entangling inverse word restores every frame
+PASS: compensated common unitary independent of phase
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: compensated common unitary independent of phase
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: compensated common unitary independent of phase
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: compensated common unitary independent of phase
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: compensated common unitary independent of phase
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: compensated common unitary independent of phase
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: compensated common unitary independent of phase
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: compensated common unitary independent of phase
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: compensated common unitary independent of phase
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: compensated common unitary independent of phase
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: compensated common unitary independent of phase
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: compensated common unitary independent of phase
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: compensated common unitary independent of phase
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: compensated common unitary independent of phase
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: compensated common unitary independent of phase
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: compensated common unitary independent of phase
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: equal-density recipes agree in every branch
+PASS: normalised exact computational readout
+PASS: entangling inverse word restores every frame
+PASS: compensated common unitary independent of phase
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: compensated common unitary independent of phase
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: compensated common unitary independent of phase
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: compensated common unitary independent of phase
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: compensated common unitary independent of phase
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: compensated common unitary independent of phase
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: compensated common unitary independent of phase
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: compensated common unitary independent of phase
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: compensated common unitary independent of phase
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: compensated common unitary independent of phase
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: compensated common unitary independent of phase
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: compensated common unitary independent of phase
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: compensated common unitary independent of phase
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: compensated common unitary independent of phase
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: compensated common unitary independent of phase
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: compensated common unitary independent of phase
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: equal-density recipes agree in every branch
+PASS: normalised exact computational readout
+PASS: entangling inverse word restores every frame
+PASS: compensated common unitary independent of phase
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: compensated common unitary independent of phase
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: compensated common unitary independent of phase
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: compensated common unitary independent of phase
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: compensated common unitary independent of phase
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: compensated common unitary independent of phase
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: compensated common unitary independent of phase
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: compensated common unitary independent of phase
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: compensated common unitary independent of phase
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: compensated common unitary independent of phase
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: compensated common unitary independent of phase
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: compensated common unitary independent of phase
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: compensated common unitary independent of phase
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: compensated common unitary independent of phase
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: compensated common unitary independent of phase
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: compensated common unitary independent of phase
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: direct compensation agrees with common channel
+PASS: seed recoverable after entangling word
+PASS: equal-density recipes agree in every branch
+PASS: normalised exact computational readout

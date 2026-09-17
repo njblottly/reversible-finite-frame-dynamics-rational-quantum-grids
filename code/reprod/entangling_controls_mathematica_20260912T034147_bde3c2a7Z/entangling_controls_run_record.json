@@ -1,0 +1,5374 @@
+{
+	"started_utc":"2026-09-12T03:41:47Z",
+	"script":"verify_entangling_controls.wl",
+	"script_version":"0.1",
+	"loaded_source_path":null,
+	"execution_mode":"interactive evaluation",
+	"script_sha256":null,
+	"source_hash_status":"unavailable; no executed source file was identified or hashing failed",
+	"record_directory_source":"saved notebook directory",
+	"record_directory":"\/Users\/njblost\/Library\/Mobile Documents\/com~apple~CloudDocs\/9. RS\/raqm-paper\/code\/reproducibility\/entangling_controls_mathematica_20260912T034147_bde3c2a7Z",
+	"wolfram_version":"13.3.0 for Mac OS X ARM (64-bit) (April 11, 2023)",
+	"system_id":"MacOSX-ARM64",
+	"operating_system":"MacOSX",
+	"system_word_length":64,
+	"arithmetic":"exact integer, rational and symbolic",
+	"scope":"Exact Clifford benchmark only; the refining H\/T\/CNOT construction is an analytic theorem, not a computed table.",
+	"finished_utc":"2026-09-12T03:41:49Z",
+	"status":"passed",
+	"checks":[
+		{
+			"label":"matrix conjugation is a signed Pauli image",
+			"passed":true
+		},
+		{
+			"label":"matrix conjugation is a signed Pauli image",
+			"passed":true
+		},
+		{
+			"label":"matrix conjugation is a signed Pauli image",
+			"passed":true
+		},
+		{
+			"label":"matrix conjugation is a signed Pauli image",
+			"passed":true
+		},
+		{
+			"label":"matrix conjugation is a signed Pauli image",
+			"passed":true
+		},
+		{
+			"label":"matrix conjugation is a signed Pauli image",
+			"passed":true
+		},
+		{
+			"label":"matrix conjugation is a signed Pauli image",
+			"passed":true
+		},
+		{
+			"label":"matrix conjugation is a signed Pauli image",
+			"passed":true
+		},
+		{
+			"label":"matrix conjugation is a signed Pauli image",
+			"passed":true
+		},
+		{
+			"label":"matrix conjugation is a signed Pauli image",
+			"passed":true
+		},
+		{
+			"label":"matrix conjugation is a signed Pauli image",
+			"passed":true
+		},
+		{
+			"label":"matrix conjugation is a signed Pauli image",
+			"passed":true
+		},
+		{
+			"label":"matrix conjugation is a signed Pauli image",
+			"passed":true
+		},
+		{
+			"label":"matrix conjugation is a signed Pauli image",
+			"passed":true
+		},
+		{
+			"label":"matrix conjugation is a signed Pauli image",
+			"passed":true
+		},
+		{
+			"label":"matrix conjugation is a signed Pauli image",
+			"passed":true
+		},
+		{
+			"label":"matrix conjugation is a signed Pauli image",
+			"passed":true
+		},
+		{
+			"label":"matrix conjugation is a signed Pauli image",
+			"passed":true
+		},
+		{
+			"label":"matrix conjugation is a signed Pauli image",
+			"passed":true
+		},
+		{
+			"label":"matrix conjugation is a signed Pauli image",
+			"passed":true
+		},
+		{
+			"label":"matrix conjugation is a signed Pauli image",
+			"passed":true
+		},
+		{
+			"label":"matrix conjugation is a signed Pauli image",
+			"passed":true
+		},
+		{
+			"label":"matrix conjugation is a signed Pauli image",
+			"passed":true
+		},
+		{
+			"label":"matrix conjugation is a signed Pauli image",
+			"passed":true
+		},
+		{
+			"label":"matrix conjugation is a signed Pauli image",
+			"passed":true
+		},
+		{
+			"label":"matrix conjugation is a signed Pauli image",
+			"passed":true
+		},
+		{
+			"label":"matrix conjugation is a signed Pauli image",
+			"passed":true
+		},
+		{
+			"label":"matrix conjugation is a signed Pauli image",
+			"passed":true
+		},
+		{
+			"label":"matrix conjugation is a signed Pauli image",
+			"passed":true
+		},
+		{
+			"label":"matrix conjugation is a signed Pauli image",
+			"passed":true
+		},
+		{
+			"label":"matrix conjugation is a signed Pauli image",
+			"passed":true
+		},
+		{
+			"label":"matrix conjugation is a signed Pauli image",
+			"passed":true
+		},
+		{
+			"label":"matrix conjugation is a signed Pauli image",
+			"passed":true
+		},
+		{
+			"label":"matrix conjugation is a signed Pauli image",
+			"passed":true
+		},
+		{
+			"label":"matrix conjugation is a signed Pauli image",
+			"passed":true
+		},
+		{
+			"label":"matrix conjugation is a signed Pauli image",
+			"passed":true
+		},
+		{
+			"label":"matrix conjugation is a signed Pauli image",
+			"passed":true
+		},
+		{
+			"label":"matrix conjugation is a signed Pauli image",
+			"passed":true
+		},
+		{
+			"label":"matrix conjugation is a signed Pauli image",
+			"passed":true
+		},
+		{
+			"label":"matrix conjugation is a signed Pauli image",
+			"passed":true
+		},
+		{
+			"label":"matrix conjugation is a signed Pauli image",
+			"passed":true
+		},
+		{
+			"label":"matrix conjugation is a signed Pauli image",
+			"passed":true
+		},
+		{
+			"label":"matrix conjugation is a signed Pauli image",
+			"passed":true
+		},
+		{
+			"label":"matrix conjugation is a signed Pauli image",
+			"passed":true
+		},
+		{
+			"label":"matrix conjugation is a signed Pauli image",
+			"passed":true
+		},
+		{
+			"label":"matrix conjugation is a signed Pauli image",
+			"passed":true
+		},
+		{
+			"label":"matrix conjugation is a signed Pauli image",
+			"passed":true
+		},
+		{
+			"label":"matrix conjugation is a signed Pauli image",
+			"passed":true
+		},
+		{
+			"label":"matrix conjugation is a signed Pauli image",
+			"passed":true
+		},
+		{
+			"label":"matrix conjugation is a signed Pauli image",
+			"passed":true
+		},
+		{
+			"label":"matrix conjugation is a signed Pauli image",
+			"passed":true
+		},
+		{
+			"label":"matrix conjugation is a signed Pauli image",
+			"passed":true
+		},
+		{
+			"label":"matrix conjugation is a signed Pauli image",
+			"passed":true
+		},
+		{
+			"label":"matrix conjugation is a signed Pauli image",
+			"passed":true
+		},
+		{
+			"label":"matrix conjugation is a signed Pauli image",
+			"passed":true
+		},
+		{
+			"label":"matrix conjugation is a signed Pauli image",
+			"passed":true
+		},
+		{
+			"label":"matrix conjugation is a signed Pauli image",
+			"passed":true
+		},
+		{
+			"label":"matrix conjugation is a signed Pauli image",
+			"passed":true
+		},
+		{
+			"label":"matrix conjugation is a signed Pauli image",
+			"passed":true
+		},
+		{
+			"label":"matrix conjugation is a signed Pauli image",
+			"passed":true
+		},
+		{
+			"label":"matrix conjugation is a signed Pauli image",
+			"passed":true
+		},
+		{
+			"label":"matrix conjugation is a signed Pauli image",
+			"passed":true
+		},
+		{
+			"label":"matrix conjugation is a signed Pauli image",
+			"passed":true
+		},
+		{
+			"label":"matrix conjugation is a signed Pauli image",
+			"passed":true
+		},
+		{
+			"label":"matrix conjugation is a signed Pauli image",
+			"passed":true
+		},
+		{
+			"label":"matrix conjugation is a signed Pauli image",
+			"passed":true
+		},
+		{
+			"label":"matrix conjugation is a signed Pauli image",
+			"passed":true
+		},
+		{
+			"label":"matrix conjugation is a signed Pauli image",
+			"passed":true
+		},
+		{
+			"label":"matrix conjugation is a signed Pauli image",
+			"passed":true
+		},
+		{
+			"label":"matrix conjugation is a signed Pauli image",
+			"passed":true
+		},
+		{
+			"label":"matrix conjugation is a signed Pauli image",
+			"passed":true
+		},
+		{
+			"label":"matrix conjugation is a signed Pauli image",
+			"passed":true
+		},
+		{
+			"label":"matrix conjugation is a signed Pauli image",
+			"passed":true
+		},
+		{
+			"label":"matrix conjugation is a signed Pauli image",
+			"passed":true
+		},
+		{
+			"label":"matrix conjugation is a signed Pauli image",
+			"passed":true
+		},
+		{
+			"label":"matrix conjugation is a signed Pauli image",
+			"passed":true
+		},
+		{
+			"label":"matrix conjugation is a signed Pauli image",
+			"passed":true
+		},
+		{
+			"label":"matrix conjugation is a signed Pauli image",
+			"passed":true
+		},
+		{
+			"label":"matrix conjugation is a signed Pauli image",
+			"passed":true
+		},
+		{
+			"label":"matrix conjugation is a signed Pauli image",
+			"passed":true
+		},
+		{
+			"label":"independent local H action",
+			"passed":true
+		},
+		{
+			"label":"independent local S action",
+			"passed":true
+		},
+		{
+			"label":"CNOT involution and XI\/IZ images",
+			"passed":true
+		},
+		{
+			"label":"complete and local group orders",
+			"passed":true
+		},
+		{
+			"label":"unique 20-coset factorisation",
+			"passed":true
+		},
+		{
+			"label":"identity preparation chart",
+			"passed":true
+		},
+		{
+			"label":"HA complete transition permutation",
+			"passed":true
+		},
+		{
+			"label":"HA exact inverse on all frames",
+			"passed":true
+		},
+		{
+			"label":"HA retains nonlocal chart",
+			"passed":true
+		},
+		{
+			"label":"HA strictly local physical action",
+			"passed":true
+		},
+		{
+			"label":"HB complete transition permutation",
+			"passed":true
+		},
+		{
+			"label":"HB exact inverse on all frames",
+			"passed":true
+		},
+		{
+			"label":"HB retains nonlocal chart",
+			"passed":true
+		},
+		{
+			"label":"HB strictly local physical action",
+			"passed":true
+		},
+		{
+			"label":"SA complete transition permutation",
+			"passed":true
+		},
+		{
+			"label":"SA exact inverse on all frames",
+			"passed":true
+		},
+		{
+			"label":"SA retains nonlocal chart",
+			"passed":true
+		},
+		{
+			"label":"SA strictly local physical action",
+			"passed":true
+		},
+		{
+			"label":"SB complete transition permutation",
+			"passed":true
+		},
+		{
+			"label":"SB exact inverse on all frames",
+			"passed":true
+		},
+		{
+			"label":"SB retains nonlocal chart",
+			"passed":true
+		},
+		{
+			"label":"SB strictly local physical action",
+			"passed":true
+		},
+		{
+			"label":"C complete transition permutation",
+			"passed":true
+		},
+		{
+			"label":"C exact inverse on all frames",
+			"passed":true
+		},
+		{
+			"label":"CNOT echo restores all frames",
+			"passed":true
+		},
+		{
+			"label":"opposite Hadamards commute on all frames",
+			"passed":true
+		},
+		{
+			"label":"CNOT and conjugated local H are nonlocal",
+			"passed":true
+		},
+		{
+			"label":"H_A then CNOT creates Bell state",
+			"passed":true
+		},
+		{
+			"label":"Bell marginals exactly maximally mixed",
+			"passed":true
+		},
+		{
+			"label":"CNOT computational truth table",
+			"passed":true
+		},
+		{
+			"label":"CNOT computational truth table",
+			"passed":true
+		},
+		{
+			"label":"CNOT computational truth table",
+			"passed":true
+		},
+		{
+			"label":"CNOT computational truth table",
+			"passed":true
+		},
+		{
+			"label":"equal-density Bell preparation recipes",
+			"passed":true
+		},
+		{
+			"label":"entangling inverse word restores every frame",
+			"passed":true
+		},
+		{
+			"label":"compensated common unitary independent of phase",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"compensated common unitary independent of phase",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"compensated common unitary independent of phase",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"compensated common unitary independent of phase",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"compensated common unitary independent of phase",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"compensated common unitary independent of phase",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"compensated common unitary independent of phase",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"compensated common unitary independent of phase",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"compensated common unitary independent of phase",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"compensated common unitary independent of phase",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"compensated common unitary independent of phase",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"compensated common unitary independent of phase",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"compensated common unitary independent of phase",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"compensated common unitary independent of phase",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"compensated common unitary independent of phase",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"compensated common unitary independent of phase",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"equal-density recipes agree in every branch",
+			"passed":true
+		},
+		{
+			"label":"normalised exact computational readout",
+			"passed":true
+		},
+		{
+			"label":"entangling inverse word restores every frame",
+			"passed":true
+		},
+		{
+			"label":"compensated common unitary independent of phase",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"compensated common unitary independent of phase",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"compensated common unitary independent of phase",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"compensated common unitary independent of phase",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"compensated common unitary independent of phase",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"compensated common unitary independent of phase",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"compensated common unitary independent of phase",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"compensated common unitary independent of phase",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"compensated common unitary independent of phase",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"compensated common unitary independent of phase",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"compensated common unitary independent of phase",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"compensated common unitary independent of phase",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"compensated common unitary independent of phase",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"compensated common unitary independent of phase",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"compensated common unitary independent of phase",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"compensated common unitary independent of phase",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"equal-density recipes agree in every branch",
+			"passed":true
+		},
+		{
+			"label":"normalised exact computational readout",
+			"passed":true
+		},
+		{
+			"label":"entangling inverse word restores every frame",
+			"passed":true
+		},
+		{
+			"label":"compensated common unitary independent of phase",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"compensated common unitary independent of phase",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"compensated common unitary independent of phase",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"compensated common unitary independent of phase",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"compensated common unitary independent of phase",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"compensated common unitary independent of phase",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"compensated common unitary independent of phase",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"compensated common unitary independent of phase",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"compensated common unitary independent of phase",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"compensated common unitary independent of phase",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"compensated common unitary independent of phase",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"compensated common unitary independent of phase",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"compensated common unitary independent of phase",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"compensated common unitary independent of phase",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"compensated common unitary independent of phase",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"compensated common unitary independent of phase",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"direct compensation agrees with common channel",
+			"passed":true
+		},
+		{
+			"label":"seed recoverable after entangling word",
+			"passed":true
+		},
+		{
+			"label":"equal-density recipes agree in every branch",
+			"passed":true
+		},
+		{
+			"label":"normalised exact computational readout",
+			"passed":true
+		}
+	],
+	"passed_assertions":1323,
+	"total_assertions":1323,
+	"last_case":"compensated preparation and entangling word channels",
+	"summary":{
+		"group_size":11520,
+		"local_subgroup_size":576,
+		"left_cosets":20,
+		"D":2,
+		"L":4,
+		"single_qubit_frames":24,
+		"initial_phase_pairs":16,
+		"complete_generator_transition_checks":57600,
+		"probability_rows":[
+			{
+				"chronological_word":[
+					"HA",
+					"C"
+				],
+				"probabilities":[
+					"1\/2",
+					"0",
+					"0",
+					"1\/2"
+				]
+			},
+			{
+				"chronological_word":[
+					"HA",
+					"C",
+					"SB",
+					"HB",
+					"C",
+					"SA"
+				],
+				"probabilities":[
+					"1\/4",
+					"1\/4",
+					"1\/4",
+					"1\/4"
+				]
+			},
+			{
+				"chronological_word":[
+					"HB",
+					"SA",
+					"C",
+					"HA",
+					"SB",
+					"C",
+					"HB"
+				],
+				"probabilities":[
+					"1\/4",
+					"1\/4",
+					"1\/4",
+					"1\/4"
+				]
+			}
+		],
+		"scope":"Exact Clifford benchmark only; no non-Clifford CNOT table or numerical quotient radius certified."
+	}
+}

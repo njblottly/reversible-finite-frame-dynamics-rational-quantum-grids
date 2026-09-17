@@ -1,0 +1,209 @@
+{
+  "arithmetic": "exact integers and fractions; no numerical tolerances",
+  "scope": "ray-level conditional grid and occupation-compatible subset; not a hidden-variable dynamics",
+  "grid_checks": [
+    {
+      "L": 4,
+      "conditional_probability_points": 85,
+      "occupation_compatible_probability_points": 27,
+      "permutation_stabiliser_orders": [
+        8,
+        8
+      ]
+    },
+    {
+      "L": 8,
+      "conditional_probability_points": 585,
+      "occupation_compatible_probability_points": 77,
+      "permutation_stabiliser_orders": [
+        8,
+        8
+      ]
+    },
+    {
+      "L": 16,
+      "conditional_probability_points": 4369,
+      "occupation_compatible_probability_points": 233,
+      "permutation_stabiliser_orders": [
+        8,
+        8
+      ]
+    }
+  ],
+  "monomial_group_checks": [
+    {
+      "L": 4,
+      "generated_order": 512,
+      "expected_order": 512,
+      "inverse_and_basis_action_checks": "passed"
+    },
+    {
+      "L": 8,
+      "generated_order": 4096,
+      "expected_order": 4096,
+      "inverse_and_basis_action_checks": "passed"
+    }
+  ],
+  "counterexamples": {
+    "swap": {
+      "input": [
+        "1/4",
+        "1/4",
+        "1/2",
+        "0"
+      ],
+      "output": [
+        "1/4",
+        "1/2",
+        "1/4",
+        "0"
+      ],
+      "output_conditionals": [
+        "3/4",
+        "1/3",
+        "1"
+      ],
+      "general_proof": "1/3 is not dyadic; valid for every L=2^M with M>=2"
+    },
+    "occupation": {
+      "L": 4,
+      "probabilities": [
+        "1/16",
+        "3/16",
+        "3/16",
+        "9/16"
+      ]
+    },
+    "hadamard_intermediate": {
+      "probability": "(2+sqrt(3))/4",
+      "irreducible_polynomial": "16*p^2-16*p+1",
+      "discriminant": 192,
+      "H_A_squared": "identity; endpoint membership does not ensure path membership"
+    },
+    "independent_spectral_rounding": {
+      "L": 8,
+      "local_coefficients_in_epsilon_L_units": [
+        "2/5",
+        "2/5"
+      ],
+      "whole_spectrum_phase_exponents": [
+        0,
+        0,
+        0,
+        7
+      ],
+      "separately_quantised_exponents": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "spurious_concurrence_on_plus_plus": "sin(pi/L)"
+    }
+  },
+  "entangling_interference_circuit": [
+    {
+      "operation": "prepare |00>",
+      "amplitude_numerators": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "sqrt2_denominator_power": 0,
+      "probabilities": [
+        "1",
+        "0",
+        "0",
+        "0"
+      ],
+      "concurrence_squared": "0"
+    },
+    {
+      "operation": "H_A",
+      "amplitude_numerators": [
+        1,
+        0,
+        1,
+        0
+      ],
+      "sqrt2_denominator_power": 1,
+      "probabilities": [
+        "1/2",
+        "0",
+        "1/2",
+        "0"
+      ],
+      "concurrence_squared": "0"
+    },
+    {
+      "operation": "CNOT_A_to_B",
+      "amplitude_numerators": [
+        1,
+        0,
+        0,
+        1
+      ],
+      "sqrt2_denominator_power": 1,
+      "probabilities": [
+        "1/2",
+        "0",
+        "0",
+        "1/2"
+      ],
+      "concurrence_squared": "1"
+    },
+    {
+      "operation": "CZ",
+      "amplitude_numerators": [
+        1,
+        0,
+        0,
+        -1
+      ],
+      "sqrt2_denominator_power": 1,
+      "probabilities": [
+        "1/2",
+        "0",
+        "0",
+        "1/2"
+      ],
+      "concurrence_squared": "1"
+    },
+    {
+      "operation": "CNOT_A_to_B",
+      "amplitude_numerators": [
+        1,
+        0,
+        -1,
+        0
+      ],
+      "sqrt2_denominator_power": 1,
+      "probabilities": [
+        "1/2",
+        "0",
+        "1/2",
+        "0"
+      ],
+      "concurrence_squared": "0"
+    },
+    {
+      "operation": "H_A",
+      "amplitude_numerators": [
+        0,
+        0,
+        2,
+        0
+      ],
+      "sqrt2_denominator_power": 2,
+      "probabilities": [
+        "0",
+        "0",
+        "1",
+        "0"
+      ],
+      "concurrence_squared": "0"
+    }
+  ],
+  "status": "all checks passed"
+}

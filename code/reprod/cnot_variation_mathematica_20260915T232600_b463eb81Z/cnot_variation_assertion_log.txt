@@ -1,0 +1,327 @@
+PASS: scan horizon at least seven
+PASS: R=ZH=(I+iY)/sqrt(2) is unitary
+PASS: quarter-turn Clifford action
+PASS: exact quarter-turn error certificate
+PASS: bijective unitary left multiplier
+PASS: single nonzero Pauli coefficient
+PASS: unit signed Pauli coefficient
+PASS: single nonzero Pauli coefficient
+PASS: unit signed Pauli coefficient
+PASS: single nonzero Pauli coefficient
+PASS: unit signed Pauli coefficient
+PASS: single nonzero Pauli coefficient
+PASS: unit signed Pauli coefficient
+PASS: single nonzero Pauli coefficient
+PASS: unit signed Pauli coefficient
+PASS: single nonzero Pauli coefficient
+PASS: unit signed Pauli coefficient
+PASS: single nonzero Pauli coefficient
+PASS: unit signed Pauli coefficient
+PASS: single nonzero Pauli coefficient
+PASS: unit signed Pauli coefficient
+PASS: single nonzero Pauli coefficient
+PASS: unit signed Pauli coefficient
+PASS: single nonzero Pauli coefficient
+PASS: unit signed Pauli coefficient
+PASS: single nonzero Pauli coefficient
+PASS: unit signed Pauli coefficient
+PASS: single nonzero Pauli coefficient
+PASS: unit signed Pauli coefficient
+PASS: single nonzero Pauli coefficient
+PASS: unit signed Pauli coefficient
+PASS: single nonzero Pauli coefficient
+PASS: unit signed Pauli coefficient
+PASS: single nonzero Pauli coefficient
+PASS: unit signed Pauli coefficient
+PASS: single nonzero Pauli coefficient
+PASS: unit signed Pauli coefficient
+PASS: exact calibrated CNOT type
+PASS: bijective unitary left multiplier
+PASS: single nonzero Pauli coefficient
+PASS: unit signed Pauli coefficient
+PASS: single nonzero Pauli coefficient
+PASS: unit signed Pauli coefficient
+PASS: single nonzero Pauli coefficient
+PASS: unit signed Pauli coefficient
+PASS: single nonzero Pauli coefficient
+PASS: unit signed Pauli coefficient
+PASS: single nonzero Pauli coefficient
+PASS: unit signed Pauli coefficient
+PASS: single nonzero Pauli coefficient
+PASS: unit signed Pauli coefficient
+PASS: single nonzero Pauli coefficient
+PASS: unit signed Pauli coefficient
+PASS: single nonzero Pauli coefficient
+PASS: unit signed Pauli coefficient
+PASS: single nonzero Pauli coefficient
+PASS: unit signed Pauli coefficient
+PASS: single nonzero Pauli coefficient
+PASS: unit signed Pauli coefficient
+PASS: single nonzero Pauli coefficient
+PASS: unit signed Pauli coefficient
+PASS: single nonzero Pauli coefficient
+PASS: unit signed Pauli coefficient
+PASS: single nonzero Pauli coefficient
+PASS: unit signed Pauli coefficient
+PASS: single nonzero Pauli coefficient
+PASS: unit signed Pauli coefficient
+PASS: single nonzero Pauli coefficient
+PASS: unit signed Pauli coefficient
+PASS: single nonzero Pauli coefficient
+PASS: unit signed Pauli coefficient
+PASS: unchanged odd-target CNOT spectrum
+PASS: bijective unitary left multiplier
+PASS: single nonzero Pauli coefficient
+PASS: unit signed Pauli coefficient
+PASS: single nonzero Pauli coefficient
+PASS: unit signed Pauli coefficient
+PASS: single nonzero Pauli coefficient
+PASS: unit signed Pauli coefficient
+PASS: single nonzero Pauli coefficient
+PASS: unit signed Pauli coefficient
+PASS: single nonzero Pauli coefficient
+PASS: unit signed Pauli coefficient
+PASS: single nonzero Pauli coefficient
+PASS: unit signed Pauli coefficient
+PASS: single nonzero Pauli coefficient
+PASS: unit signed Pauli coefficient
+PASS: single nonzero Pauli coefficient
+PASS: unit signed Pauli coefficient
+PASS: single nonzero Pauli coefficient
+PASS: unit signed Pauli coefficient
+PASS: single nonzero Pauli coefficient
+PASS: unit signed Pauli coefficient
+PASS: single nonzero Pauli coefficient
+PASS: unit signed Pauli coefficient
+PASS: single nonzero Pauli coefficient
+PASS: unit signed Pauli coefficient
+PASS: single nonzero Pauli coefficient
+PASS: unit signed Pauli coefficient
+PASS: single nonzero Pauli coefficient
+PASS: unit signed Pauli coefficient
+PASS: single nonzero Pauli coefficient
+PASS: unit signed Pauli coefficient
+PASS: single nonzero Pauli coefficient
+PASS: unit signed Pauli coefficient
+PASS: modified CNOT type
+PASS: bijective unitary left multiplier
+PASS: single nonzero Pauli coefficient
+PASS: unit signed Pauli coefficient
+PASS: single nonzero Pauli coefficient
+PASS: unit signed Pauli coefficient
+PASS: single nonzero Pauli coefficient
+PASS: unit signed Pauli coefficient
+PASS: single nonzero Pauli coefficient
+PASS: unit signed Pauli coefficient
+PASS: single nonzero Pauli coefficient
+PASS: unit signed Pauli coefficient
+PASS: single nonzero Pauli coefficient
+PASS: unit signed Pauli coefficient
+PASS: single nonzero Pauli coefficient
+PASS: unit signed Pauli coefficient
+PASS: single nonzero Pauli coefficient
+PASS: unit signed Pauli coefficient
+PASS: single nonzero Pauli coefficient
+PASS: unit signed Pauli coefficient
+PASS: single nonzero Pauli coefficient
+PASS: unit signed Pauli coefficient
+PASS: single nonzero Pauli coefficient
+PASS: unit signed Pauli coefficient
+PASS: single nonzero Pauli coefficient
+PASS: unit signed Pauli coefficient
+PASS: single nonzero Pauli coefficient
+PASS: unit signed Pauli coefficient
+PASS: single nonzero Pauli coefficient
+PASS: unit signed Pauli coefficient
+PASS: single nonzero Pauli coefficient
+PASS: unit signed Pauli coefficient
+PASS: single nonzero Pauli coefficient
+PASS: unit signed Pauli coefficient
+PASS: unchanged odd-target CNOT spectrum
+PASS: CNOT calibration I <-> C
+PASS: CNOT calibration H_A <-> C H_A
+PASS: Hadamard calibration
+PASS: unchanged Hadamard error bound
+PASS: frame carries equal direct physical composition
+PASS: rational probabilities
+PASS: single nonzero Pauli coefficient
+PASS: unit signed Pauli coefficient
+PASS: single nonzero Pauli coefficient
+PASS: unit signed Pauli coefficient
+PASS: hand-derived stabilisers at depth 0
+PASS: ideal probability at depth 0
+PASS: frame carries equal direct physical composition
+PASS: rational probabilities
+PASS: single nonzero Pauli coefficient
+PASS: unit signed Pauli coefficient
+PASS: single nonzero Pauli coefficient
+PASS: unit signed Pauli coefficient
+PASS: hand-derived stabilisers at depth 1
+PASS: ideal probability at depth 1
+PASS: frame carries equal direct physical composition
+PASS: rational probabilities
+PASS: single nonzero Pauli coefficient
+PASS: unit signed Pauli coefficient
+PASS: single nonzero Pauli coefficient
+PASS: unit signed Pauli coefficient
+PASS: hand-derived stabilisers at depth 2
+PASS: ideal probability at depth 2
+PASS: frame carries equal direct physical composition
+PASS: rational probabilities
+PASS: single nonzero Pauli coefficient
+PASS: unit signed Pauli coefficient
+PASS: single nonzero Pauli coefficient
+PASS: unit signed Pauli coefficient
+PASS: hand-derived stabilisers at depth 3
+PASS: ideal probability at depth 3
+PASS: frame carries equal direct physical composition
+PASS: rational probabilities
+PASS: single nonzero Pauli coefficient
+PASS: unit signed Pauli coefficient
+PASS: single nonzero Pauli coefficient
+PASS: unit signed Pauli coefficient
+PASS: hand-derived stabilisers at depth 4
+PASS: ideal probability at depth 4
+PASS: frame carries equal direct physical composition
+PASS: rational probabilities
+PASS: single nonzero Pauli coefficient
+PASS: unit signed Pauli coefficient
+PASS: single nonzero Pauli coefficient
+PASS: unit signed Pauli coefficient
+PASS: hand-derived stabilisers at depth 5
+PASS: ideal probability at depth 5
+PASS: frame carries equal direct physical composition
+PASS: rational probabilities
+PASS: single nonzero Pauli coefficient
+PASS: unit signed Pauli coefficient
+PASS: single nonzero Pauli coefficient
+PASS: unit signed Pauli coefficient
+PASS: hand-derived stabilisers at depth 6
+PASS: ideal probability at depth 6
+PASS: frame carries equal direct physical composition
+PASS: rational probabilities
+PASS: single nonzero Pauli coefficient
+PASS: unit signed Pauli coefficient
+PASS: single nonzero Pauli coefficient
+PASS: unit signed Pauli coefficient
+PASS: hand-derived stabilisers at depth 7
+PASS: ideal probability at depth 7
+PASS: frame carries equal direct physical composition
+PASS: rational probabilities
+PASS: frame carries equal direct physical composition
+PASS: rational probabilities
+PASS: frame carries equal direct physical composition
+PASS: rational probabilities
+PASS: frame carries equal direct physical composition
+PASS: rational probabilities
+PASS: frame carries equal direct physical composition
+PASS: rational probabilities
+PASS: frame carries equal direct physical composition
+PASS: rational probabilities
+PASS: frame carries equal direct physical composition
+PASS: rational probabilities
+PASS: frame carries equal direct physical composition
+PASS: rational probabilities
+PASS: frame carries equal direct physical composition
+PASS: rational probabilities
+PASS: frame carries equal direct physical composition
+PASS: rational probabilities
+PASS: frame carries equal direct physical composition
+PASS: rational probabilities
+PASS: frame carries equal direct physical composition
+PASS: rational probabilities
+PASS: frame carries equal direct physical composition
+PASS: rational probabilities
+PASS: frame carries equal direct physical composition
+PASS: rational probabilities
+PASS: frame carries equal direct physical composition
+PASS: rational probabilities
+PASS: frame carries equal direct physical composition
+PASS: rational probabilities
+PASS: frame carries equal direct physical composition
+PASS: rational probabilities
+PASS: frame carries equal direct physical composition
+PASS: rational probabilities
+PASS: frame carries equal direct physical composition
+PASS: rational probabilities
+PASS: frame carries equal direct physical composition
+PASS: rational probabilities
+PASS: frame carries equal direct physical composition
+PASS: rational probabilities
+PASS: frame carries equal direct physical composition
+PASS: rational probabilities
+PASS: frame carries equal direct physical composition
+PASS: rational probabilities
+PASS: frame carries equal direct physical composition
+PASS: rational probabilities
+PASS: frame carries equal direct physical composition
+PASS: rational probabilities
+PASS: frame carries equal direct physical composition
+PASS: rational probabilities
+PASS: frame carries equal direct physical composition
+PASS: rational probabilities
+PASS: frame carries equal direct physical composition
+PASS: rational probabilities
+PASS: frame carries equal direct physical composition
+PASS: rational probabilities
+PASS: frame carries equal direct physical composition
+PASS: rational probabilities
+PASS: frame carries equal direct physical composition
+PASS: rational probabilities
+PASS: frame carries equal direct physical composition
+PASS: rational probabilities
+PASS: frame carries equal direct physical composition
+PASS: rational probabilities
+PASS: frame carries equal direct physical composition
+PASS: rational probabilities
+PASS: frame carries equal direct physical composition
+PASS: rational probabilities
+PASS: frame carries equal direct physical composition
+PASS: rational probabilities
+PASS: frame carries equal direct physical composition
+PASS: rational probabilities
+PASS: frame carries equal direct physical composition
+PASS: rational probabilities
+PASS: frame carries equal direct physical composition
+PASS: rational probabilities
+PASS: frame carries equal direct physical composition
+PASS: rational probabilities
+PASS: frame carries equal direct physical composition
+PASS: rational probabilities
+PASS: frame carries equal direct physical composition
+PASS: rational probabilities
+PASS: frame carries equal direct physical composition
+PASS: rational probabilities
+PASS: frame carries equal direct physical composition
+PASS: rational probabilities
+PASS: frame carries equal direct physical composition
+PASS: rational probabilities
+PASS: frame carries equal direct physical composition
+PASS: rational probabilities
+PASS: frame carries equal direct physical composition
+PASS: rational probabilities
+PASS: frame carries equal direct physical composition
+PASS: rational probabilities
+PASS: frame carries equal direct physical composition
+PASS: rational probabilities
+PASS: frame carries equal direct physical composition
+PASS: rational probabilities
+PASS: frame carries equal direct physical composition
+PASS: rational probabilities
+PASS: frame carries equal direct physical composition
+PASS: rational probabilities
+PASS: frame carries equal direct physical composition
+PASS: rational probabilities
+PASS: frame carries equal direct physical composition
+PASS: rational probabilities
+PASS: frame carries equal direct physical composition
+PASS: rational probabilities
+PASS: frame carries equal direct physical composition
+PASS: rational probabilities
+PASS: frame carries equal direct physical composition
+PASS: rational probabilities
+PASS: counterexample history through seven
+PASS: whole-history maximum discrepancy is one quarter
+PASS: seven-block discrepancy is one sixteenth
+PASS: joint probabilities at seven
+PASS: no strict one-third crossing through seven

@@ -1,0 +1,4626 @@
+{
+	"started_utc":"2026-09-08T05:13:32Z",
+	"script":"verify_nominal_gates.wl",
+	"script_version":"0.2",
+	"loaded_source_path":null,
+	"execution_mode":"interactive evaluation",
+	"script_sha256":null,
+	"source_hash_status":"unavailable; no executed source file was identified or hashing failed",
+	"record_directory_source":"saved notebook directory",
+	"record_directory":"\/Users\/njblost\/Library\/Mobile Documents\/com~apple~CloudDocs\/9. RS\/raqm-paper\/code\/reproducibility\/mathematica_20260908T051332_324e186dZ",
+	"wolfram_version":"13.3.0 for Mac OS X ARM (64-bit) (April 11, 2023)",
+	"system_id":"MacOSX-ARM64",
+	"operating_system":"MacOSX",
+	"system_word_length":64,
+	"numeric_working_precision":50,
+	"numeric_tolerance":"1e-25",
+	"scope":"Exact arithmetic checks and separately identified numerical matrix checks; not interval certification.",
+	"finished_utc":"2026-09-08T05:13:33Z",
+	"status":"passed",
+	"checks":[
+		{
+			"label":"exact allocation union L=4",
+			"passed":true
+		},
+		{
+			"label":"exact allocation union L=8",
+			"passed":true
+		},
+		{
+			"label":"exact allocation union L=16",
+			"passed":true
+		},
+		{
+			"label":"exact local obstruction L=4",
+			"passed":true
+		},
+		{
+			"label":"exact local obstruction L=8",
+			"passed":true
+		},
+		{
+			"label":"exact local obstruction L=16",
+			"passed":true
+		},
+		{
+			"label":"exact local obstruction L=64",
+			"passed":true
+		},
+		{
+			"label":"exact local obstruction L=256",
+			"passed":true
+		},
+		{
+			"label":"exact sharp local norm gap",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact output probability certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical covering bound",
+			"passed":true
+		},
+		{
+			"label":"numerical correction unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical correction action",
+			"passed":true
+		},
+		{
+			"label":"exact fixed-marginal local recovery",
+			"passed":true
+		},
+		{
+			"label":"exact fixed B marginal",
+			"passed":true
+		}
+	],
+	"allocation_rows":[
+		[
+			4,
+			27,
+			27
+		],
+		[
+			8,
+			77,
+			77
+		],
+		[
+			16,
+			233,
+			233
+		]
+	],
+	"coverage_rows":[
+		[
+			4,
+			"T",
+			0.456470470409,
+			1.47247364592
+		],
+		[
+			4,
+			"K",
+			0.702028939744,
+			1.76536686473
+		],
+		[
+			8,
+			"T",
+			0.259944778024,
+			0.890180644032
+		],
+		[
+			8,
+			"K",
+			0.501684822692,
+			1.25620604782
+		],
+		[
+			16,
+			"T",
+			0.132825926096,
+			0.549587671252
+		],
+		[
+			16,
+			"K",
+			0.346422799933,
+			0.903141061846
+		],
+		[
+			64,
+			"T",
+			0.0284709275807,
+			0.225859152342
+		],
+		[
+			64,
+			"K",
+			0.116536227281,
+			0.549082457046
+		],
+		[
+			256,
+			"T",
+			0.00903202851026,
+			0.100660116947
+		],
+		[
+			256,
+			"K",
+			0.0960049163960,
+			0.365825159892
+		]
+	],
+	"maximum_unitarity_residual":0
+}

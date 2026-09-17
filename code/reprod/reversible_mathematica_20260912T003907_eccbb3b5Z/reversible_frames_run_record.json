@@ -1,0 +1,8216 @@
+{
+	"started_utc":"2026-09-12T00:39:08Z",
+	"script":"verify_reversible_frames.wl",
+	"script_version":"0.2",
+	"loaded_source_path":null,
+	"execution_mode":"interactive evaluation",
+	"script_sha256":null,
+	"source_hash_status":"unavailable; no executed source file was identified or hashing failed",
+	"record_directory_source":"saved notebook directory",
+	"record_directory":"\/Users\/njblost\/Library\/Mobile Documents\/com~apple~CloudDocs\/9. RS\/raqm-paper\/code\/reproducibility\/reversible_mathematica_20260912T003907_eccbb3b5Z",
+	"wolfram_version":"13.3.0 for Mac OS X ARM (64-bit) (April 11, 2023)",
+	"system_id":"MacOSX-ARM64",
+	"operating_system":"MacOSX",
+	"system_word_length":64,
+	"numeric_working_precision":50,
+	"numeric_tolerance":"1e-25",
+	"scope":"Exact arithmetic checks and separately identified numerical matrix checks; not interval certification.",
+	"finished_utc":"2026-09-12T00:39:21Z",
+	"status":"passed",
+	"checks":[
+		{
+			"label":"exact regression: identity matching",
+			"passed":true
+		},
+		{
+			"label":"exact regression: deficient graph rejected",
+			"passed":true
+		},
+		{
+			"label":"exact regression: augmenting-path reassignment",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: all selected edges belong to graph",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact regression: matching agrees with exhaustive permutation oracle",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact clean-ancilla extension is a permutation",
+			"passed":true
+		},
+		{
+			"label":"exact clean-input rounding reproduced",
+			"passed":true
+		},
+		{
+			"label":"exact largest-fibre auxiliary alphabet",
+			"passed":true
+		},
+		{
+			"label":"exact Haar slab volumes sum to one",
+			"passed":true
+		},
+		{
+			"label":"exact equal Haar cell volumes",
+			"passed":true
+		},
+		{
+			"label":"exact interior frames in assigned slabs",
+			"passed":true
+		},
+		{
+			"label":"exact Haar slab volumes sum to one",
+			"passed":true
+		},
+		{
+			"label":"exact equal Haar cell volumes",
+			"passed":true
+		},
+		{
+			"label":"exact interior frames in assigned slabs",
+			"passed":true
+		},
+		{
+			"label":"exact Haar slab volumes sum to one",
+			"passed":true
+		},
+		{
+			"label":"exact equal Haar cell volumes",
+			"passed":true
+		},
+		{
+			"label":"exact interior frames in assigned slabs",
+			"passed":true
+		},
+		{
+			"label":"exact Haar slab volumes sum to one",
+			"passed":true
+		},
+		{
+			"label":"exact equal Haar cell volumes",
+			"passed":true
+		},
+		{
+			"label":"exact interior frames in assigned slabs",
+			"passed":true
+		},
+		{
+			"label":"exact Haar slab volumes sum to one",
+			"passed":true
+		},
+		{
+			"label":"exact equal Haar cell volumes",
+			"passed":true
+		},
+		{
+			"label":"exact interior frames in assigned slabs",
+			"passed":true
+		},
+		{
+			"label":"exact Haar slab volumes sum to one",
+			"passed":true
+		},
+		{
+			"label":"exact equal Haar cell volumes",
+			"passed":true
+		},
+		{
+			"label":"exact interior frames in assigned slabs",
+			"passed":true
+		},
+		{
+			"label":"exact Haar slab volumes sum to one",
+			"passed":true
+		},
+		{
+			"label":"exact equal Haar cell volumes",
+			"passed":true
+		},
+		{
+			"label":"exact interior frames in assigned slabs",
+			"passed":true
+		},
+		{
+			"label":"exact Haar slab volumes sum to one",
+			"passed":true
+		},
+		{
+			"label":"exact equal Haar cell volumes",
+			"passed":true
+		},
+		{
+			"label":"exact interior frames in assigned slabs",
+			"passed":true
+		},
+		{
+			"label":"exact Haar slab volumes sum to one",
+			"passed":true
+		},
+		{
+			"label":"exact equal Haar cell volumes",
+			"passed":true
+		},
+		{
+			"label":"exact interior frames in assigned slabs",
+			"passed":true
+		},
+		{
+			"label":"exact Haar slab volumes sum to one",
+			"passed":true
+		},
+		{
+			"label":"exact equal Haar cell volumes",
+			"passed":true
+		},
+		{
+			"label":"exact interior frames in assigned slabs",
+			"passed":true
+		},
+		{
+			"label":"exact Haar slab volumes sum to one",
+			"passed":true
+		},
+		{
+			"label":"exact equal Haar cell volumes",
+			"passed":true
+		},
+		{
+			"label":"exact interior frames in assigned slabs",
+			"passed":true
+		},
+		{
+			"label":"exact Haar slab volumes sum to one",
+			"passed":true
+		},
+		{
+			"label":"exact equal Haar cell volumes",
+			"passed":true
+		},
+		{
+			"label":"exact interior frames in assigned slabs",
+			"passed":true
+		},
+		{
+			"label":"exact catalogue size",
+			"passed":true
+		},
+		{
+			"label":"numerical cost matrix well formed",
+			"passed":true
+		},
+		{
+			"label":"exact matched label permutation",
+			"passed":true
+		},
+		{
+			"label":"exact inverse permutation",
+			"passed":true
+		},
+		{
+			"label":"numerical matched edge bound",
+			"passed":true
+		},
+		{
+			"label":"numerical preceding threshold has no perfect matching",
+			"passed":true
+		},
+		{
+			"label":"numerical matching obeys analytic bound",
+			"passed":true
+		},
+		{
+			"label":"numerical inverse command bound",
+			"passed":true
+		},
+		{
+			"label":"numerical cost matrix well formed",
+			"passed":true
+		},
+		{
+			"label":"exact matched label permutation",
+			"passed":true
+		},
+		{
+			"label":"exact inverse permutation",
+			"passed":true
+		},
+		{
+			"label":"numerical matched edge bound",
+			"passed":true
+		},
+		{
+			"label":"numerical preceding threshold has no perfect matching",
+			"passed":true
+		},
+		{
+			"label":"numerical matching obeys analytic bound",
+			"passed":true
+		},
+		{
+			"label":"numerical inverse command bound",
+			"passed":true
+		},
+		{
+			"label":"numerical cost matrix well formed",
+			"passed":true
+		},
+		{
+			"label":"exact matched label permutation",
+			"passed":true
+		},
+		{
+			"label":"exact inverse permutation",
+			"passed":true
+		},
+		{
+			"label":"numerical matched edge bound",
+			"passed":true
+		},
+		{
+			"label":"numerical preceding threshold has no perfect matching",
+			"passed":true
+		},
+		{
+			"label":"numerical matching obeys analytic bound",
+			"passed":true
+		},
+		{
+			"label":"numerical inverse command bound",
+			"passed":true
+		},
+		{
+			"label":"numerical selected local matrix unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical remote marginal preserved",
+			"passed":true
+		},
+		{
+			"label":"numerical labelled endpoint",
+			"passed":true
+		},
+		{
+			"label":"numerical word error bound",
+			"passed":true
+		},
+		{
+			"label":"numerical selected local matrix unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical remote marginal preserved",
+			"passed":true
+		},
+		{
+			"label":"numerical labelled endpoint",
+			"passed":true
+		},
+		{
+			"label":"numerical word error bound",
+			"passed":true
+		},
+		{
+			"label":"numerical selected local matrix unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical remote marginal preserved",
+			"passed":true
+		},
+		{
+			"label":"numerical labelled endpoint",
+			"passed":true
+		},
+		{
+			"label":"numerical word error bound",
+			"passed":true
+		},
+		{
+			"label":"numerical selected local matrix unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical remote marginal preserved",
+			"passed":true
+		},
+		{
+			"label":"numerical labelled endpoint",
+			"passed":true
+		},
+		{
+			"label":"numerical word error bound",
+			"passed":true
+		},
+		{
+			"label":"numerical selected local matrix unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical remote marginal preserved",
+			"passed":true
+		},
+		{
+			"label":"numerical labelled endpoint",
+			"passed":true
+		},
+		{
+			"label":"numerical word error bound",
+			"passed":true
+		},
+		{
+			"label":"numerical selected local matrix unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical remote marginal preserved",
+			"passed":true
+		},
+		{
+			"label":"numerical labelled endpoint",
+			"passed":true
+		},
+		{
+			"label":"numerical word error bound",
+			"passed":true
+		},
+		{
+			"label":"numerical selected local matrix unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical remote marginal preserved",
+			"passed":true
+		},
+		{
+			"label":"numerical labelled endpoint",
+			"passed":true
+		},
+		{
+			"label":"numerical word error bound",
+			"passed":true
+		},
+		{
+			"label":"numerical selected local matrix unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical remote marginal preserved",
+			"passed":true
+		},
+		{
+			"label":"numerical labelled endpoint",
+			"passed":true
+		},
+		{
+			"label":"numerical word error bound",
+			"passed":true
+		},
+		{
+			"label":"numerical selected local matrix unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical remote marginal preserved",
+			"passed":true
+		},
+		{
+			"label":"numerical labelled endpoint",
+			"passed":true
+		},
+		{
+			"label":"numerical word error bound",
+			"passed":true
+		},
+		{
+			"label":"numerical selected local matrix unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical remote marginal preserved",
+			"passed":true
+		},
+		{
+			"label":"numerical labelled endpoint",
+			"passed":true
+		},
+		{
+			"label":"numerical word error bound",
+			"passed":true
+		},
+		{
+			"label":"numerical selected local matrix unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical remote marginal preserved",
+			"passed":true
+		},
+		{
+			"label":"numerical labelled endpoint",
+			"passed":true
+		},
+		{
+			"label":"numerical word error bound",
+			"passed":true
+		},
+		{
+			"label":"numerical selected local matrix unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical remote marginal preserved",
+			"passed":true
+		},
+		{
+			"label":"numerical labelled endpoint",
+			"passed":true
+		},
+		{
+			"label":"numerical word error bound",
+			"passed":true
+		},
+		{
+			"label":"numerical selected local matrix unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical remote marginal preserved",
+			"passed":true
+		},
+		{
+			"label":"numerical labelled endpoint",
+			"passed":true
+		},
+		{
+			"label":"numerical word error bound",
+			"passed":true
+		},
+		{
+			"label":"numerical selected local matrix unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical remote marginal preserved",
+			"passed":true
+		},
+		{
+			"label":"numerical labelled endpoint",
+			"passed":true
+		},
+		{
+			"label":"numerical word error bound",
+			"passed":true
+		},
+		{
+			"label":"numerical selected local matrix unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical remote marginal preserved",
+			"passed":true
+		},
+		{
+			"label":"numerical labelled endpoint",
+			"passed":true
+		},
+		{
+			"label":"numerical word error bound",
+			"passed":true
+		},
+		{
+			"label":"numerical selected local matrix unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical remote marginal preserved",
+			"passed":true
+		},
+		{
+			"label":"numerical labelled endpoint",
+			"passed":true
+		},
+		{
+			"label":"numerical word error bound",
+			"passed":true
+		},
+		{
+			"label":"numerical selected local matrix unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical remote marginal preserved",
+			"passed":true
+		},
+		{
+			"label":"numerical labelled endpoint",
+			"passed":true
+		},
+		{
+			"label":"numerical word error bound",
+			"passed":true
+		},
+		{
+			"label":"numerical selected local matrix unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical remote marginal preserved",
+			"passed":true
+		},
+		{
+			"label":"numerical labelled endpoint",
+			"passed":true
+		},
+		{
+			"label":"numerical word error bound",
+			"passed":true
+		},
+		{
+			"label":"numerical selected local matrix unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical remote marginal preserved",
+			"passed":true
+		},
+		{
+			"label":"numerical labelled endpoint",
+			"passed":true
+		},
+		{
+			"label":"numerical word error bound",
+			"passed":true
+		},
+		{
+			"label":"numerical selected local matrix unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical remote marginal preserved",
+			"passed":true
+		},
+		{
+			"label":"numerical labelled endpoint",
+			"passed":true
+		},
+		{
+			"label":"numerical word error bound",
+			"passed":true
+		},
+		{
+			"label":"numerical selected local matrix unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical remote marginal preserved",
+			"passed":true
+		},
+		{
+			"label":"numerical labelled endpoint",
+			"passed":true
+		},
+		{
+			"label":"numerical word error bound",
+			"passed":true
+		},
+		{
+			"label":"numerical selected local matrix unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical remote marginal preserved",
+			"passed":true
+		},
+		{
+			"label":"numerical labelled endpoint",
+			"passed":true
+		},
+		{
+			"label":"numerical word error bound",
+			"passed":true
+		},
+		{
+			"label":"numerical selected local matrix unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical remote marginal preserved",
+			"passed":true
+		},
+		{
+			"label":"numerical labelled endpoint",
+			"passed":true
+		},
+		{
+			"label":"numerical word error bound",
+			"passed":true
+		},
+		{
+			"label":"numerical selected local matrix unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical remote marginal preserved",
+			"passed":true
+		},
+		{
+			"label":"numerical labelled endpoint",
+			"passed":true
+		},
+		{
+			"label":"numerical word error bound",
+			"passed":true
+		},
+		{
+			"label":"exact full word reversal restores labels",
+			"passed":true
+		},
+		{
+			"label":"numerical full word reversal restores state",
+			"passed":true
+		},
+		{
+			"label":"exact catalogue size",
+			"passed":true
+		},
+		{
+			"label":"numerical cost matrix well formed",
+			"passed":true
+		},
+		{
+			"label":"exact matched label permutation",
+			"passed":true
+		},
+		{
+			"label":"exact inverse permutation",
+			"passed":true
+		},
+		{
+			"label":"numerical matched edge bound",
+			"passed":true
+		},
+		{
+			"label":"numerical preceding threshold has no perfect matching",
+			"passed":true
+		},
+		{
+			"label":"numerical matching obeys analytic bound",
+			"passed":true
+		},
+		{
+			"label":"numerical inverse command bound",
+			"passed":true
+		},
+		{
+			"label":"numerical cost matrix well formed",
+			"passed":true
+		},
+		{
+			"label":"exact matched label permutation",
+			"passed":true
+		},
+		{
+			"label":"exact inverse permutation",
+			"passed":true
+		},
+		{
+			"label":"numerical matched edge bound",
+			"passed":true
+		},
+		{
+			"label":"numerical preceding threshold has no perfect matching",
+			"passed":true
+		},
+		{
+			"label":"numerical matching obeys analytic bound",
+			"passed":true
+		},
+		{
+			"label":"numerical inverse command bound",
+			"passed":true
+		},
+		{
+			"label":"numerical cost matrix well formed",
+			"passed":true
+		},
+		{
+			"label":"exact matched label permutation",
+			"passed":true
+		},
+		{
+			"label":"exact inverse permutation",
+			"passed":true
+		},
+		{
+			"label":"numerical matched edge bound",
+			"passed":true
+		},
+		{
+			"label":"numerical preceding threshold has no perfect matching",
+			"passed":true
+		},
+		{
+			"label":"numerical matching obeys analytic bound",
+			"passed":true
+		},
+		{
+			"label":"numerical inverse command bound",
+			"passed":true
+		},
+		{
+			"label":"numerical selected local matrix unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical remote marginal preserved",
+			"passed":true
+		},
+		{
+			"label":"numerical labelled endpoint",
+			"passed":true
+		},
+		{
+			"label":"numerical word error bound",
+			"passed":true
+		},
+		{
+			"label":"numerical selected local matrix unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical remote marginal preserved",
+			"passed":true
+		},
+		{
+			"label":"numerical labelled endpoint",
+			"passed":true
+		},
+		{
+			"label":"numerical word error bound",
+			"passed":true
+		},
+		{
+			"label":"numerical selected local matrix unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical remote marginal preserved",
+			"passed":true
+		},
+		{
+			"label":"numerical labelled endpoint",
+			"passed":true
+		},
+		{
+			"label":"numerical word error bound",
+			"passed":true
+		},
+		{
+			"label":"numerical selected local matrix unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical remote marginal preserved",
+			"passed":true
+		},
+		{
+			"label":"numerical labelled endpoint",
+			"passed":true
+		},
+		{
+			"label":"numerical word error bound",
+			"passed":true
+		},
+		{
+			"label":"numerical selected local matrix unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical remote marginal preserved",
+			"passed":true
+		},
+		{
+			"label":"numerical labelled endpoint",
+			"passed":true
+		},
+		{
+			"label":"numerical word error bound",
+			"passed":true
+		},
+		{
+			"label":"numerical selected local matrix unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical remote marginal preserved",
+			"passed":true
+		},
+		{
+			"label":"numerical labelled endpoint",
+			"passed":true
+		},
+		{
+			"label":"numerical word error bound",
+			"passed":true
+		},
+		{
+			"label":"numerical selected local matrix unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical remote marginal preserved",
+			"passed":true
+		},
+		{
+			"label":"numerical labelled endpoint",
+			"passed":true
+		},
+		{
+			"label":"numerical word error bound",
+			"passed":true
+		},
+		{
+			"label":"numerical selected local matrix unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical remote marginal preserved",
+			"passed":true
+		},
+		{
+			"label":"numerical labelled endpoint",
+			"passed":true
+		},
+		{
+			"label":"numerical word error bound",
+			"passed":true
+		},
+		{
+			"label":"numerical selected local matrix unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical remote marginal preserved",
+			"passed":true
+		},
+		{
+			"label":"numerical labelled endpoint",
+			"passed":true
+		},
+		{
+			"label":"numerical word error bound",
+			"passed":true
+		},
+		{
+			"label":"numerical selected local matrix unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical remote marginal preserved",
+			"passed":true
+		},
+		{
+			"label":"numerical labelled endpoint",
+			"passed":true
+		},
+		{
+			"label":"numerical word error bound",
+			"passed":true
+		},
+		{
+			"label":"numerical selected local matrix unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical remote marginal preserved",
+			"passed":true
+		},
+		{
+			"label":"numerical labelled endpoint",
+			"passed":true
+		},
+		{
+			"label":"numerical word error bound",
+			"passed":true
+		},
+		{
+			"label":"numerical selected local matrix unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical remote marginal preserved",
+			"passed":true
+		},
+		{
+			"label":"numerical labelled endpoint",
+			"passed":true
+		},
+		{
+			"label":"numerical word error bound",
+			"passed":true
+		},
+		{
+			"label":"numerical selected local matrix unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical remote marginal preserved",
+			"passed":true
+		},
+		{
+			"label":"numerical labelled endpoint",
+			"passed":true
+		},
+		{
+			"label":"numerical word error bound",
+			"passed":true
+		},
+		{
+			"label":"numerical selected local matrix unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical remote marginal preserved",
+			"passed":true
+		},
+		{
+			"label":"numerical labelled endpoint",
+			"passed":true
+		},
+		{
+			"label":"numerical word error bound",
+			"passed":true
+		},
+		{
+			"label":"numerical selected local matrix unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical remote marginal preserved",
+			"passed":true
+		},
+		{
+			"label":"numerical labelled endpoint",
+			"passed":true
+		},
+		{
+			"label":"numerical word error bound",
+			"passed":true
+		},
+		{
+			"label":"numerical selected local matrix unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical remote marginal preserved",
+			"passed":true
+		},
+		{
+			"label":"numerical labelled endpoint",
+			"passed":true
+		},
+		{
+			"label":"numerical word error bound",
+			"passed":true
+		},
+		{
+			"label":"numerical selected local matrix unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical remote marginal preserved",
+			"passed":true
+		},
+		{
+			"label":"numerical labelled endpoint",
+			"passed":true
+		},
+		{
+			"label":"numerical word error bound",
+			"passed":true
+		},
+		{
+			"label":"numerical selected local matrix unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical remote marginal preserved",
+			"passed":true
+		},
+		{
+			"label":"numerical labelled endpoint",
+			"passed":true
+		},
+		{
+			"label":"numerical word error bound",
+			"passed":true
+		},
+		{
+			"label":"numerical selected local matrix unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical remote marginal preserved",
+			"passed":true
+		},
+		{
+			"label":"numerical labelled endpoint",
+			"passed":true
+		},
+		{
+			"label":"numerical word error bound",
+			"passed":true
+		},
+		{
+			"label":"numerical selected local matrix unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical remote marginal preserved",
+			"passed":true
+		},
+		{
+			"label":"numerical labelled endpoint",
+			"passed":true
+		},
+		{
+			"label":"numerical word error bound",
+			"passed":true
+		},
+		{
+			"label":"numerical selected local matrix unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical remote marginal preserved",
+			"passed":true
+		},
+		{
+			"label":"numerical labelled endpoint",
+			"passed":true
+		},
+		{
+			"label":"numerical word error bound",
+			"passed":true
+		},
+		{
+			"label":"numerical selected local matrix unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical remote marginal preserved",
+			"passed":true
+		},
+		{
+			"label":"numerical labelled endpoint",
+			"passed":true
+		},
+		{
+			"label":"numerical word error bound",
+			"passed":true
+		},
+		{
+			"label":"numerical selected local matrix unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical remote marginal preserved",
+			"passed":true
+		},
+		{
+			"label":"numerical labelled endpoint",
+			"passed":true
+		},
+		{
+			"label":"numerical word error bound",
+			"passed":true
+		},
+		{
+			"label":"numerical selected local matrix unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical remote marginal preserved",
+			"passed":true
+		},
+		{
+			"label":"numerical labelled endpoint",
+			"passed":true
+		},
+		{
+			"label":"numerical word error bound",
+			"passed":true
+		},
+		{
+			"label":"exact full word reversal restores labels",
+			"passed":true
+		},
+		{
+			"label":"numerical full word reversal restores state",
+			"passed":true
+		},
+		{
+			"label":"exact catalogue size",
+			"passed":true
+		},
+		{
+			"label":"numerical cost matrix well formed",
+			"passed":true
+		},
+		{
+			"label":"exact matched label permutation",
+			"passed":true
+		},
+		{
+			"label":"exact inverse permutation",
+			"passed":true
+		},
+		{
+			"label":"numerical matched edge bound",
+			"passed":true
+		},
+		{
+			"label":"numerical preceding threshold has no perfect matching",
+			"passed":true
+		},
+		{
+			"label":"numerical matching obeys analytic bound",
+			"passed":true
+		},
+		{
+			"label":"numerical inverse command bound",
+			"passed":true
+		},
+		{
+			"label":"numerical cost matrix well formed",
+			"passed":true
+		},
+		{
+			"label":"exact matched label permutation",
+			"passed":true
+		},
+		{
+			"label":"exact inverse permutation",
+			"passed":true
+		},
+		{
+			"label":"numerical matched edge bound",
+			"passed":true
+		},
+		{
+			"label":"numerical preceding threshold has no perfect matching",
+			"passed":true
+		},
+		{
+			"label":"numerical matching obeys analytic bound",
+			"passed":true
+		},
+		{
+			"label":"numerical inverse command bound",
+			"passed":true
+		},
+		{
+			"label":"numerical cost matrix well formed",
+			"passed":true
+		},
+		{
+			"label":"exact matched label permutation",
+			"passed":true
+		},
+		{
+			"label":"exact inverse permutation",
+			"passed":true
+		},
+		{
+			"label":"numerical matched edge bound",
+			"passed":true
+		},
+		{
+			"label":"numerical preceding threshold has no perfect matching",
+			"passed":true
+		},
+		{
+			"label":"numerical matching obeys analytic bound",
+			"passed":true
+		},
+		{
+			"label":"numerical inverse command bound",
+			"passed":true
+		},
+		{
+			"label":"numerical selected local matrix unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical remote marginal preserved",
+			"passed":true
+		},
+		{
+			"label":"numerical labelled endpoint",
+			"passed":true
+		},
+		{
+			"label":"numerical word error bound",
+			"passed":true
+		},
+		{
+			"label":"numerical selected local matrix unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical remote marginal preserved",
+			"passed":true
+		},
+		{
+			"label":"numerical labelled endpoint",
+			"passed":true
+		},
+		{
+			"label":"numerical word error bound",
+			"passed":true
+		},
+		{
+			"label":"numerical selected local matrix unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical remote marginal preserved",
+			"passed":true
+		},
+		{
+			"label":"numerical labelled endpoint",
+			"passed":true
+		},
+		{
+			"label":"numerical word error bound",
+			"passed":true
+		},
+		{
+			"label":"numerical selected local matrix unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical remote marginal preserved",
+			"passed":true
+		},
+		{
+			"label":"numerical labelled endpoint",
+			"passed":true
+		},
+		{
+			"label":"numerical word error bound",
+			"passed":true
+		},
+		{
+			"label":"numerical selected local matrix unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical remote marginal preserved",
+			"passed":true
+		},
+		{
+			"label":"numerical labelled endpoint",
+			"passed":true
+		},
+		{
+			"label":"numerical word error bound",
+			"passed":true
+		},
+		{
+			"label":"numerical selected local matrix unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical remote marginal preserved",
+			"passed":true
+		},
+		{
+			"label":"numerical labelled endpoint",
+			"passed":true
+		},
+		{
+			"label":"numerical word error bound",
+			"passed":true
+		},
+		{
+			"label":"numerical selected local matrix unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical remote marginal preserved",
+			"passed":true
+		},
+		{
+			"label":"numerical labelled endpoint",
+			"passed":true
+		},
+		{
+			"label":"numerical word error bound",
+			"passed":true
+		},
+		{
+			"label":"numerical selected local matrix unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical remote marginal preserved",
+			"passed":true
+		},
+		{
+			"label":"numerical labelled endpoint",
+			"passed":true
+		},
+		{
+			"label":"numerical word error bound",
+			"passed":true
+		},
+		{
+			"label":"numerical selected local matrix unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical remote marginal preserved",
+			"passed":true
+		},
+		{
+			"label":"numerical labelled endpoint",
+			"passed":true
+		},
+		{
+			"label":"numerical word error bound",
+			"passed":true
+		},
+		{
+			"label":"numerical selected local matrix unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical remote marginal preserved",
+			"passed":true
+		},
+		{
+			"label":"numerical labelled endpoint",
+			"passed":true
+		},
+		{
+			"label":"numerical word error bound",
+			"passed":true
+		},
+		{
+			"label":"numerical selected local matrix unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical remote marginal preserved",
+			"passed":true
+		},
+		{
+			"label":"numerical labelled endpoint",
+			"passed":true
+		},
+		{
+			"label":"numerical word error bound",
+			"passed":true
+		},
+		{
+			"label":"numerical selected local matrix unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical remote marginal preserved",
+			"passed":true
+		},
+		{
+			"label":"numerical labelled endpoint",
+			"passed":true
+		},
+		{
+			"label":"numerical word error bound",
+			"passed":true
+		},
+		{
+			"label":"numerical selected local matrix unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical remote marginal preserved",
+			"passed":true
+		},
+		{
+			"label":"numerical labelled endpoint",
+			"passed":true
+		},
+		{
+			"label":"numerical word error bound",
+			"passed":true
+		},
+		{
+			"label":"numerical selected local matrix unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical remote marginal preserved",
+			"passed":true
+		},
+		{
+			"label":"numerical labelled endpoint",
+			"passed":true
+		},
+		{
+			"label":"numerical word error bound",
+			"passed":true
+		},
+		{
+			"label":"numerical selected local matrix unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical remote marginal preserved",
+			"passed":true
+		},
+		{
+			"label":"numerical labelled endpoint",
+			"passed":true
+		},
+		{
+			"label":"numerical word error bound",
+			"passed":true
+		},
+		{
+			"label":"numerical selected local matrix unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical remote marginal preserved",
+			"passed":true
+		},
+		{
+			"label":"numerical labelled endpoint",
+			"passed":true
+		},
+		{
+			"label":"numerical word error bound",
+			"passed":true
+		},
+		{
+			"label":"numerical selected local matrix unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical remote marginal preserved",
+			"passed":true
+		},
+		{
+			"label":"numerical labelled endpoint",
+			"passed":true
+		},
+		{
+			"label":"numerical word error bound",
+			"passed":true
+		},
+		{
+			"label":"numerical selected local matrix unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical remote marginal preserved",
+			"passed":true
+		},
+		{
+			"label":"numerical labelled endpoint",
+			"passed":true
+		},
+		{
+			"label":"numerical word error bound",
+			"passed":true
+		},
+		{
+			"label":"numerical selected local matrix unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical remote marginal preserved",
+			"passed":true
+		},
+		{
+			"label":"numerical labelled endpoint",
+			"passed":true
+		},
+		{
+			"label":"numerical word error bound",
+			"passed":true
+		},
+		{
+			"label":"numerical selected local matrix unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical remote marginal preserved",
+			"passed":true
+		},
+		{
+			"label":"numerical labelled endpoint",
+			"passed":true
+		},
+		{
+			"label":"numerical word error bound",
+			"passed":true
+		},
+		{
+			"label":"numerical selected local matrix unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical remote marginal preserved",
+			"passed":true
+		},
+		{
+			"label":"numerical labelled endpoint",
+			"passed":true
+		},
+		{
+			"label":"numerical word error bound",
+			"passed":true
+		},
+		{
+			"label":"numerical selected local matrix unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical remote marginal preserved",
+			"passed":true
+		},
+		{
+			"label":"numerical labelled endpoint",
+			"passed":true
+		},
+		{
+			"label":"numerical word error bound",
+			"passed":true
+		},
+		{
+			"label":"numerical selected local matrix unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical remote marginal preserved",
+			"passed":true
+		},
+		{
+			"label":"numerical labelled endpoint",
+			"passed":true
+		},
+		{
+			"label":"numerical word error bound",
+			"passed":true
+		},
+		{
+			"label":"numerical selected local matrix unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical remote marginal preserved",
+			"passed":true
+		},
+		{
+			"label":"numerical labelled endpoint",
+			"passed":true
+		},
+		{
+			"label":"numerical word error bound",
+			"passed":true
+		},
+		{
+			"label":"exact full word reversal restores labels",
+			"passed":true
+		},
+		{
+			"label":"numerical full word reversal restores state",
+			"passed":true
+		}
+	],
+	"matching_regression_graphs":512,
+	"last_case":{
+		"D":4,
+		"L":8,
+		"frames":208,
+		"gate":"complex gate"
+	},
+	"matching_rows":[
+		[
+			2,
+			4,
+			24,
+			"Hadamard",
+			0.e-48,
+			5.37086853568
+		],
+		[
+			2,
+			4,
+			24,
+			"real rotation",
+			0.335012446609,
+			5.37086853568
+		],
+		[
+			2,
+			4,
+			24,
+			"complex gate",
+			0.386040725357,
+			5.37086853568
+		],
+		[
+			4,
+			4,
+			56,
+			"Hadamard",
+			0.366025403784,
+			4.57332535096
+		],
+		[
+			4,
+			4,
+			56,
+			"real rotation",
+			0.440954332638,
+			4.57332535096
+		],
+		[
+			4,
+			4,
+			56,
+			"complex gate",
+			0.386040725357,
+			4.57332535096
+		],
+		[
+			4,
+			8,
+			208,
+			"Hadamard",
+			0.261052384440,
+			3.12965165723
+		],
+		[
+			4,
+			8,
+			208,
+			"real rotation",
+			0.253589546213,
+			3.12965165723
+		],
+		[
+			4,
+			8,
+			208,
+			"complex gate",
+			0.373094803946,
+			3.12965165723
+		]
+	],
+	"finite_maps_exhausted":288,
+	"history_rows":[
+		[
+			2,
+			4,
+			24,
+			0.224985636954,
+			0
+		],
+		[
+			4,
+			4,
+			24,
+			1.02476910507,
+			0
+		],
+		[
+			4,
+			8,
+			24,
+			0.774506105898,
+			0
+		]
+	],
+	"maximum_unitarity_residual":0
+}

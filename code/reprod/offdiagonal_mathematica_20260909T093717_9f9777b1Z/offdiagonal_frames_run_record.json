@@ -1,0 +1,4229 @@
+{
+	"started_utc":"2026-09-09T09:37:17Z",
+	"script":"verify_offdiagonal_frames.wl",
+	"script_version":"0.1",
+	"loaded_source_path":null,
+	"execution_mode":"interactive evaluation",
+	"script_sha256":null,
+	"source_hash_status":"unavailable; no executed source file was identified or hashing failed",
+	"record_directory_source":"saved notebook directory",
+	"record_directory":"\/Users\/njblost\/Library\/Mobile Documents\/com~apple~CloudDocs\/9. RS\/raqm-paper\/reproducibility\/offdiagonal_mathematica_20260909T093717_9f9777b1Z",
+	"wolfram_version":"13.3.0 for Mac OS X ARM (64-bit) (April 11, 2023)",
+	"system_id":"MacOSX-ARM64",
+	"operating_system":"MacOSX",
+	"system_word_length":64,
+	"numeric_working_precision":50,
+	"numeric_tolerance":"1e-25",
+	"scope":"Exact arithmetic checks and separately identified numerical matrix checks; not interval certification.",
+	"finished_utc":"2026-09-09T09:37:38Z",
+	"status":"passed",
+	"checks":[
+		{
+			"label":"exact off-diagonal row\/phase enumeration L=4 r=1\n-\n2 k=0 T",
+			"passed":true
+		},
+		{
+			"label":"exact off-diagonal row\/phase enumeration L=4 r=1\n-\n2 k=0 K",
+			"passed":true
+		},
+		{
+			"label":"exact off-diagonal row\/phase enumeration L=4 r=1\n-\n2 k=1 T",
+			"passed":true
+		},
+		{
+			"label":"exact off-diagonal row\/phase enumeration L=4 r=1\n-\n2 k=1 K",
+			"passed":true
+		},
+		{
+			"label":"exact off-diagonal row\/phase enumeration L=4 r=1\n-\n4 k=0 T",
+			"passed":true
+		},
+		{
+			"label":"exact off-diagonal row\/phase enumeration L=4 r=1\n-\n4 k=0 K",
+			"passed":true
+		},
+		{
+			"label":"exact off-diagonal row\/phase enumeration L=4 r=1\n-\n4 k=1 T",
+			"passed":true
+		},
+		{
+			"label":"exact off-diagonal row\/phase enumeration L=4 r=1\n-\n4 k=1 K",
+			"passed":true
+		},
+		{
+			"label":"exact off-diagonal row\/phase enumeration L=8 r=1\n-\n2 k=0 T",
+			"passed":true
+		},
+		{
+			"label":"exact off-diagonal row\/phase enumeration L=8 r=1\n-\n2 k=0 K",
+			"passed":true
+		},
+		{
+			"label":"exact off-diagonal row\/phase enumeration L=8 r=1\n-\n2 k=1 T",
+			"passed":true
+		},
+		{
+			"label":"exact off-diagonal row\/phase enumeration L=8 r=1\n-\n2 k=1 K",
+			"passed":true
+		},
+		{
+			"label":"exact off-diagonal row\/phase enumeration L=8 r=1\n-\n4 k=0 T",
+			"passed":true
+		},
+		{
+			"label":"exact off-diagonal row\/phase enumeration L=8 r=1\n-\n4 k=0 K",
+			"passed":true
+		},
+		{
+			"label":"exact off-diagonal row\/phase enumeration L=8 r=1\n-\n4 k=1 T",
+			"passed":true
+		},
+		{
+			"label":"exact off-diagonal row\/phase enumeration L=8 r=1\n-\n4 k=1 K",
+			"passed":true
+		},
+		{
+			"label":"exact order of 5 modulo 2^M",
+			"passed":true
+		},
+		{
+			"label":"exact dyadic unit-group generators",
+			"passed":true
+		},
+		{
+			"label":"exact order of 5 modulo 2^M",
+			"passed":true
+		},
+		{
+			"label":"exact dyadic unit-group generators",
+			"passed":true
+		},
+		{
+			"label":"exact order of 5 modulo 2^M",
+			"passed":true
+		},
+		{
+			"label":"exact dyadic unit-group generators",
+			"passed":true
+		},
+		{
+			"label":"exact order of 5 modulo 2^M",
+			"passed":true
+		},
+		{
+			"label":"exact dyadic unit-group generators",
+			"passed":true
+		},
+		{
+			"label":"exact order of 5 modulo 2^M",
+			"passed":true
+		},
+		{
+			"label":"exact dyadic unit-group generators",
+			"passed":true
+		},
+		{
+			"label":"exact order of 5 modulo 2^M",
+			"passed":true
+		},
+		{
+			"label":"exact dyadic unit-group generators",
+			"passed":true
+		},
+		{
+			"label":"exact order of 5 modulo 2^M",
+			"passed":true
+		},
+		{
+			"label":"exact dyadic unit-group generators",
+			"passed":true
+		},
+		{
+			"label":"exact order of 5 modulo 2^M",
+			"passed":true
+		},
+		{
+			"label":"exact dyadic unit-group generators",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact nonhalf dyadic radicand congruence",
+			"passed":true
+		},
+		{
+			"label":"exact irrational-Schmidt example coherence",
+			"passed":true
+		},
+		{
+			"label":"exact irrational-Schmidt example determinant",
+			"passed":true
+		},
+		{
+			"label":"exact irrational-Schmidt characteristic polynomial",
+			"passed":true
+		},
+		{
+			"label":"exact sharp off-diagonal operator gap attained",
+			"passed":true
+		},
+		{
+			"label":"exact sharp off-diagonal state gap attained",
+			"passed":true
+		},
+		{
+			"label":"exact finite-atlas endpoint outside original grid",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame local step bound",
+			"passed":true
+		},
+		{
+			"label":"exact frame mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical selected-gate unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-atlas endpoint reconstruction",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged remote marginal",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame local step bound",
+			"passed":true
+		},
+		{
+			"label":"exact frame mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical selected-gate unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-atlas endpoint reconstruction",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged remote marginal",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame local step bound",
+			"passed":true
+		},
+		{
+			"label":"exact frame mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical selected-gate unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-atlas endpoint reconstruction",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged remote marginal",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame local step bound",
+			"passed":true
+		},
+		{
+			"label":"exact frame mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical selected-gate unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-atlas endpoint reconstruction",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged remote marginal",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame local step bound",
+			"passed":true
+		},
+		{
+			"label":"exact frame mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical selected-gate unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-atlas endpoint reconstruction",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged remote marginal",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame local step bound",
+			"passed":true
+		},
+		{
+			"label":"exact frame mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical selected-gate unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-atlas endpoint reconstruction",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged remote marginal",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame local step bound",
+			"passed":true
+		},
+		{
+			"label":"exact frame mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical selected-gate unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-atlas endpoint reconstruction",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged remote marginal",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame local step bound",
+			"passed":true
+		},
+		{
+			"label":"exact frame mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical selected-gate unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-atlas endpoint reconstruction",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged remote marginal",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame local step bound",
+			"passed":true
+		},
+		{
+			"label":"exact frame mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical selected-gate unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-atlas endpoint reconstruction",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged remote marginal",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame local step bound",
+			"passed":true
+		},
+		{
+			"label":"exact frame mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical selected-gate unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-atlas endpoint reconstruction",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged remote marginal",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame local step bound",
+			"passed":true
+		},
+		{
+			"label":"exact frame mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical selected-gate unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-atlas endpoint reconstruction",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged remote marginal",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame local step bound",
+			"passed":true
+		},
+		{
+			"label":"exact frame mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical selected-gate unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-atlas endpoint reconstruction",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged remote marginal",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame local step bound",
+			"passed":true
+		},
+		{
+			"label":"exact frame mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical selected-gate unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-atlas endpoint reconstruction",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged remote marginal",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame local step bound",
+			"passed":true
+		},
+		{
+			"label":"exact frame mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical selected-gate unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-atlas endpoint reconstruction",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged remote marginal",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame local step bound",
+			"passed":true
+		},
+		{
+			"label":"exact frame mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical selected-gate unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-atlas endpoint reconstruction",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged remote marginal",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame local step bound",
+			"passed":true
+		},
+		{
+			"label":"exact frame mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical selected-gate unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-atlas endpoint reconstruction",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged remote marginal",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame local step bound",
+			"passed":true
+		},
+		{
+			"label":"exact frame mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical selected-gate unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-atlas endpoint reconstruction",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged remote marginal",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame local step bound",
+			"passed":true
+		},
+		{
+			"label":"exact frame mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical selected-gate unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-atlas endpoint reconstruction",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged remote marginal",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame local step bound",
+			"passed":true
+		},
+		{
+			"label":"exact frame mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical selected-gate unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-atlas endpoint reconstruction",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged remote marginal",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame local step bound",
+			"passed":true
+		},
+		{
+			"label":"exact frame mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical selected-gate unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-atlas endpoint reconstruction",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged remote marginal",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame local step bound",
+			"passed":true
+		},
+		{
+			"label":"exact frame mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical selected-gate unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-atlas endpoint reconstruction",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged remote marginal",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame local step bound",
+			"passed":true
+		},
+		{
+			"label":"exact frame mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical selected-gate unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-atlas endpoint reconstruction",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged remote marginal",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame local step bound",
+			"passed":true
+		},
+		{
+			"label":"exact frame mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical selected-gate unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-atlas endpoint reconstruction",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged remote marginal",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame local step bound",
+			"passed":true
+		},
+		{
+			"label":"exact frame mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical selected-gate unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-atlas endpoint reconstruction",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged remote marginal",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame local step bound",
+			"passed":true
+		},
+		{
+			"label":"exact frame mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical selected-gate unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-atlas endpoint reconstruction",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged remote marginal",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame local step bound",
+			"passed":true
+		},
+		{
+			"label":"exact frame mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical selected-gate unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-atlas endpoint reconstruction",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged remote marginal",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame local step bound",
+			"passed":true
+		},
+		{
+			"label":"exact frame mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical selected-gate unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-atlas endpoint reconstruction",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged remote marginal",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame local step bound",
+			"passed":true
+		},
+		{
+			"label":"exact frame mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical selected-gate unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-atlas endpoint reconstruction",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged remote marginal",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame local step bound",
+			"passed":true
+		},
+		{
+			"label":"exact frame mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical selected-gate unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-atlas endpoint reconstruction",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged remote marginal",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame local step bound",
+			"passed":true
+		},
+		{
+			"label":"exact frame mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical selected-gate unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-atlas endpoint reconstruction",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged remote marginal",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame local step bound",
+			"passed":true
+		},
+		{
+			"label":"exact frame mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical selected-gate unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-atlas endpoint reconstruction",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged remote marginal",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame local step bound",
+			"passed":true
+		},
+		{
+			"label":"exact frame mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical selected-gate unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-atlas endpoint reconstruction",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged remote marginal",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame local step bound",
+			"passed":true
+		},
+		{
+			"label":"exact frame mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical selected-gate unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-atlas endpoint reconstruction",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged remote marginal",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame local step bound",
+			"passed":true
+		},
+		{
+			"label":"exact frame mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical selected-gate unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-atlas endpoint reconstruction",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged remote marginal",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame local step bound",
+			"passed":true
+		},
+		{
+			"label":"exact frame mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical selected-gate unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-atlas endpoint reconstruction",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged remote marginal",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame local step bound",
+			"passed":true
+		},
+		{
+			"label":"exact frame mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical selected-gate unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-atlas endpoint reconstruction",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged remote marginal",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame local step bound",
+			"passed":true
+		},
+		{
+			"label":"exact frame mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical selected-gate unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-atlas endpoint reconstruction",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged remote marginal",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame local step bound",
+			"passed":true
+		},
+		{
+			"label":"exact frame mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical selected-gate unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-atlas endpoint reconstruction",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged remote marginal",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame local step bound",
+			"passed":true
+		},
+		{
+			"label":"exact frame mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical selected-gate unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-atlas endpoint reconstruction",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged remote marginal",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame local step bound",
+			"passed":true
+		},
+		{
+			"label":"exact frame mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical selected-gate unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-atlas endpoint reconstruction",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged remote marginal",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame local step bound",
+			"passed":true
+		},
+		{
+			"label":"exact frame mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical selected-gate unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-atlas endpoint reconstruction",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged remote marginal",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame local step bound",
+			"passed":true
+		},
+		{
+			"label":"exact frame mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical selected-gate unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-atlas endpoint reconstruction",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged remote marginal",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame local step bound",
+			"passed":true
+		},
+		{
+			"label":"exact frame mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical selected-gate unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-atlas endpoint reconstruction",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged remote marginal",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame local step bound",
+			"passed":true
+		},
+		{
+			"label":"exact frame mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical selected-gate unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-atlas endpoint reconstruction",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged remote marginal",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame local step bound",
+			"passed":true
+		},
+		{
+			"label":"exact frame mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical selected-gate unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-atlas endpoint reconstruction",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged remote marginal",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame local step bound",
+			"passed":true
+		},
+		{
+			"label":"exact frame mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical selected-gate unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-atlas endpoint reconstruction",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged remote marginal",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame local step bound",
+			"passed":true
+		},
+		{
+			"label":"exact frame mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical selected-gate unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-atlas endpoint reconstruction",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged remote marginal",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame local step bound",
+			"passed":true
+		},
+		{
+			"label":"exact frame mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical selected-gate unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-atlas endpoint reconstruction",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged remote marginal",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame local step bound",
+			"passed":true
+		},
+		{
+			"label":"exact frame mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical selected-gate unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-atlas endpoint reconstruction",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged remote marginal",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame local step bound",
+			"passed":true
+		},
+		{
+			"label":"exact frame mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical selected-gate unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-atlas endpoint reconstruction",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged remote marginal",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame local step bound",
+			"passed":true
+		},
+		{
+			"label":"exact frame mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical selected-gate unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-atlas endpoint reconstruction",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged remote marginal",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame local step bound",
+			"passed":true
+		},
+		{
+			"label":"exact frame mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical selected-gate unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-atlas endpoint reconstruction",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged remote marginal",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame local step bound",
+			"passed":true
+		},
+		{
+			"label":"exact frame mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical selected-gate unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-atlas endpoint reconstruction",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged remote marginal",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame local step bound",
+			"passed":true
+		},
+		{
+			"label":"exact frame mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical selected-gate unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-atlas endpoint reconstruction",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged remote marginal",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame local step bound",
+			"passed":true
+		},
+		{
+			"label":"exact frame mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical selected-gate unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-atlas endpoint reconstruction",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged remote marginal",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame local step bound",
+			"passed":true
+		},
+		{
+			"label":"exact frame mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical selected-gate unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-atlas endpoint reconstruction",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged remote marginal",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame local step bound",
+			"passed":true
+		},
+		{
+			"label":"exact frame mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical selected-gate unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-atlas endpoint reconstruction",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged remote marginal",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame local step bound",
+			"passed":true
+		},
+		{
+			"label":"exact frame mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical selected-gate unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-atlas endpoint reconstruction",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged remote marginal",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame local step bound",
+			"passed":true
+		},
+		{
+			"label":"exact frame mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical selected-gate unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-atlas endpoint reconstruction",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged remote marginal",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame local step bound",
+			"passed":true
+		},
+		{
+			"label":"exact frame mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical selected-gate unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-atlas endpoint reconstruction",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged remote marginal",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame local step bound",
+			"passed":true
+		},
+		{
+			"label":"exact frame mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical selected-gate unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-atlas endpoint reconstruction",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged remote marginal",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame local step bound",
+			"passed":true
+		},
+		{
+			"label":"exact frame mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical selected-gate unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-atlas endpoint reconstruction",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged remote marginal",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame local step bound",
+			"passed":true
+		},
+		{
+			"label":"exact frame mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical selected-gate unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-atlas endpoint reconstruction",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged remote marginal",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame local step bound",
+			"passed":true
+		},
+		{
+			"label":"exact frame mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical selected-gate unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-atlas endpoint reconstruction",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged remote marginal",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame local step bound",
+			"passed":true
+		},
+		{
+			"label":"exact frame mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical selected-gate unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-atlas endpoint reconstruction",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged remote marginal",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame local step bound",
+			"passed":true
+		},
+		{
+			"label":"exact frame mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical selected-gate unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-atlas endpoint reconstruction",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged remote marginal",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame local step bound",
+			"passed":true
+		},
+		{
+			"label":"exact frame mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical selected-gate unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-atlas endpoint reconstruction",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged remote marginal",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame local step bound",
+			"passed":true
+		},
+		{
+			"label":"exact frame mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical selected-gate unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-atlas endpoint reconstruction",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged remote marginal",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame local step bound",
+			"passed":true
+		},
+		{
+			"label":"exact frame mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical selected-gate unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-atlas endpoint reconstruction",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged remote marginal",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame local step bound",
+			"passed":true
+		},
+		{
+			"label":"exact frame mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical selected-gate unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-atlas endpoint reconstruction",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged remote marginal",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame local step bound",
+			"passed":true
+		},
+		{
+			"label":"exact frame mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical selected-gate unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-atlas endpoint reconstruction",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged remote marginal",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame local step bound",
+			"passed":true
+		},
+		{
+			"label":"exact frame mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical selected-gate unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-atlas endpoint reconstruction",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged remote marginal",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame local step bound",
+			"passed":true
+		},
+		{
+			"label":"exact frame mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical selected-gate unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-atlas endpoint reconstruction",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged remote marginal",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame local step bound",
+			"passed":true
+		},
+		{
+			"label":"exact frame mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical selected-gate unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-atlas endpoint reconstruction",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged remote marginal",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame local step bound",
+			"passed":true
+		},
+		{
+			"label":"exact frame mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical selected-gate unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-atlas endpoint reconstruction",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged remote marginal",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame local step bound",
+			"passed":true
+		},
+		{
+			"label":"exact frame mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical selected-gate unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-atlas endpoint reconstruction",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged remote marginal",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame local step bound",
+			"passed":true
+		},
+		{
+			"label":"exact frame mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical selected-gate unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-atlas endpoint reconstruction",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged remote marginal",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame local step bound",
+			"passed":true
+		},
+		{
+			"label":"exact frame mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical selected-gate unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-atlas endpoint reconstruction",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged remote marginal",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame local step bound",
+			"passed":true
+		},
+		{
+			"label":"exact frame mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical selected-gate unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-atlas endpoint reconstruction",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged remote marginal",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame local step bound",
+			"passed":true
+		},
+		{
+			"label":"exact frame mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical selected-gate unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-atlas endpoint reconstruction",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged remote marginal",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame local step bound",
+			"passed":true
+		},
+		{
+			"label":"exact frame mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical selected-gate unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-atlas endpoint reconstruction",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged remote marginal",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame local step bound",
+			"passed":true
+		},
+		{
+			"label":"exact frame mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical selected-gate unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-atlas endpoint reconstruction",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged remote marginal",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame local step bound",
+			"passed":true
+		},
+		{
+			"label":"exact frame mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical selected-gate unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-atlas endpoint reconstruction",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged remote marginal",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame local step bound",
+			"passed":true
+		},
+		{
+			"label":"exact frame mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical selected-gate unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-atlas endpoint reconstruction",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged remote marginal",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame local step bound",
+			"passed":true
+		},
+		{
+			"label":"exact frame mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical selected-gate unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-atlas endpoint reconstruction",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged remote marginal",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame local step bound",
+			"passed":true
+		},
+		{
+			"label":"exact frame mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical selected-gate unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-atlas endpoint reconstruction",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged remote marginal",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame local step bound",
+			"passed":true
+		},
+		{
+			"label":"exact frame mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical selected-gate unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-atlas endpoint reconstruction",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged remote marginal",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame local step bound",
+			"passed":true
+		},
+		{
+			"label":"exact frame mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical selected-gate unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-atlas endpoint reconstruction",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged remote marginal",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame local step bound",
+			"passed":true
+		},
+		{
+			"label":"exact frame mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical selected-gate unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-atlas endpoint reconstruction",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged remote marginal",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame local step bound",
+			"passed":true
+		},
+		{
+			"label":"exact frame mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical selected-gate unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-atlas endpoint reconstruction",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged remote marginal",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame local step bound",
+			"passed":true
+		},
+		{
+			"label":"exact frame mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical selected-gate unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-atlas endpoint reconstruction",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged remote marginal",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame local step bound",
+			"passed":true
+		},
+		{
+			"label":"exact frame mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical selected-gate unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-atlas endpoint reconstruction",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged remote marginal",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame local step bound",
+			"passed":true
+		},
+		{
+			"label":"exact frame mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical selected-gate unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-atlas endpoint reconstruction",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged remote marginal",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame local step bound",
+			"passed":true
+		},
+		{
+			"label":"exact frame mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical selected-gate unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-atlas endpoint reconstruction",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged remote marginal",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame local step bound",
+			"passed":true
+		},
+		{
+			"label":"exact frame mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical selected-gate unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-atlas endpoint reconstruction",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged remote marginal",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame local step bound",
+			"passed":true
+		},
+		{
+			"label":"exact frame mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical selected-gate unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-atlas endpoint reconstruction",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged remote marginal",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame local step bound",
+			"passed":true
+		},
+		{
+			"label":"exact frame mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical selected-gate unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-atlas endpoint reconstruction",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged remote marginal",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame local step bound",
+			"passed":true
+		},
+		{
+			"label":"exact frame mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical selected-gate unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-atlas endpoint reconstruction",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged remote marginal",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame local step bound",
+			"passed":true
+		},
+		{
+			"label":"exact frame mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical selected-gate unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-atlas endpoint reconstruction",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged remote marginal",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame local step bound",
+			"passed":true
+		},
+		{
+			"label":"exact frame mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical selected-gate unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-atlas endpoint reconstruction",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged remote marginal",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame local step bound",
+			"passed":true
+		},
+		{
+			"label":"exact frame mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical selected-gate unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-atlas endpoint reconstruction",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged remote marginal",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame local step bound",
+			"passed":true
+		},
+		{
+			"label":"exact frame mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical selected-gate unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-atlas endpoint reconstruction",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged remote marginal",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame local step bound",
+			"passed":true
+		},
+		{
+			"label":"exact frame mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical selected-gate unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-atlas endpoint reconstruction",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged remote marginal",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame local step bound",
+			"passed":true
+		},
+		{
+			"label":"exact frame mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical selected-gate unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-atlas endpoint reconstruction",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged remote marginal",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame local step bound",
+			"passed":true
+		},
+		{
+			"label":"exact frame mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical selected-gate unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-atlas endpoint reconstruction",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged remote marginal",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame local step bound",
+			"passed":true
+		},
+		{
+			"label":"exact frame mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical selected-gate unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-atlas endpoint reconstruction",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged remote marginal",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame local step bound",
+			"passed":true
+		},
+		{
+			"label":"exact frame mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical selected-gate unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-atlas endpoint reconstruction",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged remote marginal",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame local step bound",
+			"passed":true
+		},
+		{
+			"label":"exact frame mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical selected-gate unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-atlas endpoint reconstruction",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged remote marginal",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame local step bound",
+			"passed":true
+		},
+		{
+			"label":"exact frame mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical selected-gate unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-atlas endpoint reconstruction",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged remote marginal",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame local step bound",
+			"passed":true
+		},
+		{
+			"label":"exact frame mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical selected-gate unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-atlas endpoint reconstruction",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged remote marginal",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame local step bound",
+			"passed":true
+		},
+		{
+			"label":"exact frame mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical selected-gate unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-atlas endpoint reconstruction",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged remote marginal",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame local step bound",
+			"passed":true
+		},
+		{
+			"label":"exact frame mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical selected-gate unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-atlas endpoint reconstruction",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged remote marginal",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame local step bound",
+			"passed":true
+		},
+		{
+			"label":"exact frame mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical selected-gate unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-atlas endpoint reconstruction",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged remote marginal",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame local step bound",
+			"passed":true
+		},
+		{
+			"label":"exact frame mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical selected-gate unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-atlas endpoint reconstruction",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged remote marginal",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame local step bound",
+			"passed":true
+		},
+		{
+			"label":"exact frame mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical selected-gate unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-atlas endpoint reconstruction",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged remote marginal",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame local step bound",
+			"passed":true
+		},
+		{
+			"label":"exact frame mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical selected-gate unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-atlas endpoint reconstruction",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged remote marginal",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame local step bound",
+			"passed":true
+		},
+		{
+			"label":"exact frame mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical selected-gate unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-atlas endpoint reconstruction",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged remote marginal",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame local step bound",
+			"passed":true
+		},
+		{
+			"label":"exact frame mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical selected-gate unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-atlas endpoint reconstruction",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged remote marginal",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame local step bound",
+			"passed":true
+		},
+		{
+			"label":"exact frame mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical selected-gate unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-atlas endpoint reconstruction",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged remote marginal",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame local step bound",
+			"passed":true
+		},
+		{
+			"label":"exact frame mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical selected-gate unitarity",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-atlas endpoint reconstruction",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged remote marginal",
+			"passed":true
+		},
+		{
+			"label":"numerical finite-frame word bound",
+			"passed":true
+		}
+	],
+	"fibre_rows":[
+		[
+			4,
+			"1\/2",
+			0,
+			"T",
+			8
+		],
+		[
+			4,
+			"1\/2",
+			0,
+			"K",
+			0
+		],
+		[
+			4,
+			"1\/2",
+			1,
+			"T",
+			8
+		],
+		[
+			4,
+			"1\/2",
+			1,
+			"K",
+			0
+		],
+		[
+			4,
+			"1\/4",
+			0,
+			"T",
+			0
+		],
+		[
+			4,
+			"1\/4",
+			0,
+			"K",
+			0
+		],
+		[
+			4,
+			"1\/4",
+			1,
+			"T",
+			0
+		],
+		[
+			4,
+			"1\/4",
+			1,
+			"K",
+			0
+		],
+		[
+			8,
+			"1\/2",
+			0,
+			"T",
+			16
+		],
+		[
+			8,
+			"1\/2",
+			0,
+			"K",
+			16
+		],
+		[
+			8,
+			"1\/2",
+			1,
+			"T",
+			16
+		],
+		[
+			8,
+			"1\/2",
+			1,
+			"K",
+			16
+		],
+		[
+			8,
+			"1\/4",
+			0,
+			"T",
+			16
+		],
+		[
+			8,
+			"1\/4",
+			0,
+			"K",
+			0
+		],
+		[
+			8,
+			"1\/4",
+			1,
+			"T",
+			16
+		],
+		[
+			8,
+			"1\/4",
+			1,
+			"K",
+			0
+		]
+	],
+	"history_rows":[
+		[
+			16,
+			"irrational Schmidt",
+			20,
+			0,
+			0.376907111218
+		],
+		[
+			16,
+			"off-diagonal seed",
+			20,
+			0,
+			0.485195285934
+		],
+		[
+			64,
+			"irrational Schmidt",
+			20,
+			0,
+			0.0589150645157
+		],
+		[
+			64,
+			"off-diagonal seed",
+			20,
+			0,
+			0.0822862623388
+		],
+		[
+			256,
+			"irrational Schmidt",
+			20,
+			0,
+			0.00726645321089
+		],
+		[
+			256,
+			"off-diagonal seed",
+			20,
+			0,
+			0.0174007798735
+		]
+	],
+	"maximum_unitarity_residual":0
+}

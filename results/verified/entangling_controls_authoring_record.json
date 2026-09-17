@@ -1,0 +1,115 @@
+{
+  "created_utc": "2026-09-12T03:28:45.045286+00:00",
+  "stage": "Entangling commands preserving compensated preparation, finite admissibility and reversibility",
+  "manuscript_version": "0.10",
+  "analytic_results": [
+    "Outer local factors preserve strict locality after every entangling history.",
+    "Equal-measure partitions of the nine-dimensional local-unitary quotient yield finite global frame matchings with error at most 4 r_D,L + 4 h_J.",
+    "Four exact CNOT calibration anchors can be imposed with at most a factor-16 bound increase.",
+    "Unchanged compensated phase preparation yields a common random-unitary channel for every mixed local/entangling word.",
+    "Finite admissibility refers to the expanded frame image; it is not original fixed-basis rationality."
+  ],
+  "python_verification": {
+    "status": "passed",
+    "passed_assertions": 12773,
+    "total_assertions": 12773,
+    "environment": "authoring environment; not a run on the user Mac",
+    "arithmetic": "exact integers and fractions; no floating point",
+    "summary": {
+      "group_size": 11520,
+      "local_subgroup_size": 576,
+      "left_cosets": 20,
+      "D": 2,
+      "L": 4,
+      "single_qubit_frames": 24,
+      "initial_phase_pairs": 16,
+      "complete_generator_transition_checks": 57600,
+      "probability_rows": [
+        {
+          "chronological_word": [
+            "HA",
+            "C"
+          ],
+          "probabilities": [
+            "1/2",
+            "0",
+            "0",
+            "1/2"
+          ]
+        },
+        {
+          "chronological_word": [
+            "HA",
+            "C",
+            "SB",
+            "HB",
+            "C",
+            "SA"
+          ],
+          "probabilities": [
+            "1/4",
+            "1/4",
+            "1/4",
+            "1/4"
+          ]
+        },
+        {
+          "chronological_word": [
+            "HB",
+            "SA",
+            "C",
+            "HA",
+            "SB",
+            "C",
+            "HB"
+          ],
+          "probabilities": [
+            "1/4",
+            "1/4",
+            "1/4",
+            "1/4"
+          ]
+        }
+      ],
+      "scope": "Exact Clifford benchmark only. No non-Clifford CNOT matching table or numerical quotient-radius constant certified.",
+      "general_result": "The refining H/T/CNOT construction and all-word preparation law are analytic theorems in the manuscript."
+    },
+    "full_record": "/workspace/scratch/a34ebd00ac45/raqm_entangling/reproducibility/entangling_python_20260912T032006Z_944cd0ed/entangling_controls_run_record.json",
+    "full_record_sha256": "7ba320f8e300c708662e4a3271d38f37417c999c0b67bf02ef2b42221777f8b0"
+  },
+  "mathematica_verification": {
+    "new_entangling_script": "pending user execution; delimiters statically checked only",
+    "previous_matched_H_T_script": "all checks passed according to user; no exported run record supplied this turn"
+  },
+  "latex_verification": {
+    "method": "latex to DVI in temporary directory; no PDF produced",
+    "pages": 49,
+    "undefined_references": false,
+    "overfull_boxes": false,
+    "warnings": false
+  },
+  "scope_limits": [
+    "No numerical value of the quotient partition constant was certified.",
+    "No refining non-Clifford two-qubit CNOT matching table was computed.",
+    "The Clifford benchmark is not a novel deviation from quantum mechanics.",
+    "No physical information-budget or unique RaQM selection-law claim is made."
+  ],
+  "next_target": "Construct and certify a manageable non-Clifford two-qubit matching table, then compare compensated calibrated and uniform phase statistics on entangling interference words.",
+  "artifacts": [
+    {
+      "filename": "verify_entangling_controls.py",
+      "path": "/workspace/scratch/a34ebd00ac45/raqm_entangling/verify_entangling_controls.py",
+      "sha256": "a783a54850fb17e85ca3b7740c6dd8d2fc4d63365aa92be05e75d09474cab7fd"
+    },
+    {
+      "filename": "verify_entangling_controls.wl",
+      "path": "/workspace/scratch/a34ebd00ac45/raqm_entangling/verify_entangling_controls.wl",
+      "sha256": "690a6c25783d3d9d4c83ccc8b3f1368729315f58262932dd71199fca1f9e4c92"
+    },
+    {
+      "filename": "raqm_extension.tex",
+      "path": "/workspace/scratch/a34ebd00ac45/raqm_extension/raqm_extension.tex",
+      "sha256": "afc9da33200900390994814a5d79845c121998331853c5da47ec0d2ee0e7d73d"
+    }
+  ]
+}

@@ -1,0 +1,2738 @@
+"Constructing the 46080-frame table..."
+"Matching table export: saved"
+<|"frames" -> 46080, "clifford_base" -> 11520, "local_frames" -> 48, "nonlocal_charts" -> 20, "total_forward_table_edges" -> 230400, "table_hashes" -> <|"HA" -> "3728a0f3677152b9705b4f2b880c4401b2187f44aae7c092dc6ab1717e1b3a7a", "HB" -> "367acd37d052590e206708557ffd5b3ccbe716cb9526056911c5df3b2323dffe", "TA" -> "f82e962c784534125eb116a9bbc8d5da242607cd2f7c6555e9f3eb84381852f2", "TB" -> "fea55f9c9b1dc459b4e4b0dedb9110226c1f9c6a7d7cd739c740e4018421cc24", "C" -> "0e008ad66cc235bf1e0a74037fd4109c40d3968c9446427cb2e5e70618fba19c"|>, "phase_scan" -> {<|"n" -> 0, "calibrated_p00" -> "1", "uniform_p00" -> "1", "ideal_p00" -> "1"|>, <|"n" -> 1, "calibrated_p00" -> "1", "uniform_p00" -> "3/4", "ideal_p00" -> "1/2 + 1/(2*Sqrt[2])"|>, <|"n" -> 2, "calibrated_p00" -> "1/2", "uniform_p00" -> "1/2", "ideal_p00" -> "1/2"|>, <|"n" -> 3, "calibrated_p00" -> "1/2", "uniform_p00" -> "1/4", "ideal_p00" -> "1/2 - 1/(2*Sqrt[2])"|>, <|"n" -> 4, "calibrated_p00" -> "0", "uniform_p00" -> "0", "ideal_p00" -> "0"|>, <|"n" -> 5, "calibrated_p00" -> "0", "uniform_p00" -> "1/4", "ideal_p00" -> "1/2 - 1/(2*Sqrt[2])"|>, <|"n" -> 6, "calibrated_p00" -> "1/2", "uniform_p00" -> "1/2", "ideal_p00" -> "1/2"|>, <|"n" -> 7, "calibrated_p00" -> "1/2", "uniform_p00" -> "3/4", "ideal_p00" -> "1/2 + 1/(2*Sqrt[2])"|>, <|"n" -> 8, "calibrated_p00" -> "1", "uniform_p00" -> "1", "ideal_p00" -> "1"|>}, "effective_preparation_branches" -> 4, "prior_independent_p1_minus_p3" -> "1/2", "sharp_minimax_prior_error" -> "(sqrt(2)-1)/4 + abs(w-1/2)/2", "scope" -> "Coarse structured non-Clifford matching; no optimality, refinement or unique RaQM prediction claimed."|>
+"All non-Clifford two-qubit checks passed."
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: matrix conjugation is a signed Pauli image
+PASS: independent local H action
+PASS: independent local S action
+PASS: CNOT involution and XI/IZ images
+PASS: exact Clifford base size
+PASS: HA full frame permutation
+PASS: HA inverse restores every label
+PASS: HA exact involution
+PASS: HA frozen table hash matches Python
+PASS: HB full frame permutation
+PASS: HB inverse restores every label
+PASS: HB exact involution
+PASS: HB frozen table hash matches Python
+PASS: TA full frame permutation
+PASS: TA inverse restores every label
+PASS: TA eighth power is identity
+PASS: TA frozen table hash matches Python
+PASS: TB full frame permutation
+PASS: TB inverse restores every label
+PASS: TB eighth power is identity
+PASS: TB frozen table hash matches Python
+PASS: C full frame permutation
+PASS: C inverse restores every label
+PASS: C exact involution
+PASS: C frozen table hash matches Python
+PASS: opposite Hadamards commute on all labels
+PASS: opposite phase gates commute on all labels
+PASS: T carry equals exact S
+PASS: sharp H squared-error certificate
+PASS: sharp CNOT squared-error spectrum
+PASS: selected CNOT unitary is involutive
+PASS: sharp CNOT squared-error spectrum
+PASS: selected CNOT unitary is involutive
+PASS: sharp CNOT squared-error spectrum
+PASS: selected CNOT unitary is involutive
+PASS: sharp CNOT squared-error spectrum
+PASS: selected CNOT unitary is involutive
+PASS: phase translates of Clifford group are distinct
+PASS: phase translates of Clifford group are distinct
+PASS: phase translates of Clifford group are distinct
+PASS: phase translates of Clifford group are distinct
+PASS: phase translates of Clifford group are distinct
+PASS: phase translates of Clifford group are distinct
+PASS: phase translates of Clifford group are distinct
+PASS: phase translates of Clifford group are distinct
+PASS: phase translates of Clifford group are distinct
+PASS: phase translates of Clifford group are distinct
+PASS: phase translates of Clifford group are distinct
+PASS: phase translates of Clifford group are distinct
+PASS: calibrated prefix creates a Bell state
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: retained-seed and physical-gate propagation agree
+PASS: phase parities determine the channel
+PASS: equal-density recipes have equal outputs
+PASS: equal-density recipes have equal outputs
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: calibrated and uniform fringe row
+PASS: independent ideal interference formula
+PASS: even phase values agree exactly
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: calibrated and uniform fringe row
+PASS: independent ideal interference formula
+PASS: exact odd-phase gap squared
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: calibrated and uniform fringe row
+PASS: independent ideal interference formula
+PASS: even phase values agree exactly
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: calibrated and uniform fringe row
+PASS: independent ideal interference formula
+PASS: exact odd-phase gap squared
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: calibrated and uniform fringe row
+PASS: independent ideal interference formula
+PASS: even phase values agree exactly
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: calibrated and uniform fringe row
+PASS: independent ideal interference formula
+PASS: exact odd-phase gap squared
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: calibrated and uniform fringe row
+PASS: independent ideal interference formula
+PASS: even phase values agree exactly
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: calibrated and uniform fringe row
+PASS: independent ideal interference formula
+PASS: exact odd-phase gap squared
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: exact phase-scan probability for every context
+PASS: calibrated and uniform fringe row
+PASS: independent ideal interference formula
+PASS: even phase values agree exactly
+PASS: two-setting contrast independent of every initial context
+PASS: two-setting contrast independent of every initial context
+PASS: two-setting contrast independent of every initial context
+PASS: two-setting contrast independent of every initial context
+PASS: two-setting contrast independent of every initial context
+PASS: two-setting contrast independent of every initial context
+PASS: two-setting contrast independent of every initial context
+PASS: two-setting contrast independent of every initial context
+PASS: two-setting contrast independent of every initial context
+PASS: two-setting contrast independent of every initial context
+PASS: two-setting contrast independent of every initial context
+PASS: two-setting contrast independent of every initial context
+PASS: two-setting contrast independent of every initial context
+PASS: two-setting contrast independent of every initial context
+PASS: two-setting contrast independent of every initial context
+PASS: two-setting contrast independent of every initial context
+PASS: two-setting contrast independent of every initial context
+PASS: two-setting contrast independent of every initial context
+PASS: two-setting contrast independent of every initial context
+PASS: two-setting contrast independent of every initial context
+PASS: two-setting contrast independent of every initial context
+PASS: two-setting contrast independent of every initial context
+PASS: two-setting contrast independent of every initial context
+PASS: two-setting contrast independent of every initial context
+PASS: two-setting contrast independent of every initial context
+PASS: two-setting contrast independent of every initial context
+PASS: two-setting contrast independent of every initial context
+PASS: two-setting contrast independent of every initial context
+PASS: two-setting contrast independent of every initial context
+PASS: two-setting contrast independent of every initial context
+PASS: two-setting contrast independent of every initial context
+PASS: two-setting contrast independent of every initial context
+PASS: two-setting contrast independent of every initial context
+PASS: two-setting contrast independent of every initial context
+PASS: two-setting contrast independent of every initial context
+PASS: two-setting contrast independent of every initial context
+PASS: two-setting contrast independent of every initial context
+PASS: two-setting contrast independent of every initial context
+PASS: two-setting contrast independent of every initial context
+PASS: two-setting contrast independent of every initial context
+PASS: two-setting contrast independent of every initial context
+PASS: two-setting contrast independent of every initial context
+PASS: two-setting contrast independent of every initial context
+PASS: two-setting contrast independent of every initial context
+PASS: two-setting contrast independent of every initial context
+PASS: two-setting contrast independent of every initial context
+PASS: two-setting contrast independent of every initial context
+PASS: two-setting contrast independent of every initial context
+PASS: two-setting contrast independent of every initial context
+PASS: two-setting contrast independent of every initial context
+PASS: two-setting contrast independent of every initial context
+PASS: two-setting contrast independent of every initial context
+PASS: two-setting contrast independent of every initial context
+PASS: two-setting contrast independent of every initial context
+PASS: two-setting contrast independent of every initial context
+PASS: two-setting contrast independent of every initial context
+PASS: two-setting contrast independent of every initial context
+PASS: two-setting contrast independent of every initial context
+PASS: two-setting contrast independent of every initial context
+PASS: two-setting contrast independent of every initial context
+PASS: two-setting contrast independent of every initial context
+PASS: two-setting contrast independent of every initial context
+PASS: two-setting contrast independent of every initial context
+PASS: two-setting contrast independent of every initial context
+PASS: four phase contexts are future-distinguishable
+PASS: sharp fixed-prior worst-error formula
+PASS: sharp fixed-prior worst-error formula
+PASS: sharp fixed-prior worst-error formula
+PASS: sharp fixed-prior worst-error formula
+PASS: sharp fixed-prior worst-error formula
+PASS: sharp fixed-prior worst-error formula
+PASS: sharp fixed-prior worst-error formula
+PASS: sharp fixed-prior worst-error formula
+PASS: sharp fixed-prior worst-error formula
+PASS: sharp fixed-prior worst-error formula
+PASS: sharp fixed-prior worst-error formula
+PASS: sharp fixed-prior worst-error formula
+PASS: sharp fixed-prior worst-error formula
+PASS: sharp fixed-prior worst-error formula
+PASS: sharp fixed-prior worst-error formula
+PASS: sharp fixed-prior worst-error formula
+PASS: sharp fixed-prior worst-error formula

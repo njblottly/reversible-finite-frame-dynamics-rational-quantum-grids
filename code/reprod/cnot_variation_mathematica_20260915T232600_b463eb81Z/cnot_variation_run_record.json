@@ -1,0 +1,1546 @@
+{
+	"started_utc":"2026-09-15T23:26:00Z",
+	"script":"verify_cnot_variation.wl",
+	"script_version":"0.1",
+	"loaded_source_path":null,
+	"execution_mode":"interactive evaluation",
+	"script_sha256":null,
+	"source_hash_status":"unavailable; no executed source file was identified or hashing failed",
+	"record_directory_source":"saved notebook directory",
+	"record_directory":"\/Users\/njblost\/Library\/Mobile Documents\/com~apple~CloudDocs\/9. RS\/raqm-paper\/code\/reproducibility\/cnot_variation_mathematica_20260915T232600_b463eb81Z",
+	"wolfram_version":"13.3.0 for Mac OS X ARM (64-bit) (April 11, 2023)",
+	"system_id":"MacOSX-ARM64",
+	"operating_system":"MacOSX",
+	"system_word_length":64,
+	"arithmetic":"exact integer, rational and symbolic",
+	"scope":"Explicit phase-type CNOT rule and probability history; no exhaustive matching search or asymptotic onset claim.",
+	"finished_utc":"2026-09-15T23:26:04Z",
+	"status":"passed",
+	"total_assertions":327,
+	"passed_assertions":327,
+	"results":{
+		"counterexample_verified":true,
+		"modified_phase_type":[
+			1,
+			0
+		],
+		"CNOT_Clifford_multiplier_at_modified_type":"C (I tensor ZH)",
+		"other_phase_types":"C",
+		"H_error_bound":"sqrt(1-1\/sqrt(2))",
+		"C_error_bound":"sqrt(2-sqrt(2))",
+		"retained_labels":184320,
+		"additional_labels_relative_to_previous_stage":0,
+		"calibration_preserved":true,
+		"inverse_C_rule":"left multiplication by D_ab^dagger; phase types unchanged",
+		"actual_A1_n_0_to_7":[
+			"0",
+			"1\/2",
+			"1\/2",
+			"1\/2",
+			"1\/2",
+			"1\/2",
+			"1\/2",
+			"0"
+		],
+		"ideal_A1_n_0_to_7":[
+			"0",
+			"1\/2",
+			"1\/2",
+			"1\/4",
+			"1\/4",
+			"3\/8",
+			"5\/8",
+			"1\/16"
+		],
+		"maximum_discrepancy_through_seven":"1\/4",
+		"discrepancy_at_seven":"1\/16",
+		"joint_at_seven":[
+			"1\/2",
+			"1\/2",
+			"0",
+			"0"
+		],
+		"signed_inner_stabilisers_n_0_to_7":[
+			[
+				"ZI",
+				"IZ"
+			],
+			[
+				"XX",
+				"-IX"
+			],
+			[
+				"-YI",
+				"-IX"
+			],
+			[
+				"YX",
+				"-ZZ"
+			],
+			[
+				"-ZX",
+				"YY"
+			],
+			[
+				"YY",
+				"XZ"
+			],
+			[
+				"-IY",
+				"-XY"
+			],
+			[
+				"-ZY",
+				"-IY"
+			]
+		],
+		"scan_horizon":64,
+		"first_gap_above_one_third_within_scan":15,
+		"actual_A1_full_scan":[
+			"0",
+			"1\/2",
+			"1\/2",
+			"1\/2",
+			"1\/2",
+			"1\/2",
+			"1\/2",
+			"0",
+			"1\/2",
+			"1\/2",
+			"0",
+			"1\/2",
+			"1\/2",
+			"1\/2",
+			"1\/2",
+			"1\/2",
+			"1\/2",
+			"0",
+			"1\/2",
+			"1\/2",
+			"0",
+			"1\/2",
+			"1\/2",
+			"1\/2",
+			"1\/2",
+			"1\/2",
+			"1\/2",
+			"0",
+			"1\/2",
+			"1\/2",
+			"0",
+			"1\/2",
+			"1\/2",
+			"1\/2",
+			"1\/2",
+			"1\/2",
+			"1\/2",
+			"0",
+			"1\/2",
+			"1\/2",
+			"0",
+			"1\/2",
+			"1\/2",
+			"1\/2",
+			"1\/2",
+			"1\/2",
+			"1\/2",
+			"0",
+			"1\/2",
+			"1\/2",
+			"0",
+			"1\/2",
+			"1\/2",
+			"1\/2",
+			"1\/2",
+			"1\/2",
+			"1\/2",
+			"0",
+			"1\/2",
+			"1\/2",
+			"0",
+			"1\/2",
+			"1\/2",
+			"1\/2",
+			"1\/2"
+		],
+		"ideal_A1_full_scan":[
+			"0",
+			"1\/2",
+			"1\/2",
+			"1\/4",
+			"1\/4",
+			"3\/8",
+			"5\/8",
+			"1\/16",
+			"5\/16",
+			"19\/32",
+			"9\/32",
+			"17\/64",
+			"17\/64",
+			"83\/128",
+			"29\/128",
+			"33\/256",
+			"157\/256",
+			"179\/512",
+			"145\/512",
+			"209\/1024",
+			"585\/1024",
+			"883\/2048",
+			"37\/2048",
+			"2209\/4096",
+			"1813\/4096",
+			"2451\/8192",
+			"1625\/8192",
+			"7057\/16384",
+			"9857\/16384",
+			"787\/32768",
+			"12717\/32768",
+			"34721\/65536",
+			"21005\/65536",
+			"30707\/131072",
+			"37025\/131072",
+			"177873\/262144",
+			"38713\/262144",
+			"109619\/524288",
+			"300469\/524288",
+			"374561\/1048576",
+			"300933\/1048576",
+			"372691\/2097152",
+			"1341289\/2097152",
+			"1448593\/4194304",
+			"284785\/4194304",
+			"4562643\/8388608",
+			"3457085\/8388608",
+			"5617441\/16777216",
+			"2421629\/16777216",
+			"16982323\/33554432",
+			"18292401\/33554432",
+			"1402577\/67108864",
+			"29443625\/67108864",
+			"63597299\/134217728",
+			"49460549\/134217728",
+			"48318369\/268435456",
+			"89203189\/268435456",
+			"362134547\/536870912",
+			"49212025\/536870912",
+			"306805649\/1073741824",
+			"556203105\/1073741824",
+			"841375891\/2147483648",
+			"554612941\/2147483648",
+			"782723233\/4294967296",
+			"2956074733\/4294967296"
+		],
+		"all_fixed_phase_priors":"analytic consequence of inherited right-phase equivariance and compensated preparation",
+		"certification_scope":"explicit full-table algebraic rule; no exhaustive optimisation or asymptotic onset claim"
+	},
+	"checks":[
+		{
+			"label":"scan horizon at least seven",
+			"passed":true
+		},
+		{
+			"label":"R=ZH=(I+iY)\/sqrt(2) is unitary",
+			"passed":true
+		},
+		{
+			"label":"quarter-turn Clifford action",
+			"passed":true
+		},
+		{
+			"label":"exact quarter-turn error certificate",
+			"passed":true
+		},
+		{
+			"label":"bijective unitary left multiplier",
+			"passed":true
+		},
+		{
+			"label":"single nonzero Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"unit signed Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"single nonzero Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"unit signed Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"single nonzero Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"unit signed Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"single nonzero Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"unit signed Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"single nonzero Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"unit signed Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"single nonzero Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"unit signed Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"single nonzero Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"unit signed Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"single nonzero Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"unit signed Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"single nonzero Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"unit signed Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"single nonzero Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"unit signed Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"single nonzero Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"unit signed Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"single nonzero Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"unit signed Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"single nonzero Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"unit signed Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"single nonzero Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"unit signed Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"single nonzero Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"unit signed Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"single nonzero Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"unit signed Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"exact calibrated CNOT type",
+			"passed":true
+		},
+		{
+			"label":"bijective unitary left multiplier",
+			"passed":true
+		},
+		{
+			"label":"single nonzero Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"unit signed Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"single nonzero Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"unit signed Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"single nonzero Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"unit signed Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"single nonzero Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"unit signed Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"single nonzero Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"unit signed Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"single nonzero Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"unit signed Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"single nonzero Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"unit signed Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"single nonzero Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"unit signed Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"single nonzero Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"unit signed Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"single nonzero Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"unit signed Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"single nonzero Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"unit signed Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"single nonzero Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"unit signed Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"single nonzero Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"unit signed Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"single nonzero Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"unit signed Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"single nonzero Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"unit signed Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"single nonzero Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"unit signed Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"unchanged odd-target CNOT spectrum",
+			"passed":true
+		},
+		{
+			"label":"bijective unitary left multiplier",
+			"passed":true
+		},
+		{
+			"label":"single nonzero Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"unit signed Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"single nonzero Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"unit signed Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"single nonzero Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"unit signed Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"single nonzero Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"unit signed Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"single nonzero Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"unit signed Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"single nonzero Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"unit signed Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"single nonzero Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"unit signed Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"single nonzero Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"unit signed Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"single nonzero Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"unit signed Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"single nonzero Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"unit signed Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"single nonzero Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"unit signed Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"single nonzero Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"unit signed Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"single nonzero Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"unit signed Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"single nonzero Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"unit signed Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"single nonzero Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"unit signed Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"single nonzero Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"unit signed Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"modified CNOT type",
+			"passed":true
+		},
+		{
+			"label":"bijective unitary left multiplier",
+			"passed":true
+		},
+		{
+			"label":"single nonzero Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"unit signed Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"single nonzero Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"unit signed Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"single nonzero Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"unit signed Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"single nonzero Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"unit signed Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"single nonzero Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"unit signed Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"single nonzero Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"unit signed Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"single nonzero Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"unit signed Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"single nonzero Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"unit signed Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"single nonzero Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"unit signed Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"single nonzero Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"unit signed Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"single nonzero Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"unit signed Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"single nonzero Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"unit signed Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"single nonzero Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"unit signed Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"single nonzero Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"unit signed Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"single nonzero Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"unit signed Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"single nonzero Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"unit signed Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"unchanged odd-target CNOT spectrum",
+			"passed":true
+		},
+		{
+			"label":"CNOT calibration I <-> C",
+			"passed":true
+		},
+		{
+			"label":"CNOT calibration H_A <-> C H_A",
+			"passed":true
+		},
+		{
+			"label":"Hadamard calibration",
+			"passed":true
+		},
+		{
+			"label":"unchanged Hadamard error bound",
+			"passed":true
+		},
+		{
+			"label":"frame carries equal direct physical composition",
+			"passed":true
+		},
+		{
+			"label":"rational probabilities",
+			"passed":true
+		},
+		{
+			"label":"single nonzero Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"unit signed Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"single nonzero Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"unit signed Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"hand-derived stabilisers at depth 0",
+			"passed":true
+		},
+		{
+			"label":"ideal probability at depth 0",
+			"passed":true
+		},
+		{
+			"label":"frame carries equal direct physical composition",
+			"passed":true
+		},
+		{
+			"label":"rational probabilities",
+			"passed":true
+		},
+		{
+			"label":"single nonzero Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"unit signed Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"single nonzero Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"unit signed Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"hand-derived stabilisers at depth 1",
+			"passed":true
+		},
+		{
+			"label":"ideal probability at depth 1",
+			"passed":true
+		},
+		{
+			"label":"frame carries equal direct physical composition",
+			"passed":true
+		},
+		{
+			"label":"rational probabilities",
+			"passed":true
+		},
+		{
+			"label":"single nonzero Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"unit signed Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"single nonzero Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"unit signed Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"hand-derived stabilisers at depth 2",
+			"passed":true
+		},
+		{
+			"label":"ideal probability at depth 2",
+			"passed":true
+		},
+		{
+			"label":"frame carries equal direct physical composition",
+			"passed":true
+		},
+		{
+			"label":"rational probabilities",
+			"passed":true
+		},
+		{
+			"label":"single nonzero Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"unit signed Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"single nonzero Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"unit signed Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"hand-derived stabilisers at depth 3",
+			"passed":true
+		},
+		{
+			"label":"ideal probability at depth 3",
+			"passed":true
+		},
+		{
+			"label":"frame carries equal direct physical composition",
+			"passed":true
+		},
+		{
+			"label":"rational probabilities",
+			"passed":true
+		},
+		{
+			"label":"single nonzero Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"unit signed Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"single nonzero Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"unit signed Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"hand-derived stabilisers at depth 4",
+			"passed":true
+		},
+		{
+			"label":"ideal probability at depth 4",
+			"passed":true
+		},
+		{
+			"label":"frame carries equal direct physical composition",
+			"passed":true
+		},
+		{
+			"label":"rational probabilities",
+			"passed":true
+		},
+		{
+			"label":"single nonzero Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"unit signed Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"single nonzero Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"unit signed Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"hand-derived stabilisers at depth 5",
+			"passed":true
+		},
+		{
+			"label":"ideal probability at depth 5",
+			"passed":true
+		},
+		{
+			"label":"frame carries equal direct physical composition",
+			"passed":true
+		},
+		{
+			"label":"rational probabilities",
+			"passed":true
+		},
+		{
+			"label":"single nonzero Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"unit signed Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"single nonzero Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"unit signed Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"hand-derived stabilisers at depth 6",
+			"passed":true
+		},
+		{
+			"label":"ideal probability at depth 6",
+			"passed":true
+		},
+		{
+			"label":"frame carries equal direct physical composition",
+			"passed":true
+		},
+		{
+			"label":"rational probabilities",
+			"passed":true
+		},
+		{
+			"label":"single nonzero Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"unit signed Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"single nonzero Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"unit signed Pauli coefficient",
+			"passed":true
+		},
+		{
+			"label":"hand-derived stabilisers at depth 7",
+			"passed":true
+		},
+		{
+			"label":"ideal probability at depth 7",
+			"passed":true
+		},
+		{
+			"label":"frame carries equal direct physical composition",
+			"passed":true
+		},
+		{
+			"label":"rational probabilities",
+			"passed":true
+		},
+		{
+			"label":"frame carries equal direct physical composition",
+			"passed":true
+		},
+		{
+			"label":"rational probabilities",
+			"passed":true
+		},
+		{
+			"label":"frame carries equal direct physical composition",
+			"passed":true
+		},
+		{
+			"label":"rational probabilities",
+			"passed":true
+		},
+		{
+			"label":"frame carries equal direct physical composition",
+			"passed":true
+		},
+		{
+			"label":"rational probabilities",
+			"passed":true
+		},
+		{
+			"label":"frame carries equal direct physical composition",
+			"passed":true
+		},
+		{
+			"label":"rational probabilities",
+			"passed":true
+		},
+		{
+			"label":"frame carries equal direct physical composition",
+			"passed":true
+		},
+		{
+			"label":"rational probabilities",
+			"passed":true
+		},
+		{
+			"label":"frame carries equal direct physical composition",
+			"passed":true
+		},
+		{
+			"label":"rational probabilities",
+			"passed":true
+		},
+		{
+			"label":"frame carries equal direct physical composition",
+			"passed":true
+		},
+		{
+			"label":"rational probabilities",
+			"passed":true
+		},
+		{
+			"label":"frame carries equal direct physical composition",
+			"passed":true
+		},
+		{
+			"label":"rational probabilities",
+			"passed":true
+		},
+		{
+			"label":"frame carries equal direct physical composition",
+			"passed":true
+		},
+		{
+			"label":"rational probabilities",
+			"passed":true
+		},
+		{
+			"label":"frame carries equal direct physical composition",
+			"passed":true
+		},
+		{
+			"label":"rational probabilities",
+			"passed":true
+		},
+		{
+			"label":"frame carries equal direct physical composition",
+			"passed":true
+		},
+		{
+			"label":"rational probabilities",
+			"passed":true
+		},
+		{
+			"label":"frame carries equal direct physical composition",
+			"passed":true
+		},
+		{
+			"label":"rational probabilities",
+			"passed":true
+		},
+		{
+			"label":"frame carries equal direct physical composition",
+			"passed":true
+		},
+		{
+			"label":"rational probabilities",
+			"passed":true
+		},
+		{
+			"label":"frame carries equal direct physical composition",
+			"passed":true
+		},
+		{
+			"label":"rational probabilities",
+			"passed":true
+		},
+		{
+			"label":"frame carries equal direct physical composition",
+			"passed":true
+		},
+		{
+			"label":"rational probabilities",
+			"passed":true
+		},
+		{
+			"label":"frame carries equal direct physical composition",
+			"passed":true
+		},
+		{
+			"label":"rational probabilities",
+			"passed":true
+		},
+		{
+			"label":"frame carries equal direct physical composition",
+			"passed":true
+		},
+		{
+			"label":"rational probabilities",
+			"passed":true
+		},
+		{
+			"label":"frame carries equal direct physical composition",
+			"passed":true
+		},
+		{
+			"label":"rational probabilities",
+			"passed":true
+		},
+		{
+			"label":"frame carries equal direct physical composition",
+			"passed":true
+		},
+		{
+			"label":"rational probabilities",
+			"passed":true
+		},
+		{
+			"label":"frame carries equal direct physical composition",
+			"passed":true
+		},
+		{
+			"label":"rational probabilities",
+			"passed":true
+		},
+		{
+			"label":"frame carries equal direct physical composition",
+			"passed":true
+		},
+		{
+			"label":"rational probabilities",
+			"passed":true
+		},
+		{
+			"label":"frame carries equal direct physical composition",
+			"passed":true
+		},
+		{
+			"label":"rational probabilities",
+			"passed":true
+		},
+		{
+			"label":"frame carries equal direct physical composition",
+			"passed":true
+		},
+		{
+			"label":"rational probabilities",
+			"passed":true
+		},
+		{
+			"label":"frame carries equal direct physical composition",
+			"passed":true
+		},
+		{
+			"label":"rational probabilities",
+			"passed":true
+		},
+		{
+			"label":"frame carries equal direct physical composition",
+			"passed":true
+		},
+		{
+			"label":"rational probabilities",
+			"passed":true
+		},
+		{
+			"label":"frame carries equal direct physical composition",
+			"passed":true
+		},
+		{
+			"label":"rational probabilities",
+			"passed":true
+		},
+		{
+			"label":"frame carries equal direct physical composition",
+			"passed":true
+		},
+		{
+			"label":"rational probabilities",
+			"passed":true
+		},
+		{
+			"label":"frame carries equal direct physical composition",
+			"passed":true
+		},
+		{
+			"label":"rational probabilities",
+			"passed":true
+		},
+		{
+			"label":"frame carries equal direct physical composition",
+			"passed":true
+		},
+		{
+			"label":"rational probabilities",
+			"passed":true
+		},
+		{
+			"label":"frame carries equal direct physical composition",
+			"passed":true
+		},
+		{
+			"label":"rational probabilities",
+			"passed":true
+		},
+		{
+			"label":"frame carries equal direct physical composition",
+			"passed":true
+		},
+		{
+			"label":"rational probabilities",
+			"passed":true
+		},
+		{
+			"label":"frame carries equal direct physical composition",
+			"passed":true
+		},
+		{
+			"label":"rational probabilities",
+			"passed":true
+		},
+		{
+			"label":"frame carries equal direct physical composition",
+			"passed":true
+		},
+		{
+			"label":"rational probabilities",
+			"passed":true
+		},
+		{
+			"label":"frame carries equal direct physical composition",
+			"passed":true
+		},
+		{
+			"label":"rational probabilities",
+			"passed":true
+		},
+		{
+			"label":"frame carries equal direct physical composition",
+			"passed":true
+		},
+		{
+			"label":"rational probabilities",
+			"passed":true
+		},
+		{
+			"label":"frame carries equal direct physical composition",
+			"passed":true
+		},
+		{
+			"label":"rational probabilities",
+			"passed":true
+		},
+		{
+			"label":"frame carries equal direct physical composition",
+			"passed":true
+		},
+		{
+			"label":"rational probabilities",
+			"passed":true
+		},
+		{
+			"label":"frame carries equal direct physical composition",
+			"passed":true
+		},
+		{
+			"label":"rational probabilities",
+			"passed":true
+		},
+		{
+			"label":"frame carries equal direct physical composition",
+			"passed":true
+		},
+		{
+			"label":"rational probabilities",
+			"passed":true
+		},
+		{
+			"label":"frame carries equal direct physical composition",
+			"passed":true
+		},
+		{
+			"label":"rational probabilities",
+			"passed":true
+		},
+		{
+			"label":"frame carries equal direct physical composition",
+			"passed":true
+		},
+		{
+			"label":"rational probabilities",
+			"passed":true
+		},
+		{
+			"label":"frame carries equal direct physical composition",
+			"passed":true
+		},
+		{
+			"label":"rational probabilities",
+			"passed":true
+		},
+		{
+			"label":"frame carries equal direct physical composition",
+			"passed":true
+		},
+		{
+			"label":"rational probabilities",
+			"passed":true
+		},
+		{
+			"label":"frame carries equal direct physical composition",
+			"passed":true
+		},
+		{
+			"label":"rational probabilities",
+			"passed":true
+		},
+		{
+			"label":"frame carries equal direct physical composition",
+			"passed":true
+		},
+		{
+			"label":"rational probabilities",
+			"passed":true
+		},
+		{
+			"label":"frame carries equal direct physical composition",
+			"passed":true
+		},
+		{
+			"label":"rational probabilities",
+			"passed":true
+		},
+		{
+			"label":"frame carries equal direct physical composition",
+			"passed":true
+		},
+		{
+			"label":"rational probabilities",
+			"passed":true
+		},
+		{
+			"label":"frame carries equal direct physical composition",
+			"passed":true
+		},
+		{
+			"label":"rational probabilities",
+			"passed":true
+		},
+		{
+			"label":"frame carries equal direct physical composition",
+			"passed":true
+		},
+		{
+			"label":"rational probabilities",
+			"passed":true
+		},
+		{
+			"label":"frame carries equal direct physical composition",
+			"passed":true
+		},
+		{
+			"label":"rational probabilities",
+			"passed":true
+		},
+		{
+			"label":"frame carries equal direct physical composition",
+			"passed":true
+		},
+		{
+			"label":"rational probabilities",
+			"passed":true
+		},
+		{
+			"label":"frame carries equal direct physical composition",
+			"passed":true
+		},
+		{
+			"label":"rational probabilities",
+			"passed":true
+		},
+		{
+			"label":"frame carries equal direct physical composition",
+			"passed":true
+		},
+		{
+			"label":"rational probabilities",
+			"passed":true
+		},
+		{
+			"label":"frame carries equal direct physical composition",
+			"passed":true
+		},
+		{
+			"label":"rational probabilities",
+			"passed":true
+		},
+		{
+			"label":"frame carries equal direct physical composition",
+			"passed":true
+		},
+		{
+			"label":"rational probabilities",
+			"passed":true
+		},
+		{
+			"label":"frame carries equal direct physical composition",
+			"passed":true
+		},
+		{
+			"label":"rational probabilities",
+			"passed":true
+		},
+		{
+			"label":"counterexample history through seven",
+			"passed":true
+		},
+		{
+			"label":"whole-history maximum discrepancy is one quarter",
+			"passed":true
+		},
+		{
+			"label":"seven-block discrepancy is one sixteenth",
+			"passed":true
+		},
+		{
+			"label":"joint probabilities at seven",
+			"passed":true
+		},
+		{
+			"label":"no strict one-third crossing through seven",
+			"passed":true
+		}
+	]
+}

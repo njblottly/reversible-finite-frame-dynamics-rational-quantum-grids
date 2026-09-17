@@ -1,0 +1,36 @@
+{
+  "stage": "contrast robustness under alternative matchings and nested accuracy refinement",
+  "date_utc": "2026-09-13T08:36:01.854084+00:00",
+  "manuscript_working_version": "0.12",
+  "python": {
+    "status": "passed",
+    "passed_assertions": 1524,
+    "arithmetic": "exact integer and algebraic arithmetic; no floating-point verification",
+    "run_record": "raqm_contrast_refinement/reproducibility/contrast_python_20260913T082735Z_e96ac715/contrast_refinement_run_record.json"
+  },
+  "mathematica": {
+    "status": "pending user execution",
+    "local_check": "static delimiter scan only; no Wolfram kernel execution"
+  },
+  "latex": {
+    "status": "compiled to DVI",
+    "pages": 57,
+    "overfull_boxes": 0,
+    "unresolved_references": 0,
+    "pdf_generated": false
+  },
+  "results": {
+    "same_catalogue": "Two explicit variants retain contrast 1/2. One strictly improves worst H and C errors; the other preserves calibration anchors. This is not exhaustive matching optimisation.",
+    "refinement": "Analytic nested catalogue construction with shrinking uniform errors; no refined large table enumerated. Fixed-fringe contrast converges to 1/sqrt(2), uniformly over fixed preparation priors.",
+    "limitation": "Finite admissibility alone does not imply the coarse fixed positive error floor. Finite-resolution and joint depth-resolution effects remain open.",
+    "next_target": "Repeated mixed-control words in a joint depth-resolution limit; seek robust lower bounds under admissible matching and preparation choices."
+  },
+  "sha256": {
+    "raqm_extension/raqm_extension.tex": "87b375f0795ab29947ed62ef0176579a392ce27b7369a4ae6836e9002ea4a0a1",
+    "raqm_contrast_refinement/verify_contrast_refinement.py": "a6eac0465b5d48c88228e0b07cc0628d177e7b1e4bb20a40febe13299c02fd80",
+    "raqm_contrast_refinement/verify_contrast_refinement.wl": "3bc0a27d3890918bfa486251b36bdfe1a2bef05ff980a2806868293426c3d42c",
+    "raqm_contrast_refinement/contrast_matching_tables.json": "2a0a18a5dce180f258e97a6fba246f410ae639330acb2a7c053d474541f7baa2",
+    "raqm_contrast_refinement/reproducibility/contrast_python_20260913T082735Z_e96ac715/contrast_refinement_run_record.json": "776067e148a0b9ce2879c383a79b0e840888e35d55d8c6ac238faa6347c8ef56",
+    "raqm_contrast_refinement/reproducibility/contrast_python_20260913T082735Z_e96ac715/contrast_refinement_assertion_log.txt": "5f408ca2ccc01c82c93aa61723209025116075900832cd8ffe11b96aabb25629"
+  }
+}

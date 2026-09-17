@@ -1,0 +1,3495 @@
+<|"label_count" -> 576, "retained_context_classes" -> 116, "phi_context_multiplicities" -> {1, 1, 1, 21}, "one_step_survival" -> "23/24", "inverse_echo" -> "1", "two_steps_with_context_reset" -> "265/288", "uniform_quotient_one_step" -> "3/4", "equal_density_mixture_probabilities" -> {"23/48", "25/48"}, "mixture_probability_difference" -> "1/24", "scope" -> "Conditional predictions, not a unique RaQM law"|>
+"All preparation-law checks passed."
+PASS: 24 distinct proper rotations
+PASS: 116 retained context classes
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: exact context echo
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: quotient counting measure is invariant
+PASS: 24 frame representatives per ray
+PASS: specified pure ray is prepared
+PASS: one-sided law is a random-unitary channel
+PASS: one-step survival is 23/24
+PASS: stationary-support preparation exists
+PASS: stationary-support identity law
+PASS: induced quotient weights preserve statistics
+PASS: stationary-support identity law
+PASS: induced quotient weights preserve statistics
+PASS: stationary-support identity law
+PASS: induced quotient weights preserve statistics
+PASS: stationary-support identity law
+PASS: induced quotient weights preserve statistics
+PASS: 24 frame representatives per ray
+PASS: specified pure ray is prepared
+PASS: one-sided law is a random-unitary channel
+PASS: one-step survival is 23/24
+PASS: stationary-support preparation exists
+PASS: stationary-support identity law
+PASS: induced quotient weights preserve statistics
+PASS: stationary-support identity law
+PASS: induced quotient weights preserve statistics
+PASS: stationary-support identity law
+PASS: induced quotient weights preserve statistics
+PASS: stationary-support identity law
+PASS: induced quotient weights preserve statistics
+PASS: 24 frame representatives per ray
+PASS: specified pure ray is prepared
+PASS: one-sided law is a random-unitary channel
+PASS: one-step survival is 23/24
+PASS: stationary-support preparation exists
+PASS: stationary-support identity law
+PASS: induced quotient weights preserve statistics
+PASS: stationary-support identity law
+PASS: induced quotient weights preserve statistics
+PASS: stationary-support identity law
+PASS: induced quotient weights preserve statistics
+PASS: stationary-support identity law
+PASS: induced quotient weights preserve statistics
+PASS: 24 frame representatives per ray
+PASS: specified pure ray is prepared
+PASS: one-sided law is a random-unitary channel
+PASS: one-step survival is 23/24
+PASS: stationary-support preparation exists
+PASS: stationary-support identity law
+PASS: induced quotient weights preserve statistics
+PASS: stationary-support identity law
+PASS: induced quotient weights preserve statistics
+PASS: stationary-support identity law
+PASS: induced quotient weights preserve statistics
+PASS: stationary-support identity law
+PASS: induced quotient weights preserve statistics
+PASS: 24 frame representatives per ray
+PASS: specified pure ray is prepared
+PASS: one-sided law is a random-unitary channel
+PASS: one-step survival is 23/24
+PASS: stationary-support preparation exists
+PASS: stationary-support identity law
+PASS: induced quotient weights preserve statistics
+PASS: stationary-support identity law
+PASS: induced quotient weights preserve statistics
+PASS: stationary-support identity law
+PASS: induced quotient weights preserve statistics
+PASS: stationary-support identity law
+PASS: induced quotient weights preserve statistics
+PASS: 24 frame representatives per ray
+PASS: specified pure ray is prepared
+PASS: one-sided law is a random-unitary channel
+PASS: one-step survival is 23/24
+PASS: stationary-support preparation exists
+PASS: stationary-support identity law
+PASS: induced quotient weights preserve statistics
+PASS: stationary-support identity law
+PASS: induced quotient weights preserve statistics
+PASS: stationary-support identity law
+PASS: induced quotient weights preserve statistics
+PASS: stationary-support identity law
+PASS: induced quotient weights preserve statistics
+PASS: 24 frame representatives per ray
+PASS: specified pure ray is prepared
+PASS: one-sided law is a random-unitary channel
+PASS: one-step survival is 23/24
+PASS: stationary-support preparation exists
+PASS: stationary-support identity law
+PASS: induced quotient weights preserve statistics
+PASS: stationary-support identity law
+PASS: induced quotient weights preserve statistics
+PASS: stationary-support identity law
+PASS: induced quotient weights preserve statistics
+PASS: stationary-support identity law
+PASS: induced quotient weights preserve statistics
+PASS: 24 frame representatives per ray
+PASS: specified pure ray is prepared
+PASS: one-sided law is a random-unitary channel
+PASS: one-step survival is 23/24
+PASS: stationary-support preparation exists
+PASS: stationary-support identity law
+PASS: induced quotient weights preserve statistics
+PASS: stationary-support identity law
+PASS: induced quotient weights preserve statistics
+PASS: stationary-support identity law
+PASS: induced quotient weights preserve statistics
+PASS: stationary-support identity law
+PASS: induced quotient weights preserve statistics
+PASS: 24 frame representatives per ray
+PASS: specified pure ray is prepared
+PASS: one-sided law is a random-unitary channel
+PASS: one-step survival is 23/24
+PASS: stationary-support preparation exists
+PASS: stationary-support identity law
+PASS: induced quotient weights preserve statistics
+PASS: stationary-support identity law
+PASS: induced quotient weights preserve statistics
+PASS: stationary-support identity law
+PASS: induced quotient weights preserve statistics
+PASS: stationary-support identity law
+PASS: induced quotient weights preserve statistics
+PASS: 24 frame representatives per ray
+PASS: specified pure ray is prepared
+PASS: one-sided law is a random-unitary channel
+PASS: one-step survival is 23/24
+PASS: stationary-support preparation exists
+PASS: stationary-support identity law
+PASS: induced quotient weights preserve statistics
+PASS: stationary-support identity law
+PASS: induced quotient weights preserve statistics
+PASS: stationary-support identity law
+PASS: induced quotient weights preserve statistics
+PASS: stationary-support identity law
+PASS: induced quotient weights preserve statistics
+PASS: 24 frame representatives per ray
+PASS: specified pure ray is prepared
+PASS: one-sided law is a random-unitary channel
+PASS: one-step survival is 23/24
+PASS: stationary-support preparation exists
+PASS: stationary-support identity law
+PASS: induced quotient weights preserve statistics
+PASS: stationary-support identity law
+PASS: induced quotient weights preserve statistics
+PASS: stationary-support identity law
+PASS: induced quotient weights preserve statistics
+PASS: stationary-support identity law
+PASS: induced quotient weights preserve statistics
+PASS: 24 frame representatives per ray
+PASS: specified pure ray is prepared
+PASS: one-sided law is a random-unitary channel
+PASS: one-step survival is 23/24
+PASS: stationary-support preparation exists
+PASS: stationary-support identity law
+PASS: induced quotient weights preserve statistics
+PASS: stationary-support identity law
+PASS: induced quotient weights preserve statistics
+PASS: stationary-support identity law
+PASS: induced quotient weights preserve statistics
+PASS: stationary-support identity law
+PASS: induced quotient weights preserve statistics
+PASS: 24 frame representatives per ray
+PASS: specified pure ray is prepared
+PASS: one-sided law is a random-unitary channel
+PASS: one-step survival is 23/24
+PASS: stationary-support preparation exists
+PASS: stationary-support identity law
+PASS: induced quotient weights preserve statistics
+PASS: stationary-support identity law
+PASS: induced quotient weights preserve statistics
+PASS: stationary-support identity law
+PASS: induced quotient weights preserve statistics
+PASS: stationary-support identity law
+PASS: induced quotient weights preserve statistics
+PASS: 24 frame representatives per ray
+PASS: specified pure ray is prepared
+PASS: one-sided law is a random-unitary channel
+PASS: one-step survival is 23/24
+PASS: stationary-support preparation exists
+PASS: stationary-support identity law
+PASS: induced quotient weights preserve statistics
+PASS: stationary-support identity law
+PASS: induced quotient weights preserve statistics
+PASS: stationary-support identity law
+PASS: induced quotient weights preserve statistics
+PASS: stationary-support identity law
+PASS: induced quotient weights preserve statistics
+PASS: 24 frame representatives per ray
+PASS: specified pure ray is prepared
+PASS: one-sided law is a random-unitary channel
+PASS: one-step survival is 23/24
+PASS: stationary-support preparation exists
+PASS: stationary-support identity law
+PASS: induced quotient weights preserve statistics
+PASS: stationary-support identity law
+PASS: induced quotient weights preserve statistics
+PASS: stationary-support identity law
+PASS: induced quotient weights preserve statistics
+PASS: stationary-support identity law
+PASS: induced quotient weights preserve statistics
+PASS: 24 frame representatives per ray
+PASS: specified pure ray is prepared
+PASS: one-sided law is a random-unitary channel
+PASS: one-step survival is 23/24
+PASS: stationary-support preparation exists
+PASS: stationary-support identity law
+PASS: induced quotient weights preserve statistics
+PASS: stationary-support identity law
+PASS: induced quotient weights preserve statistics
+PASS: stationary-support identity law
+PASS: induced quotient weights preserve statistics
+PASS: stationary-support identity law
+PASS: induced quotient weights preserve statistics
+PASS: 24 frame representatives per ray
+PASS: specified pure ray is prepared
+PASS: one-sided law is a random-unitary channel
+PASS: one-step survival is 23/24
+PASS: stationary-support preparation exists
+PASS: stationary-support identity law
+PASS: induced quotient weights preserve statistics
+PASS: stationary-support identity law
+PASS: induced quotient weights preserve statistics
+PASS: stationary-support identity law
+PASS: induced quotient weights preserve statistics
+PASS: stationary-support identity law
+PASS: induced quotient weights preserve statistics
+PASS: 24 frame representatives per ray
+PASS: specified pure ray is prepared
+PASS: one-sided law is a random-unitary channel
+PASS: one-step survival is 23/24
+PASS: stationary-support preparation exists
+PASS: stationary-support identity law
+PASS: induced quotient weights preserve statistics
+PASS: stationary-support identity law
+PASS: induced quotient weights preserve statistics
+PASS: stationary-support identity law
+PASS: induced quotient weights preserve statistics
+PASS: stationary-support identity law
+PASS: induced quotient weights preserve statistics
+PASS: 24 frame representatives per ray
+PASS: specified pure ray is prepared
+PASS: one-sided law is a random-unitary channel
+PASS: one-step survival is 23/24
+PASS: stationary-support preparation exists
+PASS: stationary-support identity law
+PASS: induced quotient weights preserve statistics
+PASS: stationary-support identity law
+PASS: induced quotient weights preserve statistics
+PASS: stationary-support identity law
+PASS: induced quotient weights preserve statistics
+PASS: stationary-support identity law
+PASS: induced quotient weights preserve statistics
+PASS: 24 frame representatives per ray
+PASS: specified pure ray is prepared
+PASS: one-sided law is a random-unitary channel
+PASS: one-step survival is 23/24
+PASS: stationary-support preparation exists
+PASS: stationary-support identity law
+PASS: induced quotient weights preserve statistics
+PASS: stationary-support identity law
+PASS: induced quotient weights preserve statistics
+PASS: stationary-support identity law
+PASS: induced quotient weights preserve statistics
+PASS: stationary-support identity law
+PASS: induced quotient weights preserve statistics
+PASS: 24 frame representatives per ray
+PASS: specified pure ray is prepared
+PASS: one-sided law is a random-unitary channel
+PASS: one-step survival is 23/24
+PASS: stationary-support preparation exists
+PASS: stationary-support identity law
+PASS: induced quotient weights preserve statistics
+PASS: stationary-support identity law
+PASS: induced quotient weights preserve statistics
+PASS: stationary-support identity law
+PASS: induced quotient weights preserve statistics
+PASS: stationary-support identity law
+PASS: induced quotient weights preserve statistics
+PASS: 24 frame representatives per ray
+PASS: specified pure ray is prepared
+PASS: one-sided law is a random-unitary channel
+PASS: one-step survival is 23/24
+PASS: stationary-support preparation exists
+PASS: stationary-support identity law
+PASS: induced quotient weights preserve statistics
+PASS: stationary-support identity law
+PASS: induced quotient weights preserve statistics
+PASS: stationary-support identity law
+PASS: induced quotient weights preserve statistics
+PASS: stationary-support identity law
+PASS: induced quotient weights preserve statistics
+PASS: 24 frame representatives per ray
+PASS: specified pure ray is prepared
+PASS: one-sided law is a random-unitary channel
+PASS: one-step survival is 23/24
+PASS: stationary-support preparation exists
+PASS: stationary-support identity law
+PASS: induced quotient weights preserve statistics
+PASS: stationary-support identity law
+PASS: induced quotient weights preserve statistics
+PASS: stationary-support identity law
+PASS: induced quotient weights preserve statistics
+PASS: stationary-support identity law
+PASS: induced quotient weights preserve statistics
+PASS: 24 frame representatives per ray
+PASS: specified pure ray is prepared
+PASS: one-sided law is a random-unitary channel
+PASS: one-step survival is 23/24
+PASS: stationary-support preparation exists
+PASS: stationary-support identity law
+PASS: induced quotient weights preserve statistics
+PASS: stationary-support identity law
+PASS: induced quotient weights preserve statistics
+PASS: stationary-support identity law
+PASS: induced quotient weights preserve statistics
+PASS: stationary-support identity law
+PASS: induced quotient weights preserve statistics
+PASS: Phi context multiplicities
+PASS: uniform quotient weights change prediction to 3/4
+PASS: context resampling loses the exact echo
+PASS: both ensembles prepare I/4
+PASS: one-sided mixture consistency
+PASS: both ensembles prepare I/4
+PASS: one-sided mixture consistency
+PASS: two-sided exact correlation obstruction
+PASS: binary outcome probabilities
+PASS: independent exact Pauli-matrix probability check
+PASS: both output density matrices are positive and normalised
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility
+PASS: balanced finite-bit variation formula
+PASS: finite-bit error bound
+PASS: exact uniformity requires divisibility

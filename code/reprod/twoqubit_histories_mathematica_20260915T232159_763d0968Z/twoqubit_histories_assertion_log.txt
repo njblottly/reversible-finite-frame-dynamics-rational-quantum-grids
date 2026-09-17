@@ -1,0 +1,4 @@
+PASS: C T_B absent from original phase-Clifford translate
+PASS: exact unchanged CNOT relative spectrum
+PASS: C T_B absent from original phase-Clifford translate
+FAIL: exact unchanged CNOT relative spectrum

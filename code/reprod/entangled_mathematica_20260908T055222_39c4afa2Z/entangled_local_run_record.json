@@ -1,0 +1,7803 @@
+{
+	"started_utc":"2026-09-08T05:52:22Z",
+	"script":"verify_entangled_local.wl",
+	"script_version":"0.1",
+	"loaded_source_path":null,
+	"execution_mode":"interactive evaluation",
+	"script_sha256":null,
+	"source_hash_status":"unavailable; no executed source file was identified or hashing failed",
+	"record_directory_source":"saved notebook directory",
+	"record_directory":"\/Users\/njblost\/Library\/Mobile Documents\/com~apple~CloudDocs\/9. RS\/raqm-paper\/code\/reproducibility\/entangled_mathematica_20260908T055222_39c4afa2Z",
+	"wolfram_version":"13.3.0 for Mac OS X ARM (64-bit) (April 11, 2023)",
+	"system_id":"MacOSX-ARM64",
+	"operating_system":"MacOSX",
+	"system_word_length":64,
+	"numeric_working_precision":50,
+	"numeric_tolerance":"1e-25",
+	"scope":"Exact arithmetic checks and separately identified numerical matrix checks; not interval certification.",
+	"finished_utc":"2026-09-08T05:52:22Z",
+	"status":"passed",
+	"checks":[
+		{
+			"label":"exact full probability-grid fibre L=4 q=1\n-\n4 A T",
+			"passed":true
+		},
+		{
+			"label":"exact full probability-grid fibre L=4 q=1\n-\n4 B T",
+			"passed":true
+		},
+		{
+			"label":"exact full probability-grid fibre L=4 q=1\n-\n2 A T",
+			"passed":true
+		},
+		{
+			"label":"exact full probability-grid fibre L=4 q=1\n-\n2 B T",
+			"passed":true
+		},
+		{
+			"label":"exact full probability-grid fibre L=4 q=3\n-\n4 A T",
+			"passed":true
+		},
+		{
+			"label":"exact full probability-grid fibre L=4 q=3\n-\n4 B T",
+			"passed":true
+		},
+		{
+			"label":"exact full probability-grid fibre L=4 q=1\n-\n4 A K",
+			"passed":true
+		},
+		{
+			"label":"exact full probability-grid fibre L=4 q=1\n-\n4 B K",
+			"passed":true
+		},
+		{
+			"label":"exact full probability-grid fibre L=4 q=1\n-\n2 A K",
+			"passed":true
+		},
+		{
+			"label":"exact full probability-grid fibre L=4 q=1\n-\n2 B K",
+			"passed":true
+		},
+		{
+			"label":"exact full probability-grid fibre L=4 q=3\n-\n4 A K",
+			"passed":true
+		},
+		{
+			"label":"exact full probability-grid fibre L=4 q=3\n-\n4 B K",
+			"passed":true
+		},
+		{
+			"label":"exact full probability-grid fibre L=8 q=1\n-\n8 A T",
+			"passed":true
+		},
+		{
+			"label":"exact full probability-grid fibre L=8 q=1\n-\n8 B T",
+			"passed":true
+		},
+		{
+			"label":"exact full probability-grid fibre L=8 q=1\n-\n4 A T",
+			"passed":true
+		},
+		{
+			"label":"exact full probability-grid fibre L=8 q=1\n-\n4 B T",
+			"passed":true
+		},
+		{
+			"label":"exact full probability-grid fibre L=8 q=3\n-\n8 A T",
+			"passed":true
+		},
+		{
+			"label":"exact full probability-grid fibre L=8 q=3\n-\n8 B T",
+			"passed":true
+		},
+		{
+			"label":"exact full probability-grid fibre L=8 q=1\n-\n2 A T",
+			"passed":true
+		},
+		{
+			"label":"exact full probability-grid fibre L=8 q=1\n-\n2 B T",
+			"passed":true
+		},
+		{
+			"label":"exact full probability-grid fibre L=8 q=5\n-\n8 A T",
+			"passed":true
+		},
+		{
+			"label":"exact full probability-grid fibre L=8 q=5\n-\n8 B T",
+			"passed":true
+		},
+		{
+			"label":"exact full probability-grid fibre L=8 q=3\n-\n4 A T",
+			"passed":true
+		},
+		{
+			"label":"exact full probability-grid fibre L=8 q=3\n-\n4 B T",
+			"passed":true
+		},
+		{
+			"label":"exact full probability-grid fibre L=8 q=7\n-\n8 A T",
+			"passed":true
+		},
+		{
+			"label":"exact full probability-grid fibre L=8 q=7\n-\n8 B T",
+			"passed":true
+		},
+		{
+			"label":"exact full probability-grid fibre L=8 q=1\n-\n8 A K",
+			"passed":true
+		},
+		{
+			"label":"exact full probability-grid fibre L=8 q=1\n-\n8 B K",
+			"passed":true
+		},
+		{
+			"label":"exact full probability-grid fibre L=8 q=1\n-\n4 A K",
+			"passed":true
+		},
+		{
+			"label":"exact full probability-grid fibre L=8 q=1\n-\n4 B K",
+			"passed":true
+		},
+		{
+			"label":"exact full probability-grid fibre L=8 q=3\n-\n8 A K",
+			"passed":true
+		},
+		{
+			"label":"exact full probability-grid fibre L=8 q=3\n-\n8 B K",
+			"passed":true
+		},
+		{
+			"label":"exact full probability-grid fibre L=8 q=1\n-\n2 A K",
+			"passed":true
+		},
+		{
+			"label":"exact full probability-grid fibre L=8 q=1\n-\n2 B K",
+			"passed":true
+		},
+		{
+			"label":"exact full probability-grid fibre L=8 q=5\n-\n8 A K",
+			"passed":true
+		},
+		{
+			"label":"exact full probability-grid fibre L=8 q=5\n-\n8 B K",
+			"passed":true
+		},
+		{
+			"label":"exact full probability-grid fibre L=8 q=3\n-\n4 A K",
+			"passed":true
+		},
+		{
+			"label":"exact full probability-grid fibre L=8 q=3\n-\n4 B K",
+			"passed":true
+		},
+		{
+			"label":"exact full probability-grid fibre L=8 q=7\n-\n8 A K",
+			"passed":true
+		},
+		{
+			"label":"exact full probability-grid fibre L=8 q=7\n-\n8 B K",
+			"passed":true
+		},
+		{
+			"label":"exact full probability-grid fibre L=16 q=1\n--\n16 A T",
+			"passed":true
+		},
+		{
+			"label":"exact full probability-grid fibre L=16 q=1\n--\n16 B T",
+			"passed":true
+		},
+		{
+			"label":"exact full probability-grid fibre L=16 q=1\n-\n8 A T",
+			"passed":true
+		},
+		{
+			"label":"exact full probability-grid fibre L=16 q=1\n-\n8 B T",
+			"passed":true
+		},
+		{
+			"label":"exact full probability-grid fibre L=16 q=3\n--\n16 A T",
+			"passed":true
+		},
+		{
+			"label":"exact full probability-grid fibre L=16 q=3\n--\n16 B T",
+			"passed":true
+		},
+		{
+			"label":"exact full probability-grid fibre L=16 q=1\n-\n4 A T",
+			"passed":true
+		},
+		{
+			"label":"exact full probability-grid fibre L=16 q=1\n-\n4 B T",
+			"passed":true
+		},
+		{
+			"label":"exact full probability-grid fibre L=16 q=5\n--\n16 A T",
+			"passed":true
+		},
+		{
+			"label":"exact full probability-grid fibre L=16 q=5\n--\n16 B T",
+			"passed":true
+		},
+		{
+			"label":"exact full probability-grid fibre L=16 q=3\n-\n8 A T",
+			"passed":true
+		},
+		{
+			"label":"exact full probability-grid fibre L=16 q=3\n-\n8 B T",
+			"passed":true
+		},
+		{
+			"label":"exact full probability-grid fibre L=16 q=7\n--\n16 A T",
+			"passed":true
+		},
+		{
+			"label":"exact full probability-grid fibre L=16 q=7\n--\n16 B T",
+			"passed":true
+		},
+		{
+			"label":"exact full probability-grid fibre L=16 q=1\n-\n2 A T",
+			"passed":true
+		},
+		{
+			"label":"exact full probability-grid fibre L=16 q=1\n-\n2 B T",
+			"passed":true
+		},
+		{
+			"label":"exact full probability-grid fibre L=16 q=9\n--\n16 A T",
+			"passed":true
+		},
+		{
+			"label":"exact full probability-grid fibre L=16 q=9\n--\n16 B T",
+			"passed":true
+		},
+		{
+			"label":"exact full probability-grid fibre L=16 q=5\n-\n8 A T",
+			"passed":true
+		},
+		{
+			"label":"exact full probability-grid fibre L=16 q=5\n-\n8 B T",
+			"passed":true
+		},
+		{
+			"label":"exact full probability-grid fibre L=16 q=11\n--\n16 A T",
+			"passed":true
+		},
+		{
+			"label":"exact full probability-grid fibre L=16 q=11\n--\n16 B T",
+			"passed":true
+		},
+		{
+			"label":"exact full probability-grid fibre L=16 q=3\n-\n4 A T",
+			"passed":true
+		},
+		{
+			"label":"exact full probability-grid fibre L=16 q=3\n-\n4 B T",
+			"passed":true
+		},
+		{
+			"label":"exact full probability-grid fibre L=16 q=13\n--\n16 A T",
+			"passed":true
+		},
+		{
+			"label":"exact full probability-grid fibre L=16 q=13\n--\n16 B T",
+			"passed":true
+		},
+		{
+			"label":"exact full probability-grid fibre L=16 q=7\n-\n8 A T",
+			"passed":true
+		},
+		{
+			"label":"exact full probability-grid fibre L=16 q=7\n-\n8 B T",
+			"passed":true
+		},
+		{
+			"label":"exact full probability-grid fibre L=16 q=15\n--\n16 A T",
+			"passed":true
+		},
+		{
+			"label":"exact full probability-grid fibre L=16 q=15\n--\n16 B T",
+			"passed":true
+		},
+		{
+			"label":"exact full probability-grid fibre L=16 q=1\n--\n16 A K",
+			"passed":true
+		},
+		{
+			"label":"exact full probability-grid fibre L=16 q=1\n--\n16 B K",
+			"passed":true
+		},
+		{
+			"label":"exact full probability-grid fibre L=16 q=1\n-\n8 A K",
+			"passed":true
+		},
+		{
+			"label":"exact full probability-grid fibre L=16 q=1\n-\n8 B K",
+			"passed":true
+		},
+		{
+			"label":"exact full probability-grid fibre L=16 q=3\n--\n16 A K",
+			"passed":true
+		},
+		{
+			"label":"exact full probability-grid fibre L=16 q=3\n--\n16 B K",
+			"passed":true
+		},
+		{
+			"label":"exact full probability-grid fibre L=16 q=1\n-\n4 A K",
+			"passed":true
+		},
+		{
+			"label":"exact full probability-grid fibre L=16 q=1\n-\n4 B K",
+			"passed":true
+		},
+		{
+			"label":"exact full probability-grid fibre L=16 q=5\n--\n16 A K",
+			"passed":true
+		},
+		{
+			"label":"exact full probability-grid fibre L=16 q=5\n--\n16 B K",
+			"passed":true
+		},
+		{
+			"label":"exact full probability-grid fibre L=16 q=3\n-\n8 A K",
+			"passed":true
+		},
+		{
+			"label":"exact full probability-grid fibre L=16 q=3\n-\n8 B K",
+			"passed":true
+		},
+		{
+			"label":"exact full probability-grid fibre L=16 q=7\n--\n16 A K",
+			"passed":true
+		},
+		{
+			"label":"exact full probability-grid fibre L=16 q=7\n--\n16 B K",
+			"passed":true
+		},
+		{
+			"label":"exact full probability-grid fibre L=16 q=1\n-\n2 A K",
+			"passed":true
+		},
+		{
+			"label":"exact full probability-grid fibre L=16 q=1\n-\n2 B K",
+			"passed":true
+		},
+		{
+			"label":"exact full probability-grid fibre L=16 q=9\n--\n16 A K",
+			"passed":true
+		},
+		{
+			"label":"exact full probability-grid fibre L=16 q=9\n--\n16 B K",
+			"passed":true
+		},
+		{
+			"label":"exact full probability-grid fibre L=16 q=5\n-\n8 A K",
+			"passed":true
+		},
+		{
+			"label":"exact full probability-grid fibre L=16 q=5\n-\n8 B K",
+			"passed":true
+		},
+		{
+			"label":"exact full probability-grid fibre L=16 q=11\n--\n16 A K",
+			"passed":true
+		},
+		{
+			"label":"exact full probability-grid fibre L=16 q=11\n--\n16 B K",
+			"passed":true
+		},
+		{
+			"label":"exact full probability-grid fibre L=16 q=3\n-\n4 A K",
+			"passed":true
+		},
+		{
+			"label":"exact full probability-grid fibre L=16 q=3\n-\n4 B K",
+			"passed":true
+		},
+		{
+			"label":"exact full probability-grid fibre L=16 q=13\n--\n16 A K",
+			"passed":true
+		},
+		{
+			"label":"exact full probability-grid fibre L=16 q=13\n--\n16 B K",
+			"passed":true
+		},
+		{
+			"label":"exact full probability-grid fibre L=16 q=7\n-\n8 A K",
+			"passed":true
+		},
+		{
+			"label":"exact full probability-grid fibre L=16 q=7\n-\n8 B K",
+			"passed":true
+		},
+		{
+			"label":"exact full probability-grid fibre L=16 q=15\n--\n16 A K",
+			"passed":true
+		},
+		{
+			"label":"exact full probability-grid fibre L=16 q=15\n--\n16 B K",
+			"passed":true
+		},
+		{
+			"label":"exact sharp operator gap attained by identity",
+			"passed":true
+		},
+		{
+			"label":"exact column overlap bound",
+			"passed":true
+		},
+		{
+			"label":"exact column overlap bound",
+			"passed":true
+		},
+		{
+			"label":"exact column overlap bound",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical quantised unitary",
+			"passed":true
+		},
+		{
+			"label":"numerical unitary covering bound",
+			"passed":true
+		},
+		{
+			"label":"exact rounded mixing certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell action",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell marginals",
+			"passed":true
+		},
+		{
+			"label":"exact Bell endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell action",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell marginals",
+			"passed":true
+		},
+		{
+			"label":"exact Bell endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell action",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell marginals",
+			"passed":true
+		},
+		{
+			"label":"exact Bell endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell action",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell marginals",
+			"passed":true
+		},
+		{
+			"label":"exact Bell endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell action",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell marginals",
+			"passed":true
+		},
+		{
+			"label":"exact Bell endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell action",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell marginals",
+			"passed":true
+		},
+		{
+			"label":"exact Bell endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell action",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell marginals",
+			"passed":true
+		},
+		{
+			"label":"exact Bell endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell action",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell marginals",
+			"passed":true
+		},
+		{
+			"label":"exact Bell endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell action",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell marginals",
+			"passed":true
+		},
+		{
+			"label":"exact Bell endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell action",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell marginals",
+			"passed":true
+		},
+		{
+			"label":"exact Bell endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell action",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell marginals",
+			"passed":true
+		},
+		{
+			"label":"exact Bell endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell action",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell marginals",
+			"passed":true
+		},
+		{
+			"label":"exact Bell endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell action",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell marginals",
+			"passed":true
+		},
+		{
+			"label":"exact Bell endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell action",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell marginals",
+			"passed":true
+		},
+		{
+			"label":"exact Bell endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell action",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell marginals",
+			"passed":true
+		},
+		{
+			"label":"exact Bell endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell action",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell marginals",
+			"passed":true
+		},
+		{
+			"label":"exact Bell endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell action",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell marginals",
+			"passed":true
+		},
+		{
+			"label":"exact Bell endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell action",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell marginals",
+			"passed":true
+		},
+		{
+			"label":"exact Bell endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell action",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell marginals",
+			"passed":true
+		},
+		{
+			"label":"exact Bell endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell action",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell marginals",
+			"passed":true
+		},
+		{
+			"label":"exact Bell endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell action",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell marginals",
+			"passed":true
+		},
+		{
+			"label":"exact Bell endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell action",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell marginals",
+			"passed":true
+		},
+		{
+			"label":"exact Bell endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell action",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell marginals",
+			"passed":true
+		},
+		{
+			"label":"exact Bell endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell action",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell marginals",
+			"passed":true
+		},
+		{
+			"label":"exact Bell endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell action",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell marginals",
+			"passed":true
+		},
+		{
+			"label":"exact Bell endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell action",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell marginals",
+			"passed":true
+		},
+		{
+			"label":"exact Bell endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell action",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell marginals",
+			"passed":true
+		},
+		{
+			"label":"exact Bell endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell action",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell marginals",
+			"passed":true
+		},
+		{
+			"label":"exact Bell endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell action",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell marginals",
+			"passed":true
+		},
+		{
+			"label":"exact Bell endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell action",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell marginals",
+			"passed":true
+		},
+		{
+			"label":"exact Bell endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell action",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell marginals",
+			"passed":true
+		},
+		{
+			"label":"exact Bell endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell action",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell marginals",
+			"passed":true
+		},
+		{
+			"label":"exact Bell endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell action",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell marginals",
+			"passed":true
+		},
+		{
+			"label":"exact Bell endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell action",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell marginals",
+			"passed":true
+		},
+		{
+			"label":"exact Bell endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell action",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell marginals",
+			"passed":true
+		},
+		{
+			"label":"exact Bell endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell action",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell marginals",
+			"passed":true
+		},
+		{
+			"label":"exact Bell endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell action",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell marginals",
+			"passed":true
+		},
+		{
+			"label":"exact Bell endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell action",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell marginals",
+			"passed":true
+		},
+		{
+			"label":"exact Bell endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell action",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell marginals",
+			"passed":true
+		},
+		{
+			"label":"exact Bell endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell action",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell marginals",
+			"passed":true
+		},
+		{
+			"label":"exact Bell endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell action",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell marginals",
+			"passed":true
+		},
+		{
+			"label":"exact Bell endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell action",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell marginals",
+			"passed":true
+		},
+		{
+			"label":"exact Bell endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell action",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell marginals",
+			"passed":true
+		},
+		{
+			"label":"exact Bell endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell action",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell marginals",
+			"passed":true
+		},
+		{
+			"label":"exact Bell endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell action",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell marginals",
+			"passed":true
+		},
+		{
+			"label":"exact Bell endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell action",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell marginals",
+			"passed":true
+		},
+		{
+			"label":"exact Bell endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell action",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell marginals",
+			"passed":true
+		},
+		{
+			"label":"exact Bell endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell action",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell marginals",
+			"passed":true
+		},
+		{
+			"label":"exact Bell endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell action",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell marginals",
+			"passed":true
+		},
+		{
+			"label":"exact Bell endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell action",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell marginals",
+			"passed":true
+		},
+		{
+			"label":"exact Bell endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell action",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell marginals",
+			"passed":true
+		},
+		{
+			"label":"exact Bell endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell action",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell marginals",
+			"passed":true
+		},
+		{
+			"label":"exact Bell endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell action",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell marginals",
+			"passed":true
+		},
+		{
+			"label":"exact Bell endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell action",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell marginals",
+			"passed":true
+		},
+		{
+			"label":"exact Bell endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell action",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell marginals",
+			"passed":true
+		},
+		{
+			"label":"exact Bell endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell action",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell marginals",
+			"passed":true
+		},
+		{
+			"label":"exact Bell endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell action",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell marginals",
+			"passed":true
+		},
+		{
+			"label":"exact Bell endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell action",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell marginals",
+			"passed":true
+		},
+		{
+			"label":"exact Bell endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell action",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell marginals",
+			"passed":true
+		},
+		{
+			"label":"exact Bell endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell action",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell marginals",
+			"passed":true
+		},
+		{
+			"label":"exact Bell endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell action",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell marginals",
+			"passed":true
+		},
+		{
+			"label":"exact Bell endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell action",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell marginals",
+			"passed":true
+		},
+		{
+			"label":"exact Bell endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell action",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell marginals",
+			"passed":true
+		},
+		{
+			"label":"exact Bell endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell action",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell marginals",
+			"passed":true
+		},
+		{
+			"label":"exact Bell endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell action",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell marginals",
+			"passed":true
+		},
+		{
+			"label":"exact Bell endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell action",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell marginals",
+			"passed":true
+		},
+		{
+			"label":"exact Bell endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell action",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell marginals",
+			"passed":true
+		},
+		{
+			"label":"exact Bell endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell action",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell marginals",
+			"passed":true
+		},
+		{
+			"label":"exact Bell endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell action",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell marginals",
+			"passed":true
+		},
+		{
+			"label":"exact Bell endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell action",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell marginals",
+			"passed":true
+		},
+		{
+			"label":"exact Bell endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell action",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell marginals",
+			"passed":true
+		},
+		{
+			"label":"exact Bell endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell action",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell marginals",
+			"passed":true
+		},
+		{
+			"label":"exact Bell endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell action",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell marginals",
+			"passed":true
+		},
+		{
+			"label":"exact Bell endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell action",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell marginals",
+			"passed":true
+		},
+		{
+			"label":"exact Bell endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell action",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell marginals",
+			"passed":true
+		},
+		{
+			"label":"exact Bell endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell action",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell marginals",
+			"passed":true
+		},
+		{
+			"label":"exact Bell endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell action",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell marginals",
+			"passed":true
+		},
+		{
+			"label":"exact Bell endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell action",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell marginals",
+			"passed":true
+		},
+		{
+			"label":"exact Bell endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell action",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell marginals",
+			"passed":true
+		},
+		{
+			"label":"exact Bell endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell action",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell marginals",
+			"passed":true
+		},
+		{
+			"label":"exact Bell endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical Bell word bound",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only action",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged A marginal",
+			"passed":true
+		},
+		{
+			"label":"exact B-only endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only action",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged A marginal",
+			"passed":true
+		},
+		{
+			"label":"exact B-only endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only action",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged A marginal",
+			"passed":true
+		},
+		{
+			"label":"exact B-only endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only action",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged A marginal",
+			"passed":true
+		},
+		{
+			"label":"exact B-only endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only action",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged A marginal",
+			"passed":true
+		},
+		{
+			"label":"exact B-only endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only action",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged A marginal",
+			"passed":true
+		},
+		{
+			"label":"exact B-only endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only action",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged A marginal",
+			"passed":true
+		},
+		{
+			"label":"exact B-only endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only action",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged A marginal",
+			"passed":true
+		},
+		{
+			"label":"exact B-only endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only action",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged A marginal",
+			"passed":true
+		},
+		{
+			"label":"exact B-only endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only action",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged A marginal",
+			"passed":true
+		},
+		{
+			"label":"exact B-only endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only action",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged A marginal",
+			"passed":true
+		},
+		{
+			"label":"exact B-only endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only action",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged A marginal",
+			"passed":true
+		},
+		{
+			"label":"exact B-only endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only action",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged A marginal",
+			"passed":true
+		},
+		{
+			"label":"exact B-only endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only action",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged A marginal",
+			"passed":true
+		},
+		{
+			"label":"exact B-only endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only action",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged A marginal",
+			"passed":true
+		},
+		{
+			"label":"exact B-only endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only action",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged A marginal",
+			"passed":true
+		},
+		{
+			"label":"exact B-only endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only action",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged A marginal",
+			"passed":true
+		},
+		{
+			"label":"exact B-only endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only action",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged A marginal",
+			"passed":true
+		},
+		{
+			"label":"exact B-only endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only action",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged A marginal",
+			"passed":true
+		},
+		{
+			"label":"exact B-only endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only action",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged A marginal",
+			"passed":true
+		},
+		{
+			"label":"exact B-only endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only action",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged A marginal",
+			"passed":true
+		},
+		{
+			"label":"exact B-only endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only action",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged A marginal",
+			"passed":true
+		},
+		{
+			"label":"exact B-only endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only action",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged A marginal",
+			"passed":true
+		},
+		{
+			"label":"exact B-only endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only action",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged A marginal",
+			"passed":true
+		},
+		{
+			"label":"exact B-only endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only action",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged A marginal",
+			"passed":true
+		},
+		{
+			"label":"exact B-only endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only action",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged A marginal",
+			"passed":true
+		},
+		{
+			"label":"exact B-only endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only action",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged A marginal",
+			"passed":true
+		},
+		{
+			"label":"exact B-only endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only action",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged A marginal",
+			"passed":true
+		},
+		{
+			"label":"exact B-only endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only action",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged A marginal",
+			"passed":true
+		},
+		{
+			"label":"exact B-only endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only action",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged A marginal",
+			"passed":true
+		},
+		{
+			"label":"exact B-only endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only action",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged A marginal",
+			"passed":true
+		},
+		{
+			"label":"exact B-only endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only action",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged A marginal",
+			"passed":true
+		},
+		{
+			"label":"exact B-only endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only action",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged A marginal",
+			"passed":true
+		},
+		{
+			"label":"exact B-only endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only action",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged A marginal",
+			"passed":true
+		},
+		{
+			"label":"exact B-only endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only action",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged A marginal",
+			"passed":true
+		},
+		{
+			"label":"exact B-only endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only action",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged A marginal",
+			"passed":true
+		},
+		{
+			"label":"exact B-only endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only action",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged A marginal",
+			"passed":true
+		},
+		{
+			"label":"exact B-only endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only action",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged A marginal",
+			"passed":true
+		},
+		{
+			"label":"exact B-only endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only action",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged A marginal",
+			"passed":true
+		},
+		{
+			"label":"exact B-only endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only action",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged A marginal",
+			"passed":true
+		},
+		{
+			"label":"exact B-only endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only action",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged A marginal",
+			"passed":true
+		},
+		{
+			"label":"exact B-only endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only action",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged A marginal",
+			"passed":true
+		},
+		{
+			"label":"exact B-only endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only action",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged A marginal",
+			"passed":true
+		},
+		{
+			"label":"exact B-only endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only action",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged A marginal",
+			"passed":true
+		},
+		{
+			"label":"exact B-only endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only action",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged A marginal",
+			"passed":true
+		},
+		{
+			"label":"exact B-only endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only action",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged A marginal",
+			"passed":true
+		},
+		{
+			"label":"exact B-only endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only action",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged A marginal",
+			"passed":true
+		},
+		{
+			"label":"exact B-only endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only action",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged A marginal",
+			"passed":true
+		},
+		{
+			"label":"exact B-only endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only action",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged A marginal",
+			"passed":true
+		},
+		{
+			"label":"exact B-only endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only action",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged A marginal",
+			"passed":true
+		},
+		{
+			"label":"exact B-only endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only action",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged A marginal",
+			"passed":true
+		},
+		{
+			"label":"exact B-only endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only action",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged A marginal",
+			"passed":true
+		},
+		{
+			"label":"exact B-only endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only action",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged A marginal",
+			"passed":true
+		},
+		{
+			"label":"exact B-only endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only action",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged A marginal",
+			"passed":true
+		},
+		{
+			"label":"exact B-only endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only action",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged A marginal",
+			"passed":true
+		},
+		{
+			"label":"exact B-only endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only action",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged A marginal",
+			"passed":true
+		},
+		{
+			"label":"exact B-only endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only action",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged A marginal",
+			"passed":true
+		},
+		{
+			"label":"exact B-only endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only action",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged A marginal",
+			"passed":true
+		},
+		{
+			"label":"exact B-only endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only action",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged A marginal",
+			"passed":true
+		},
+		{
+			"label":"exact B-only endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only action",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged A marginal",
+			"passed":true
+		},
+		{
+			"label":"exact B-only endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only action",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged A marginal",
+			"passed":true
+		},
+		{
+			"label":"exact B-only endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only action",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged A marginal",
+			"passed":true
+		},
+		{
+			"label":"exact B-only endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only action",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged A marginal",
+			"passed":true
+		},
+		{
+			"label":"exact B-only endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only action",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged A marginal",
+			"passed":true
+		},
+		{
+			"label":"exact B-only endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only action",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged A marginal",
+			"passed":true
+		},
+		{
+			"label":"exact B-only endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only action",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged A marginal",
+			"passed":true
+		},
+		{
+			"label":"exact B-only endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only action",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged A marginal",
+			"passed":true
+		},
+		{
+			"label":"exact B-only endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only action",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged A marginal",
+			"passed":true
+		},
+		{
+			"label":"exact B-only endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only action",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged A marginal",
+			"passed":true
+		},
+		{
+			"label":"exact B-only endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only action",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged A marginal",
+			"passed":true
+		},
+		{
+			"label":"exact B-only endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only action",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged A marginal",
+			"passed":true
+		},
+		{
+			"label":"exact B-only endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only action",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged A marginal",
+			"passed":true
+		},
+		{
+			"label":"exact B-only endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only action",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged A marginal",
+			"passed":true
+		},
+		{
+			"label":"exact B-only endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only action",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged A marginal",
+			"passed":true
+		},
+		{
+			"label":"exact B-only endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only action",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged A marginal",
+			"passed":true
+		},
+		{
+			"label":"exact B-only endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only action",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged A marginal",
+			"passed":true
+		},
+		{
+			"label":"exact B-only endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only action",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged A marginal",
+			"passed":true
+		},
+		{
+			"label":"exact B-only endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only action",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged A marginal",
+			"passed":true
+		},
+		{
+			"label":"exact B-only endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only action",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged A marginal",
+			"passed":true
+		},
+		{
+			"label":"exact B-only endpoint certificate",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only local step bound",
+			"passed":true
+		},
+		{
+			"label":"numerical B-only action",
+			"passed":true
+		},
+		{
+			"label":"numerical unchanged A marginal",
+			"passed":true
+		},
+		{
+			"label":"exact B-only endpoint certificate",
+			"passed":true
+		}
+	],
+	"fibre_rows":[
+		[
+			4,
+			"1\/2",
+			"A",
+			"T",
+			5,
+			56
+		],
+		[
+			4,
+			"1\/2",
+			"B",
+			"T",
+			5,
+			56
+		],
+		[
+			4,
+			"3\/4",
+			"A",
+			"T",
+			3,
+			24
+		],
+		[
+			4,
+			"3\/4",
+			"B",
+			"T",
+			5,
+			56
+		],
+		[
+			4,
+			"1\/2",
+			"A",
+			"K",
+			3,
+			24
+		],
+		[
+			4,
+			"1\/2",
+			"B",
+			"K",
+			3,
+			24
+		],
+		[
+			4,
+			"3\/4",
+			"A",
+			"K",
+			2,
+			8
+		],
+		[
+			4,
+			"3\/4",
+			"B",
+			"K",
+			2,
+			8
+		],
+		[
+			8,
+			"1\/2",
+			"A",
+			"T",
+			9,
+			464
+		],
+		[
+			8,
+			"1\/2",
+			"B",
+			"T",
+			9,
+			464
+		],
+		[
+			8,
+			"3\/4",
+			"A",
+			"T",
+			3,
+			80
+		],
+		[
+			8,
+			"3\/4",
+			"B",
+			"T",
+			9,
+			464
+		],
+		[
+			8,
+			"1\/2",
+			"A",
+			"K",
+			5,
+			208
+		],
+		[
+			8,
+			"1\/2",
+			"B",
+			"K",
+			5,
+			208
+		],
+		[
+			8,
+			"3\/4",
+			"A",
+			"K",
+			3,
+			80
+		],
+		[
+			8,
+			"3\/4",
+			"B",
+			"K",
+			3,
+			80
+		],
+		[
+			16,
+			"1\/2",
+			"A",
+			"T",
+			17,
+			3872
+		],
+		[
+			16,
+			"1\/2",
+			"B",
+			"T",
+			17,
+			3872
+		],
+		[
+			16,
+			"3\/4",
+			"A",
+			"T",
+			3,
+			288
+		],
+		[
+			16,
+			"3\/4",
+			"B",
+			"T",
+			17,
+			3872
+		],
+		[
+			16,
+			"1\/2",
+			"A",
+			"K",
+			9,
+			1824
+		],
+		[
+			16,
+			"1\/2",
+			"B",
+			"K",
+			9,
+			1824
+		],
+		[
+			16,
+			"3\/4",
+			"A",
+			"K",
+			3,
+			288
+		],
+		[
+			16,
+			"3\/4",
+			"B",
+			"K",
+			5,
+			800
+		]
+	],
+	"coverage_rows":[
+		[
+			4,
+			1,
+			1.39715500888,
+			2.53073372946
+		],
+		[
+			4,
+			2,
+			1.15180987934,
+			2.23784051065
+		],
+		[
+			4,
+			4,
+			1.16255532376,
+			2.03073372946
+		],
+		[
+			16,
+			1,
+			0.823432212672,
+			1.39206856132
+		],
+		[
+			16,
+			4,
+			0.341068709852,
+			0.892068561318
+		],
+		[
+			16,
+			8,
+			0.215380261042,
+			0.745621951912
+		],
+		[
+			16,
+			16,
+			0.304445130199,
+			0.642068561318
+		],
+		[
+			64,
+			1,
+			0.767666097377,
+			1.09816491409
+		],
+		[
+			64,
+			16,
+			0.154282747571,
+			0.348164914092
+		],
+		[
+			64,
+			32,
+			0.132604671566,
+			0.274941609388
+		],
+		[
+			64,
+			64,
+			0.0819945048399,
+			0.223164914092
+		],
+		[
+			256,
+			1,
+			0.765929981309,
+			1.02454353860
+		],
+		[
+			256,
+			64,
+			0.0186637462820,
+			0.149543538597
+		],
+		[
+			256,
+			128,
+			0.0139855666250,
+			0.112931886245
+		],
+		[
+			256,
+			256,
+			0.0191958305594,
+			0.0870435385966
+		]
+	],
+	"history_rows":[
+		[
+			16,
+			"T",
+			"Bell alternating",
+			20,
+			0
+		],
+		[
+			16,
+			"K",
+			"Bell alternating",
+			20,
+			0
+		],
+		[
+			64,
+			"T",
+			"Bell alternating",
+			20,
+			0
+		],
+		[
+			64,
+			"K",
+			"Bell alternating",
+			20,
+			0
+		],
+		[
+			16,
+			"T",
+			"q=3\/4 B-only",
+			20,
+			0
+		],
+		[
+			16,
+			"K",
+			"q=3\/4 B-only",
+			20,
+			0
+		],
+		[
+			64,
+			"T",
+			"q=3\/4 B-only",
+			20,
+			0
+		],
+		[
+			64,
+			"K",
+			"q=3\/4 B-only",
+			20,
+			0
+		]
+	],
+	"maximum_unitarity_residual":0
+}

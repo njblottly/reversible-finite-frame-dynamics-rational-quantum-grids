@@ -1,0 +1,215 @@
+{
+  "record_type": "user_reported_mathematica_verification",
+  "date_recorded": "2026-09-07",
+  "status": "passed",
+  "evidence": "User-supplied screenshot displayed in conversation; final line: All Mathematica checks passed.",
+  "script_name": "verify_gate_composition.wl",
+  "supplied_script_sha256": "bb657c4715bcc11bc4c6de8755a5ce047a539848f295962636165d9ddc1e0cec",
+  "user_executed_script_hash": "not captured; the hash above identifies the supplied file, not a remotely measured file",
+  "mathematica_version": "not captured",
+  "machine_context": "User reports macOS, M4 Max Mac Studio, 64 GB RAM; not collected by the screenshot",
+  "observed_grid_rows": [
+    [
+      4,
+      85,
+      27,
+      8,
+      8
+    ],
+    [
+      8,
+      585,
+      77,
+      8,
+      8
+    ],
+    [
+      16,
+      4369,
+      233,
+      8,
+      8
+    ]
+  ],
+  "observed_swap_conditionals": [
+    "3/4",
+    "1/3",
+    "1"
+  ],
+  "observed_circuit_probabilities": [
+    [
+      "1",
+      "0",
+      "0",
+      "0"
+    ],
+    [
+      "1/2",
+      "0",
+      "1/2",
+      "0"
+    ],
+    [
+      "1/2",
+      "0",
+      "0",
+      "1/2"
+    ],
+    [
+      "1/2",
+      "0",
+      "0",
+      "1/2"
+    ],
+    [
+      "1/2",
+      "0",
+      "1/2",
+      "0"
+    ],
+    [
+      "0",
+      "0",
+      "1",
+      "0"
+    ]
+  ],
+  "observed_whole_spectrum_phases": [
+    0,
+    0,
+    0,
+    7
+  ],
+  "observed_local_control_phases": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "python_run_on_user_mac": "not yet reported",
+  "new_nominal_gate_mathematica_script": "See nominal_gate_runs for the separate 8 September 2026 user-reported run.",
+  "nominal_gate_runs": [
+    {
+      "date_recorded": "2026-09-08",
+      "script_name": "verify_nominal_gates.wl",
+      "script_version": "0.1 (supplied preceding version; executed file hash not captured)",
+      "mathematical_assertions_status": "passed_as_reported_in_user_screenshot",
+      "record_export_status": "failed",
+      "evidence": "User-supplied screenshot displays All nominal-gate Mathematica checks passed. It also displays filename resolution, AssociateTo and Export errors.",
+      "supplied_script_sha256": "7f54d09e3638a072d5271cade43c3c0dbb5096a58217976bbbfe148857f37419",
+      "user_executed_script_hash": "not captured",
+      "mathematica_version": "not captured",
+      "observed_allocation_rows": [
+        [
+          4,
+          27,
+          27
+        ],
+        [
+          8,
+          77,
+          77
+        ],
+        [
+          16,
+          233,
+          233
+        ]
+      ],
+      "observed_local_obstruction_rows": [
+        [
+          4,
+          "3/4",
+          [
+            0,
+            1
+          ]
+        ],
+        [
+          8,
+          "5/8",
+          [
+            0,
+            1
+          ]
+        ],
+        [
+          16,
+          "9/16",
+          [
+            0,
+            1
+          ]
+        ],
+        [
+          64,
+          "33/64",
+          [
+            0,
+            1
+          ]
+        ],
+        [
+          256,
+          "129/256",
+          [
+            0,
+            1
+          ]
+        ]
+      ],
+      "observed_errors": [
+        "ExpandFileName::zfname",
+        "DirectoryName::string",
+        "CreateDirectory::badfile",
+        "CreateDirectory::ioarg",
+        "AssociateTo::argrx",
+        "Export::chtype"
+      ],
+      "interpretation": "The mathematical checks reached successful completion; the screenshot does not establish a saved machine-readable reproducibility record. Logging errors are not recorded as mathematical assertion failures."
+    },
+    {
+      "date_recorded": "2026-09-08",
+      "evidence_type": "user_uploaded_exported_JSON_and_summary_log",
+      "script_name": "verify_nominal_gates.wl",
+      "script_version": "0.2",
+      "mathematical_assertions_status": "passed",
+      "assertion_count": 1131,
+      "passed_assertion_count": 1131,
+      "record_export_status": "successful; both exported files supplied by user",
+      "wolfram_version": "13.3.0 for Mac OS X ARM (64-bit) (April 11, 2023)",
+      "system_id": "MacOSX-ARM64",
+      "execution_mode": "interactive evaluation",
+      "script_sha256": null,
+      "numeric_working_precision": 50,
+      "numeric_tolerance": "1e-25",
+      "started_utc": "2026-09-08T05:13:32Z",
+      "finished_utc": "2026-09-08T05:13:33Z",
+      "evidence_files": [
+        {
+          "name": "mathematica_run_record.json",
+          "sha256": "1dcf14a4f170f5fc12b5765f56988233d08d729832907a12c825ec0f4dea7731"
+        },
+        {
+          "name": "mathematica_assertion_log.txt",
+          "sha256": "dc67348198583cd2b40cd77f4c4d44b0c14e7a35d8662bd21352c0c69c6ff96a"
+        }
+      ],
+      "provenance_note": "Uploaded record and log verified as consistent. No executed source hash captured; artifact hashes identify the uploaded evidence, not the executed source. Numerical zero in a residual field is not an exact certificate."
+    }
+  ],
+  "nominal_gate_logging_revision": {
+    "version": "0.2",
+    "date": "2026-09-08",
+    "supplied_script_sha256": "081f43cd5ae419ccb46c575c1e51acb1c0f28f165f3269ca9d5a9faba10f7050",
+    "changes": [
+      "Handle absent input filename with saved-notebook or working-directory fallback",
+      "Do not claim a source hash for interactive cell evaluation",
+      "Pass a list of rules as the second AssociateTo argument",
+      "Check directory creation and both exports; report mathematical and export status separately"
+    ],
+    "mathematical_assertion_block": "unchanged from preceding version",
+    "mathematica_execution_status": "User-supplied exported record and log confirm 1131 passed assertions and successful export on MacOSX-ARM64; interactive evaluation without source hash.",
+    "authoring_validation": "static inspection and unchanged assertion-block comparison; no Mathematica kernel available"
+  }
+}

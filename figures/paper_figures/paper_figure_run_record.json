@@ -1,0 +1,154 @@
+{
+  "created_utc": "2026-09-16T08:17:03.546826+00:00",
+  "source_sha256": "22aecae12a1d5a3aa867578e099c66f5ad1dabeec01caed34ff6a77ba72291e9",
+  "status": "passed",
+  "arithmetic": "exact Q(sqrt(2),i), rational probabilities",
+  "scope": "Two specified controllers; not a full matching verification or optimisation.",
+  "checks": {
+    "original_first_strict_crossing_is_7": true,
+    "rematched_first_strict_crossing_is_15": true,
+    "seventh_block_ideal_is_1_over_16": true,
+    "seventh_block_original_gap_is_7_over_16": true,
+    "seventh_block_rematched_gap_is_1_over_16": true,
+    "fifteenth_block_rematched_gap_is_95_over_256": true,
+    "all_probabilities_are_in_unit_interval": true
+  },
+  "rows": [
+    {
+      "n": 0,
+      "ideal": "0",
+      "original": "0",
+      "rematched": "0",
+      "original_gap": "0",
+      "rematched_gap": "0"
+    },
+    {
+      "n": 1,
+      "ideal": "1/2",
+      "original": "1/2",
+      "rematched": "1/2",
+      "original_gap": "0",
+      "rematched_gap": "0"
+    },
+    {
+      "n": 2,
+      "ideal": "1/2",
+      "original": "1/2",
+      "rematched": "1/2",
+      "original_gap": "0",
+      "rematched_gap": "0"
+    },
+    {
+      "n": 3,
+      "ideal": "1/4",
+      "original": "1/2",
+      "rematched": "1/2",
+      "original_gap": "1/4",
+      "rematched_gap": "1/4"
+    },
+    {
+      "n": 4,
+      "ideal": "1/4",
+      "original": "1/2",
+      "rematched": "1/2",
+      "original_gap": "1/4",
+      "rematched_gap": "1/4"
+    },
+    {
+      "n": 5,
+      "ideal": "3/8",
+      "original": "1/2",
+      "rematched": "1/2",
+      "original_gap": "1/8",
+      "rematched_gap": "1/8"
+    },
+    {
+      "n": 6,
+      "ideal": "5/8",
+      "original": "1/2",
+      "rematched": "1/2",
+      "original_gap": "1/8",
+      "rematched_gap": "1/8"
+    },
+    {
+      "n": 7,
+      "ideal": "1/16",
+      "original": "1/2",
+      "rematched": "0",
+      "original_gap": "7/16",
+      "rematched_gap": "1/16"
+    },
+    {
+      "n": 8,
+      "ideal": "5/16",
+      "original": "0",
+      "rematched": "1/2",
+      "original_gap": "5/16",
+      "rematched_gap": "3/16"
+    },
+    {
+      "n": 9,
+      "ideal": "19/32",
+      "original": "1/2",
+      "rematched": "1/2",
+      "original_gap": "3/32",
+      "rematched_gap": "3/32"
+    },
+    {
+      "n": 10,
+      "ideal": "9/32",
+      "original": "1/2",
+      "rematched": "0",
+      "original_gap": "7/32",
+      "rematched_gap": "9/32"
+    },
+    {
+      "n": 11,
+      "ideal": "17/64",
+      "original": "1/2",
+      "rematched": "1/2",
+      "original_gap": "15/64",
+      "rematched_gap": "15/64"
+    },
+    {
+      "n": 12,
+      "ideal": "17/64",
+      "original": "1/2",
+      "rematched": "1/2",
+      "original_gap": "15/64",
+      "rematched_gap": "15/64"
+    },
+    {
+      "n": 13,
+      "ideal": "83/128",
+      "original": "1/2",
+      "rematched": "1/2",
+      "original_gap": "19/128",
+      "rematched_gap": "19/128"
+    },
+    {
+      "n": 14,
+      "ideal": "29/128",
+      "original": "1/2",
+      "rematched": "1/2",
+      "original_gap": "35/128",
+      "rematched_gap": "35/128"
+    },
+    {
+      "n": 15,
+      "ideal": "33/256",
+      "original": "1/2",
+      "rematched": "1/2",
+      "original_gap": "95/256",
+      "rematched_gap": "95/256"
+    },
+    {
+      "n": 16,
+      "ideal": "157/256",
+      "original": "0",
+      "rematched": "1/2",
+      "original_gap": "157/256",
+      "rematched_gap": "29/256"
+    }
+  ]
+}

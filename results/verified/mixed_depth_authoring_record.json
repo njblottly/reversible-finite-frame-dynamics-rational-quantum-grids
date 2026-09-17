@@ -1,0 +1,98 @@
+{
+  "stage": "Repeated mixed-control circuits and universal finite-controller recurrence",
+  "created_utc": "2026-09-13T08:54:00.716487+00:00",
+  "manuscript_version": "0.13",
+  "chronological_block": [
+    "TA",
+    "HA",
+    "C"
+  ],
+  "prepared_physical_state": "00",
+  "readout": "A=1; target qubit unobserved",
+  "analytic_results": {
+    "ideal_probability": "2 sin^2(n theta_plus)/(6+sqrt(2)) + 2 sin^2(n theta_minus)/(6-sqrt(2)), sin^2 theta_plus/minus=(6+/-sqrt(2))/8",
+    "irrationality": "Each squared trace has nonintegral quadratic norm 1/2, excluding a root-of-unity eigenvalue ratio.",
+    "return_mean": "6/17 for every positive integer return exponent",
+    "robust_threshold": "Discrepancy >1/3 infinitely often on common return depths, independently of matching and preparation.",
+    "universal_exponent": "Q_M = lcm(1,...,M) for at most M retained frame labels",
+    "explicit_search_bound": "Among n=Q_M*r for 1<=r<=36*4^Q_M+1, at least one has discrepancy >1/3. This huge bound is analytic, not computed for large M.",
+    "liminf": "Return-subsequence discrepancy also has liminf zero; there is no all-large-depth positive lower bound.",
+    "refinement": "Fixed-depth error tends to zero for uniformly accurate refinements, but selected depths growing with catalogue size retain discrepancy >1/3. Onset near sqrt(L) is not established."
+  },
+  "assumptions": [
+    "Fixed finite frame catalogue at each resolution",
+    "Stationary deterministic reversible command tables",
+    "Unchanged compensated seed and physical input 00 in every context",
+    "Specified terminal Born readout",
+    "Uninterrupted coherent execution without reduction or reset"
+  ],
+  "finite_examples": {
+    "frames": 46080,
+    "cycle_counts": {
+      "original": {
+        "16": 2880
+      },
+      "improved": {
+        "8": 2880,
+        "12": 1920
+      },
+      "anchor_preserving": {
+        "16": 2880
+      }
+    },
+    "block_orders": {
+      "original": 16,
+      "improved": 24,
+      "anchor_preserving": 16
+    },
+    "common_example_blocks": 96,
+    "common_example_commands": 288,
+    "finite_A1_at_common_example": "0 for every preparation context in all three tables",
+    "ideal_A1_at_common_example": "124202613707725/281474976710656",
+    "universal_return_subsequence_mean": "6/17",
+    "uniform_positive_threshold": "1/3",
+    "scope": "Three coarse-table checks. Universal matching independence, all-resolution refinement and Cesaro limits are analytic results.",
+    "sha256_gate_permutations": {
+      "original": {
+        "HA": "3728a0f3677152b9705b4f2b880c4401b2187f44aae7c092dc6ab1717e1b3a7a",
+        "HB": "367acd37d052590e206708557ffd5b3ccbe716cb9526056911c5df3b2323dffe",
+        "TA": "f82e962c784534125eb116a9bbc8d5da242607cd2f7c6555e9f3eb84381852f2",
+        "TB": "fea55f9c9b1dc459b4e4b0dedb9110226c1f9c6a7d7cd739c740e4018421cc24",
+        "C": "0e008ad66cc235bf1e0a74037fd4109c40d3968c9446427cb2e5e70618fba19c"
+      },
+      "improved": {
+        "HA": "d28dd9591b8cbf82d8b7782e51d2300257824ec788d868dafcb63a55cdf70332",
+        "HB": "b1a43923c6011d37c255968f0f67e87121116ac037d4f9e6d1aaf4be3f5e9298",
+        "TA": "f82e962c784534125eb116a9bbc8d5da242607cd2f7c6555e9f3eb84381852f2",
+        "TB": "fea55f9c9b1dc459b4e4b0dedb9110226c1f9c6a7d7cd739c740e4018421cc24",
+        "C": "411bb85521b38374bf50992baf39a641f562b32ae5623937db51999fc44bd0f9"
+      },
+      "anchor_preserving": {
+        "HA": "3728a0f3677152b9705b4f2b880c4401b2187f44aae7c092dc6ab1717e1b3a7a",
+        "HB": "367acd37d052590e206708557ffd5b3ccbe716cb9526056911c5df3b2323dffe",
+        "TA": "f82e962c784534125eb116a9bbc8d5da242607cd2f7c6555e9f3eb84381852f2",
+        "TB": "fea55f9c9b1dc459b4e4b0dedb9110226c1f9c6a7d7cd739c740e4018421cc24",
+        "C": "d972aaba99bfef46dbcbc72d28f75c483154337d838219a9d182c26640d2ae67"
+      }
+    }
+  },
+  "validation": {
+    "python_status": "passed",
+    "python_assertions": 15263,
+    "arithmetic": "Exact integer, rational and multiquadratic arithmetic; no floating-point verification",
+    "python_record": "raqm_mixed_depth/reproducibility/mixed_depth_python_20260913T084537Z_4c3b0b99/mixed_depth_run_record.json",
+    "mathematica_status": "pending user execution",
+    "mathematica_local_check": "Balanced delimiters, strings and nested comments only; no kernel available",
+    "latex": "62-page DVI compiled with resolved references and no overfull boxes; no PDF generated"
+  },
+  "scope": "Generic finite-permutation recurrence specialised to this mixed-control model; not a uniqueness or priority claim for RaQM, and not a practical laboratory-depth prediction. No large refined catalogue enumerated.",
+  "next_target": "Quantify the earliest robust witness depth against frame budget and error; seek shorter matching-independent witnesses or prove postponement beyond the necessary sqrt(L) scale.",
+  "sha256": {
+    "raqm_mixed_depth/verify_mixed_depth.py": "eb37edb5d5e8e6bf1377796f86c77be79e40880e9e79cf0a2237b6ee8a16b5f8",
+    "raqm_mixed_depth/verify_mixed_depth.wl": "2e27fe799057e772cf256124ab4ce6810697852ac792e0fc5e695a65a9b0eccb",
+    "raqm_mixed_depth/mixed_depth_results.json": "c0323edcce69ba4b7ffa38df70e4c725b095c1737cb4dc539d843d7f97721944",
+    "raqm_mixed_depth/reproducibility/mixed_depth_python_20260913T084537Z_4c3b0b99/mixed_depth_run_record.json": "c5312dd049db1fd33f57977dd6621bcbf423b65172dd2c6793359f6e08e57f03",
+    "raqm_mixed_depth/reproducibility/mixed_depth_python_20260913T084537Z_4c3b0b99/mixed_depth_assertion_log.txt": "82dfc432bb0ad25b20a0fad68b05ac14abe3089680bb48db52773558cdd4cd50",
+    "raqm_extension/raqm_extension.tex": "de0f0955e5d940976065987bf1270a8477b12e94f6f89f669911b02a377b1d58"
+  }
+}

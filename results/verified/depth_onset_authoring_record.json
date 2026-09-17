@@ -1,0 +1,53 @@
+{
+  "stage": "Quantitative depth onset, spectral frame budget and gate-error compatibility",
+  "created_utc": "2026-09-15T02:27:14.740576+00:00",
+  "manuscript_version": "0.14",
+  "completed_results": {
+    "finite_benchmark": "For three frozen tables and all 64-context priors, earliest strict discrepancy >1/20 is five blocks (gap 1/8); earliest >1/3 is seven blocks (gap 7/16).",
+    "universal_window": "For any stationary reversible controller with at most M frame labels and a fixed preparation law, S_D(f-p)>1/20 at D=20(ceil(kappa_M)+1), kappa_M=max_{q<=M} q/abs(sin(q*theta_minus)). This is one common linear contrast over multiple depths, not a common single depth.",
+    "budget_only_bound": "kappa_M<=2*M*4^M; a universal sufficient multi-depth window is at most 20*(2*M*4^M+1).",
+    "error_compatibility": "Uniform block error epsilon_H+epsilon_C >=1/kappa_M is necessary. It is not a sufficient gate-matching criterion.",
+    "necessary_onset": "Point discrepancy >delta requires n>delta/epsilon. The linear contrast >1/20 requires D>1+1/(10*epsilon)."
+  },
+  "remaining_open": [
+    "Exact earliest universal onset for the full geometric matching class",
+    "Sufficiency of the necessary sqrt(L) scale",
+    "Constraints on reachable cycles implied by calibration and accurate geometric matchings",
+    "Physical coherent execution window and full information budget"
+  ],
+  "finite_certificates": {
+    "spectral_periods_certified": 46080,
+    "largest_budget_certificate": {
+      "frame_label_bound_M": 46080,
+      "ceil_kappa_M": 20885844,
+      "minimality_witness_period": 45828,
+      "window_length_D": 417716900,
+      "maximum_blocks": 417716899,
+      "maximum_elementary_commands": 1253150697
+    },
+    "earliest_three_table_strict_thresholds": {
+      "1/20": 5,
+      "1/3": 7
+    },
+    "five_block_discrepancy": "1/8",
+    "seven_block_discrepancy": "7/16",
+    "scope": "Earliest times are only for the three named tables. Spectral budgets support a universal multi-depth contrast, not a universal single-depth optimum. No near-sqrt(L) sufficiency claim."
+  },
+  "validation": {
+    "python_status": "passed",
+    "assertions": 55741,
+    "arithmetic": "Exact integer, rational and multiquadratic arithmetic. Frozen spectral candidate integers were discovered numerically; final certificates use no floating-point arithmetic.",
+    "mathematica_status": "pending user execution",
+    "mathematica_static_check": "Balanced brackets, strings and nested comments; no Wolfram kernel execution",
+    "latex": "67-page DVI compiled; no overfull boxes or unresolved references; no PDF generated"
+  },
+  "scope": "A completed bounds-and-benchmark stage, not a claim that the full onset optimisation or sqrt(L) onset problem has been solved. Preparation prior is fixed across the multi-depth test.",
+  "sha256": {
+    "raqm_depth_onset/verify_depth_onset.py": "ca66cbd35d30dfdd0f1b00e5296fc4ad8c6250e3833c47785e5490c50fbd8cde",
+    "raqm_depth_onset/reproducibility/depth_onset_python_20260915T021932Z_4e6bb4d7/depth_onset_run_record.json": "a353f1629ccc54b5b6a91d57229c5256567a74973f75508fe7ecce8005aac307",
+    "raqm_depth_onset/reproducibility/depth_onset_python_20260915T021932Z_4e6bb4d7/depth_onset_assertion_log.txt": "2330ac8deb4144a23b356a2cf2a08f9920f72f59cb2c15a7b7dedcfe396761dc",
+    "raqm_depth_onset/verify_depth_onset.wl": "988042fea8c91fba030d0e259111f9c288f090c7edf159840419b663333dc1e3",
+    "raqm_extension/raqm_extension.tex": "19c5d2356cd223ea03432a291a3d0a3f7255cf4ead2be42a5fc954c451e760c8",
+    "raqm_depth_onset/depth_onset_results.json": "f5762027725a5fef1002987eaa58054cbb9bd4e5bc58f81de4753a1faed33c4f"
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "created_utc": "2026-09-12T08:45:49.961979+00:00",
+  "stage": "Concrete non-Clifford two-qubit matching table and exact entangling statistics",
+  "manuscript_version": "0.11",
+  "python_verification": {
+    "status": "passed",
+    "assertions": 2645,
+    "environment": "authoring environment, not the user Mac",
+    "run_record": "/workspace/scratch/a34ebd00ac45/raqm_two_qubit_model/reproducibility/two_qubit_python_20260912T083833Z_1427cc74/two_qubit_run_record.json",
+    "run_record_sha256": "97d46f0cec46a762f902f68e57d2579df7d126484756b95891d0c22d41feda56",
+    "arithmetic": "exact integer, rational and multiquadratic; no floating point verification",
+    "summary": {
+      "frames": 46080,
+      "clifford_base": 11520,
+      "local_frames": 48,
+      "nonlocal_charts": 20,
+      "total_forward_table_edges": 230400,
+      "table_hashes": {
+        "HA": "3728a0f3677152b9705b4f2b880c4401b2187f44aae7c092dc6ab1717e1b3a7a",
+        "HB": "367acd37d052590e206708557ffd5b3ccbe716cb9526056911c5df3b2323dffe",
+        "TA": "f82e962c784534125eb116a9bbc8d5da242607cd2f7c6555e9f3eb84381852f2",
+        "TB": "fea55f9c9b1dc459b4e4b0dedb9110226c1f9c6a7d7cd739c740e4018421cc24",
+        "C": "0e008ad66cc235bf1e0a74037fd4109c40d3968c9446427cb2e5e70618fba19c"
+      },
+      "phase_scan": [
+        {
+          "n": 0,
+          "calibrated_p00": "1",
+          "uniform_p00": "1",
+          "ideal_p00_field": "1"
+        },
+        {
+          "n": 1,
+          "calibrated_p00": "1",
+          "uniform_p00": "3/4",
+          "ideal_p00_field": "{'1': '1/4', '0': '1/2'}"
+        },
+        {
+          "n": 2,
+          "calibrated_p00": "1/2",
+          "uniform_p00": "1/2",
+          "ideal_p00_field": "1/2"
+        },
+        {
+          "n": 3,
+          "calibrated_p00": "1/2",
+          "uniform_p00": "1/4",
+          "ideal_p00_field": "{'1': '-1/4', '0': '1/2'}"
+        },
+        {
+          "n": 4,
+          "calibrated_p00": "0",
+          "uniform_p00": "0",
+          "ideal_p00_field": "0"
+        },
+        {
+          "n": 5,
+          "calibrated_p00": "0",
+          "uniform_p00": "1/4",
+          "ideal_p00_field": "{'1': '-1/4', '0': '1/2'}"
+        },
+        {
+          "n": 6,
+          "calibrated_p00": "1/2",
+          "uniform_p00": "1/2",
+          "ideal_p00_field": "1/2"
+        },
+        {
+          "n": 7,
+          "calibrated_p00": "1/2",
+          "uniform_p00": "3/4",
+          "ideal_p00_field": "{'1': '1/4', '0': '1/2'}"
+        },
+        {
+          "n": 8,
+          "calibrated_p00": "1",
+          "uniform_p00": "1",
+          "ideal_p00_field": "1"
+        }
+      ],
+      "effective_preparation_branches": 4,
+      "exact_uniform_odd_phase_gap": "(sqrt(2)-1)/4",
+      "prior_independent_p1_minus_p3": "1/2",
+      "sharp_minimax_prior_error": "(sqrt(2)-1)/4 + abs(w-1/2)/2; w=Pr(initial target phase odd)",
+      "scope": "Coarse concrete non-Clifford model; exact algebraic certification, no claim of refinement or unique RaQM prediction."
+    }
+  },
+  "mathematica_verification": {
+    "new_script": "pending user execution; source delimiters checked, no Mathematica kernel execution here",
+    "previous_entangling_clifford_benchmark": "user reports all checks passed; no new exported log supplied for inspection"
+  },
+  "analytic_results": [
+    "46080 distinct frames, exact phase controls, reversible matched H and CNOT controls, strict locality of all local commands.",
+    "Sharp table-specific operator errors: sqrt(1-1/sqrt(2)) for H, zero for T, sqrt(2-sqrt(2)) for CNOT.",
+    "The same compensated preparation law gives a common channel for every word and reduces from 64 initial phase records to four parity contexts.",
+    "For H_A,C,T_B^n,C,H_A, p_n(b)=(1+cos((pi/2)*floor((b+n)/2)))/2.",
+    "For any fixed prior, p_1-p_3=1/2, whereas the ideal difference is 1/sqrt(2).",
+    "The exact worst fringe error is (sqrt(2)-1)/4 + abs(w-1/2)/2, where w is the initial odd-target-phase weight."
+  ],
+  "latex_verification": {
+    "method": "latex to DVI only; no PDF generated",
+    "pages": 53,
+    "warnings": false,
+    "undefined_references": false,
+    "overfull_boxes": false
+  },
+  "scope_limits": [
+    "This is a new coarse 48-local-frame catalogue, not the previous 464-local-frame H table.",
+    "Explicit structured bijections were certified, not a globally optimal bottleneck matching.",
+    "The 20 nonlocal charts are fixed; no asymptotic accuracy refinement is claimed.",
+    "Admissibility is the expanded finite frame image, not the original fixed laboratory-basis grid.",
+    "The prior-independent contrast is specific to this table; it is not a universal RaQM prediction."
+  ],
+  "next_target": "Test robustness of the contrast under other admissible matchings and genuine catalogue refinement.",
+  "artifacts": [
+    {
+      "filename": "verify_two_qubit_model.py",
+      "path": "/workspace/scratch/a34ebd00ac45/raqm_two_qubit_model/verify_two_qubit_model.py",
+      "bytes": 17175,
+      "sha256": "7513379e56073a10dc520b2591084da7c7b557c96294505a4522c9191b286631"
+    },
+    {
+      "filename": "verify_two_qubit_model.wl",
+      "path": "/workspace/scratch/a34ebd00ac45/raqm_two_qubit_model/verify_two_qubit_model.wl",
+      "bytes": 14438,
+      "sha256": "26e6dcfa66608f6f77760c9177ae9a12a8662c27afcc41f366cc9cc0008042a1"
+    },
+    {
+      "filename": "raqm_extension.tex",
+      "path": "/workspace/scratch/a34ebd00ac45/raqm_extension/raqm_extension.tex",
+      "bytes": 188324,
+      "sha256": "afb75fda99ceee6aacc78d7bbfcf693f9cc3aea9791bd3ee074d2d8cad3ecb18"
+    },
+    {
+      "filename": "two_qubit_matching_table.json",
+      "path": "/workspace/scratch/a34ebd00ac45/raqm_two_qubit_model/two_qubit_matching_table.json",
+      "bytes": 1886689,
+      "sha256": "2ad935df9293951756c6b5567a6f1b90814fa2075eb34cbc58ee05233f9e98d6"
+    }
+  ]
+}

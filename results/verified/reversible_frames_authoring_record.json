@@ -1,0 +1,6595 @@
+{
+  "started_utc": "2026-09-11T05:05:06.545346+00:00",
+  "script": "verify_reversible_frames.py",
+  "script_version": "0.1",
+  "source_sha256": "39d8e072ff3f50de532df3dc6da58651c44403e92faf1b63a53f27b1b8e48766",
+  "python_version": "3.12.14 (main, Aug 25 2026, 14:00:49) [Clang 22.1.3 ]",
+  "platform": "Linux-6.18.35-x86_64-with-glibc2.39",
+  "seed": 20260911,
+  "numeric_tolerance": 1e-09,
+  "scope": "Exact combinatorial checks and separately numerical matrix/matching checks; not interval certification.",
+  "results": {
+    "finite_maps_exhausted": 288,
+    "matching_rows": [
+      {
+        "D": 2,
+        "L": 4,
+        "N": 24,
+        "gate": "Hadamard",
+        "bottleneck_numeric": 4.073985374282647e-16,
+        "proved_upper_bound": 5.370868535679222
+      },
+      {
+        "D": 2,
+        "L": 4,
+        "N": 24,
+        "gate": "real rotation",
+        "bottleneck_numeric": 0.33501244660947305,
+        "proved_upper_bound": 5.370868535679222
+      },
+      {
+        "D": 2,
+        "L": 4,
+        "N": 24,
+        "gate": "complex gate",
+        "bottleneck_numeric": 0.386040725357245,
+        "proved_upper_bound": 5.370868535679222
+      },
+      {
+        "D": 4,
+        "L": 4,
+        "N": 56,
+        "gate": "Hadamard",
+        "bottleneck_numeric": 0.36602540378443865,
+        "proved_upper_bound": 4.573325350957627
+      },
+      {
+        "D": 4,
+        "L": 4,
+        "N": 56,
+        "gate": "real rotation",
+        "bottleneck_numeric": 0.44095433263778006,
+        "proved_upper_bound": 4.573325350957627
+      },
+      {
+        "D": 4,
+        "L": 4,
+        "N": 56,
+        "gate": "complex gate",
+        "bottleneck_numeric": 0.386040725357245,
+        "proved_upper_bound": 4.573325350957627
+      },
+      {
+        "D": 4,
+        "L": 8,
+        "N": 208,
+        "gate": "Hadamard",
+        "bottleneck_numeric": 0.26105238444010337,
+        "proved_upper_bound": 3.1296516572344983
+      },
+      {
+        "D": 4,
+        "L": 8,
+        "N": 208,
+        "gate": "real rotation",
+        "bottleneck_numeric": 0.25358954621251656,
+        "proved_upper_bound": 3.1296516572344983
+      },
+      {
+        "D": 4,
+        "L": 8,
+        "N": 208,
+        "gate": "complex gate",
+        "bottleneck_numeric": 0.37309480394570205,
+        "proved_upper_bound": 3.1296516572344983
+      },
+      {
+        "D": 8,
+        "L": 8,
+        "N": 464,
+        "gate": "Hadamard",
+        "bottleneck_numeric": 0.2520093766978365,
+        "proved_upper_bound": 2.6111740390068063
+      },
+      {
+        "D": 8,
+        "L": 8,
+        "N": 464,
+        "gate": "real rotation",
+        "bottleneck_numeric": 0.2730795897470705,
+        "proved_upper_bound": 2.6111740390068063
+      },
+      {
+        "D": 8,
+        "L": 8,
+        "N": 464,
+        "gate": "complex gate",
+        "bottleneck_numeric": 0.2772185511334653,
+        "proved_upper_bound": 2.6111740390068063
+      }
+    ],
+    "histories": [
+      {
+        "D": 2,
+        "L": 4,
+        "forward_steps": 24,
+        "final_forward_error": 0.22498563695351712,
+        "return_residual": 1.838705785526049e-15
+      },
+      {
+        "D": 4,
+        "L": 4,
+        "forward_steps": 24,
+        "final_forward_error": 1.0247691050705325,
+        "return_residual": 2.7279020542211454e-16
+      },
+      {
+        "D": 4,
+        "L": 8,
+        "forward_steps": 24,
+        "final_forward_error": 0.4937896904974944,
+        "return_residual": 6.43578195573307e-16
+      },
+      {
+        "D": 8,
+        "L": 8,
+        "forward_steps": 24,
+        "final_forward_error": 0.5914613952938151,
+        "return_residual": 1.3380633391512112e-15
+      }
+    ],
+    "maximum_unitarity_residual": 7.021666937153401e-16
+  },
+  "status": "passed",
+  "checks": [
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact clean-ancilla extension is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact clean-input rounding reproduced",
+      "passed": true
+    },
+    {
+      "label": "exact largest-fibre auxiliary alphabet",
+      "passed": true
+    },
+    {
+      "label": "exact Haar slab volumes sum to one",
+      "passed": true
+    },
+    {
+      "label": "exact all frame cells have equal Haar volume",
+      "passed": true
+    },
+    {
+      "label": "exact interior frame lies in its assigned slab",
+      "passed": true
+    },
+    {
+      "label": "exact Haar slab volumes sum to one",
+      "passed": true
+    },
+    {
+      "label": "exact all frame cells have equal Haar volume",
+      "passed": true
+    },
+    {
+      "label": "exact interior frame lies in its assigned slab",
+      "passed": true
+    },
+    {
+      "label": "exact Haar slab volumes sum to one",
+      "passed": true
+    },
+    {
+      "label": "exact all frame cells have equal Haar volume",
+      "passed": true
+    },
+    {
+      "label": "exact interior frame lies in its assigned slab",
+      "passed": true
+    },
+    {
+      "label": "exact Haar slab volumes sum to one",
+      "passed": true
+    },
+    {
+      "label": "exact all frame cells have equal Haar volume",
+      "passed": true
+    },
+    {
+      "label": "exact interior frame lies in its assigned slab",
+      "passed": true
+    },
+    {
+      "label": "exact Haar slab volumes sum to one",
+      "passed": true
+    },
+    {
+      "label": "exact all frame cells have equal Haar volume",
+      "passed": true
+    },
+    {
+      "label": "exact interior frame lies in its assigned slab",
+      "passed": true
+    },
+    {
+      "label": "exact Haar slab volumes sum to one",
+      "passed": true
+    },
+    {
+      "label": "exact all frame cells have equal Haar volume",
+      "passed": true
+    },
+    {
+      "label": "exact interior frame lies in its assigned slab",
+      "passed": true
+    },
+    {
+      "label": "exact Haar slab volumes sum to one",
+      "passed": true
+    },
+    {
+      "label": "exact all frame cells have equal Haar volume",
+      "passed": true
+    },
+    {
+      "label": "exact interior frame lies in its assigned slab",
+      "passed": true
+    },
+    {
+      "label": "exact Haar slab volumes sum to one",
+      "passed": true
+    },
+    {
+      "label": "exact all frame cells have equal Haar volume",
+      "passed": true
+    },
+    {
+      "label": "exact interior frame lies in its assigned slab",
+      "passed": true
+    },
+    {
+      "label": "exact Haar slab volumes sum to one",
+      "passed": true
+    },
+    {
+      "label": "exact all frame cells have equal Haar volume",
+      "passed": true
+    },
+    {
+      "label": "exact interior frame lies in its assigned slab",
+      "passed": true
+    },
+    {
+      "label": "exact Haar slab volumes sum to one",
+      "passed": true
+    },
+    {
+      "label": "exact all frame cells have equal Haar volume",
+      "passed": true
+    },
+    {
+      "label": "exact interior frame lies in its assigned slab",
+      "passed": true
+    },
+    {
+      "label": "exact Haar slab volumes sum to one",
+      "passed": true
+    },
+    {
+      "label": "exact all frame cells have equal Haar volume",
+      "passed": true
+    },
+    {
+      "label": "exact interior frame lies in its assigned slab",
+      "passed": true
+    },
+    {
+      "label": "exact Haar slab volumes sum to one",
+      "passed": true
+    },
+    {
+      "label": "exact all frame cells have equal Haar volume",
+      "passed": true
+    },
+    {
+      "label": "exact interior frame lies in its assigned slab",
+      "passed": true
+    },
+    {
+      "label": "exact catalogue size",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "exact selected label map is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact label inverse",
+      "passed": true
+    },
+    {
+      "label": "numerical bottleneck edge bound",
+      "passed": true
+    },
+    {
+      "label": "numerical cost graph has no matching at preceding threshold",
+      "passed": true
+    },
+    {
+      "label": "numerical matching obeys analytic uniform bound",
+      "passed": true
+    },
+    {
+      "label": "numerical inverse command has same error bound",
+      "passed": true
+    },
+    {
+      "label": "exact selected label map is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact label inverse",
+      "passed": true
+    },
+    {
+      "label": "numerical bottleneck edge bound",
+      "passed": true
+    },
+    {
+      "label": "numerical cost graph has no matching at preceding threshold",
+      "passed": true
+    },
+    {
+      "label": "numerical matching obeys analytic uniform bound",
+      "passed": true
+    },
+    {
+      "label": "numerical inverse command has same error bound",
+      "passed": true
+    },
+    {
+      "label": "exact selected label map is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact label inverse",
+      "passed": true
+    },
+    {
+      "label": "numerical bottleneck edge bound",
+      "passed": true
+    },
+    {
+      "label": "numerical cost graph has no matching at preceding threshold",
+      "passed": true
+    },
+    {
+      "label": "numerical matching obeys analytic uniform bound",
+      "passed": true
+    },
+    {
+      "label": "numerical inverse command has same error bound",
+      "passed": true
+    },
+    {
+      "label": "numerical selected local matrix unitary",
+      "passed": true
+    },
+    {
+      "label": "numerical remote marginal preserved",
+      "passed": true
+    },
+    {
+      "label": "numerical labelled endpoint",
+      "passed": true
+    },
+    {
+      "label": "numerical reversible word error bound",
+      "passed": true
+    },
+    {
+      "label": "numerical selected local matrix unitary",
+      "passed": true
+    },
+    {
+      "label": "numerical remote marginal preserved",
+      "passed": true
+    },
+    {
+      "label": "numerical labelled endpoint",
+      "passed": true
+    },
+    {
+      "label": "numerical reversible word error bound",
+      "passed": true
+    },
+    {
+      "label": "numerical selected local matrix unitary",
+      "passed": true
+    },
+    {
+      "label": "numerical remote marginal preserved",
+      "passed": true
+    },
+    {
+      "label": "numerical labelled endpoint",
+      "passed": true
+    },
+    {
+      "label": "numerical reversible word error bound",
+      "passed": true
+    },
+    {
+      "label": "numerical selected local matrix unitary",
+      "passed": true
+    },
+    {
+      "label": "numerical remote marginal preserved",
+      "passed": true
+    },
+    {
+      "label": "numerical labelled endpoint",
+      "passed": true
+    },
+    {
+      "label": "numerical reversible word error bound",
+      "passed": true
+    },
+    {
+      "label": "numerical selected local matrix unitary",
+      "passed": true
+    },
+    {
+      "label": "numerical remote marginal preserved",
+      "passed": true
+    },
+    {
+      "label": "numerical labelled endpoint",
+      "passed": true
+    },
+    {
+      "label": "numerical reversible word error bound",
+      "passed": true
+    },
+    {
+      "label": "numerical selected local matrix unitary",
+      "passed": true
+    },
+    {
+      "label": "numerical remote marginal preserved",
+      "passed": true
+    },
+    {
+      "label": "numerical labelled endpoint",
+      "passed": true
+    },
+    {
+      "label": "numerical reversible word error bound",
+      "passed": true
+    },
+    {
+      "label": "numerical selected local matrix unitary",
+      "passed": true
+    },
+    {
+      "label": "numerical remote marginal preserved",
+      "passed": true
+    },
+    {
+      "label": "numerical labelled endpoint",
+      "passed": true
+    },
+    {
+      "label": "numerical reversible word error bound",
+      "passed": true
+    },
+    {
+      "label": "numerical selected local matrix unitary",
+      "passed": true
+    },
+    {
+      "label": "numerical remote marginal preserved",
+      "passed": true
+    },
+    {
+      "label": "numerical labelled endpoint",
+      "passed": true
+    },
+    {
+      "label": "numerical reversible word error bound",
+      "passed": true
+    },
+    {
+      "label": "numerical selected local matrix unitary",
+      "passed": true
+    },
+    {
+      "label": "numerical remote marginal preserved",
+      "passed": true
+    },
+    {
+      "label": "numerical labelled endpoint",
+      "passed": true
+    },
+    {
+      "label": "numerical reversible word error bound",
+      "passed": true
+    },
+    {
+      "label": "numerical selected local matrix unitary",
+      "passed": true
+    },
+    {
+      "label": "numerical remote marginal preserved",
+      "passed": true
+    },
+    {
+      "label": "numerical labelled endpoint",
+      "passed": true
+    },
+    {
+      "label": "numerical reversible word error bound",
+      "passed": true
+    },
+    {
+      "label": "numerical selected local matrix unitary",
+      "passed": true
+    },
+    {
+      "label": "numerical remote marginal preserved",
+      "passed": true
+    },
+    {
+      "label": "numerical labelled endpoint",
+      "passed": true
+    },
+    {
+      "label": "numerical reversible word error bound",
+      "passed": true
+    },
+    {
+      "label": "numerical selected local matrix unitary",
+      "passed": true
+    },
+    {
+      "label": "numerical remote marginal preserved",
+      "passed": true
+    },
+    {
+      "label": "numerical labelled endpoint",
+      "passed": true
+    },
+    {
+      "label": "numerical reversible word error bound",
+      "passed": true
+    },
+    {
+      "label": "numerical selected local matrix unitary",
+      "passed": true
+    },
+    {
+      "label": "numerical remote marginal preserved",
+      "passed": true
+    },
+    {
+      "label": "numerical labelled endpoint",
+      "passed": true
+    },
+    {
+      "label": "numerical reversible word error bound",
+      "passed": true
+    },
+    {
+      "label": "numerical selected local matrix unitary",
+      "passed": true
+    },
+    {
+      "label": "numerical remote marginal preserved",
+      "passed": true
+    },
+    {
+      "label": "numerical labelled endpoint",
+      "passed": true
+    },
+    {
+      "label": "numerical reversible word error bound",
+      "passed": true
+    },
+    {
+      "label": "numerical selected local matrix unitary",
+      "passed": true
+    },
+    {
+      "label": "numerical remote marginal preserved",
+      "passed": true
+    },
+    {
+      "label": "numerical labelled endpoint",
+      "passed": true
+    },
+    {
+      "label": "numerical reversible word error bound",
+      "passed": true
+    },
+    {
+      "label": "numerical selected local matrix unitary",
+      "passed": true
+    },
+    {
+      "label": "numerical remote marginal preserved",
+      "passed": true
+    },
+    {
+      "label": "numerical labelled endpoint",
+      "passed": true
+    },
+    {
+      "label": "numerical reversible word error bound",
+      "passed": true
+    },
+    {
+      "label": "numerical selected local matrix unitary",
+      "passed": true
+    },
+    {
+      "label": "numerical remote marginal preserved",
+      "passed": true
+    },
+    {
+      "label": "numerical labelled endpoint",
+      "passed": true
+    },
+    {
+      "label": "numerical reversible word error bound",
+      "passed": true
+    },
+    {
+      "label": "numerical selected local matrix unitary",
+      "passed": true
+    },
+    {
+      "label": "numerical remote marginal preserved",
+      "passed": true
+    },
+    {
+      "label": "numerical labelled endpoint",
+      "passed": true
+    },
+    {
+      "label": "numerical reversible word error bound",
+      "passed": true
+    },
+    {
+      "label": "numerical selected local matrix unitary",
+      "passed": true
+    },
+    {
+      "label": "numerical remote marginal preserved",
+      "passed": true
+    },
+    {
+      "label": "numerical labelled endpoint",
+      "passed": true
+    },
+    {
+      "label": "numerical reversible word error bound",
+      "passed": true
+    },
+    {
+      "label": "numerical selected local matrix unitary",
+      "passed": true
+    },
+    {
+      "label": "numerical remote marginal preserved",
+      "passed": true
+    },
+    {
+      "label": "numerical labelled endpoint",
+      "passed": true
+    },
+    {
+      "label": "numerical reversible word error bound",
+      "passed": true
+    },
+    {
+      "label": "numerical selected local matrix unitary",
+      "passed": true
+    },
+    {
+      "label": "numerical remote marginal preserved",
+      "passed": true
+    },
+    {
+      "label": "numerical labelled endpoint",
+      "passed": true
+    },
+    {
+      "label": "numerical reversible word error bound",
+      "passed": true
+    },
+    {
+      "label": "numerical selected local matrix unitary",
+      "passed": true
+    },
+    {
+      "label": "numerical remote marginal preserved",
+      "passed": true
+    },
+    {
+      "label": "numerical labelled endpoint",
+      "passed": true
+    },
+    {
+      "label": "numerical reversible word error bound",
+      "passed": true
+    },
+    {
+      "label": "numerical selected local matrix unitary",
+      "passed": true
+    },
+    {
+      "label": "numerical remote marginal preserved",
+      "passed": true
+    },
+    {
+      "label": "numerical labelled endpoint",
+      "passed": true
+    },
+    {
+      "label": "numerical reversible word error bound",
+      "passed": true
+    },
+    {
+      "label": "numerical selected local matrix unitary",
+      "passed": true
+    },
+    {
+      "label": "numerical remote marginal preserved",
+      "passed": true
+    },
+    {
+      "label": "numerical labelled endpoint",
+      "passed": true
+    },
+    {
+      "label": "numerical reversible word error bound",
+      "passed": true
+    },
+    {
+      "label": "exact full word reversal restores frame labels",
+      "passed": true
+    },
+    {
+      "label": "numerical full word reversal restores physical state",
+      "passed": true
+    },
+    {
+      "label": "exact independent coordinate updates commute on every frame pair",
+      "passed": true
+    },
+    {
+      "label": "exact catalogue size",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "exact selected label map is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact label inverse",
+      "passed": true
+    },
+    {
+      "label": "numerical bottleneck edge bound",
+      "passed": true
+    },
+    {
+      "label": "numerical cost graph has no matching at preceding threshold",
+      "passed": true
+    },
+    {
+      "label": "numerical matching obeys analytic uniform bound",
+      "passed": true
+    },
+    {
+      "label": "numerical inverse command has same error bound",
+      "passed": true
+    },
+    {
+      "label": "exact selected label map is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact label inverse",
+      "passed": true
+    },
+    {
+      "label": "numerical bottleneck edge bound",
+      "passed": true
+    },
+    {
+      "label": "numerical cost graph has no matching at preceding threshold",
+      "passed": true
+    },
+    {
+      "label": "numerical matching obeys analytic uniform bound",
+      "passed": true
+    },
+    {
+      "label": "numerical inverse command has same error bound",
+      "passed": true
+    },
+    {
+      "label": "exact selected label map is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact label inverse",
+      "passed": true
+    },
+    {
+      "label": "numerical bottleneck edge bound",
+      "passed": true
+    },
+    {
+      "label": "numerical cost graph has no matching at preceding threshold",
+      "passed": true
+    },
+    {
+      "label": "numerical matching obeys analytic uniform bound",
+      "passed": true
+    },
+    {
+      "label": "numerical inverse command has same error bound",
+      "passed": true
+    },
+    {
+      "label": "numerical selected local matrix unitary",
+      "passed": true
+    },
+    {
+      "label": "numerical remote marginal preserved",
+      "passed": true
+    },
+    {
+      "label": "numerical labelled endpoint",
+      "passed": true
+    },
+    {
+      "label": "numerical reversible word error bound",
+      "passed": true
+    },
+    {
+      "label": "numerical selected local matrix unitary",
+      "passed": true
+    },
+    {
+      "label": "numerical remote marginal preserved",
+      "passed": true
+    },
+    {
+      "label": "numerical labelled endpoint",
+      "passed": true
+    },
+    {
+      "label": "numerical reversible word error bound",
+      "passed": true
+    },
+    {
+      "label": "numerical selected local matrix unitary",
+      "passed": true
+    },
+    {
+      "label": "numerical remote marginal preserved",
+      "passed": true
+    },
+    {
+      "label": "numerical labelled endpoint",
+      "passed": true
+    },
+    {
+      "label": "numerical reversible word error bound",
+      "passed": true
+    },
+    {
+      "label": "numerical selected local matrix unitary",
+      "passed": true
+    },
+    {
+      "label": "numerical remote marginal preserved",
+      "passed": true
+    },
+    {
+      "label": "numerical labelled endpoint",
+      "passed": true
+    },
+    {
+      "label": "numerical reversible word error bound",
+      "passed": true
+    },
+    {
+      "label": "numerical selected local matrix unitary",
+      "passed": true
+    },
+    {
+      "label": "numerical remote marginal preserved",
+      "passed": true
+    },
+    {
+      "label": "numerical labelled endpoint",
+      "passed": true
+    },
+    {
+      "label": "numerical reversible word error bound",
+      "passed": true
+    },
+    {
+      "label": "numerical selected local matrix unitary",
+      "passed": true
+    },
+    {
+      "label": "numerical remote marginal preserved",
+      "passed": true
+    },
+    {
+      "label": "numerical labelled endpoint",
+      "passed": true
+    },
+    {
+      "label": "numerical reversible word error bound",
+      "passed": true
+    },
+    {
+      "label": "numerical selected local matrix unitary",
+      "passed": true
+    },
+    {
+      "label": "numerical remote marginal preserved",
+      "passed": true
+    },
+    {
+      "label": "numerical labelled endpoint",
+      "passed": true
+    },
+    {
+      "label": "numerical reversible word error bound",
+      "passed": true
+    },
+    {
+      "label": "numerical selected local matrix unitary",
+      "passed": true
+    },
+    {
+      "label": "numerical remote marginal preserved",
+      "passed": true
+    },
+    {
+      "label": "numerical labelled endpoint",
+      "passed": true
+    },
+    {
+      "label": "numerical reversible word error bound",
+      "passed": true
+    },
+    {
+      "label": "numerical selected local matrix unitary",
+      "passed": true
+    },
+    {
+      "label": "numerical remote marginal preserved",
+      "passed": true
+    },
+    {
+      "label": "numerical labelled endpoint",
+      "passed": true
+    },
+    {
+      "label": "numerical reversible word error bound",
+      "passed": true
+    },
+    {
+      "label": "numerical selected local matrix unitary",
+      "passed": true
+    },
+    {
+      "label": "numerical remote marginal preserved",
+      "passed": true
+    },
+    {
+      "label": "numerical labelled endpoint",
+      "passed": true
+    },
+    {
+      "label": "numerical reversible word error bound",
+      "passed": true
+    },
+    {
+      "label": "numerical selected local matrix unitary",
+      "passed": true
+    },
+    {
+      "label": "numerical remote marginal preserved",
+      "passed": true
+    },
+    {
+      "label": "numerical labelled endpoint",
+      "passed": true
+    },
+    {
+      "label": "numerical reversible word error bound",
+      "passed": true
+    },
+    {
+      "label": "numerical selected local matrix unitary",
+      "passed": true
+    },
+    {
+      "label": "numerical remote marginal preserved",
+      "passed": true
+    },
+    {
+      "label": "numerical labelled endpoint",
+      "passed": true
+    },
+    {
+      "label": "numerical reversible word error bound",
+      "passed": true
+    },
+    {
+      "label": "numerical selected local matrix unitary",
+      "passed": true
+    },
+    {
+      "label": "numerical remote marginal preserved",
+      "passed": true
+    },
+    {
+      "label": "numerical labelled endpoint",
+      "passed": true
+    },
+    {
+      "label": "numerical reversible word error bound",
+      "passed": true
+    },
+    {
+      "label": "numerical selected local matrix unitary",
+      "passed": true
+    },
+    {
+      "label": "numerical remote marginal preserved",
+      "passed": true
+    },
+    {
+      "label": "numerical labelled endpoint",
+      "passed": true
+    },
+    {
+      "label": "numerical reversible word error bound",
+      "passed": true
+    },
+    {
+      "label": "numerical selected local matrix unitary",
+      "passed": true
+    },
+    {
+      "label": "numerical remote marginal preserved",
+      "passed": true
+    },
+    {
+      "label": "numerical labelled endpoint",
+      "passed": true
+    },
+    {
+      "label": "numerical reversible word error bound",
+      "passed": true
+    },
+    {
+      "label": "numerical selected local matrix unitary",
+      "passed": true
+    },
+    {
+      "label": "numerical remote marginal preserved",
+      "passed": true
+    },
+    {
+      "label": "numerical labelled endpoint",
+      "passed": true
+    },
+    {
+      "label": "numerical reversible word error bound",
+      "passed": true
+    },
+    {
+      "label": "numerical selected local matrix unitary",
+      "passed": true
+    },
+    {
+      "label": "numerical remote marginal preserved",
+      "passed": true
+    },
+    {
+      "label": "numerical labelled endpoint",
+      "passed": true
+    },
+    {
+      "label": "numerical reversible word error bound",
+      "passed": true
+    },
+    {
+      "label": "numerical selected local matrix unitary",
+      "passed": true
+    },
+    {
+      "label": "numerical remote marginal preserved",
+      "passed": true
+    },
+    {
+      "label": "numerical labelled endpoint",
+      "passed": true
+    },
+    {
+      "label": "numerical reversible word error bound",
+      "passed": true
+    },
+    {
+      "label": "numerical selected local matrix unitary",
+      "passed": true
+    },
+    {
+      "label": "numerical remote marginal preserved",
+      "passed": true
+    },
+    {
+      "label": "numerical labelled endpoint",
+      "passed": true
+    },
+    {
+      "label": "numerical reversible word error bound",
+      "passed": true
+    },
+    {
+      "label": "numerical selected local matrix unitary",
+      "passed": true
+    },
+    {
+      "label": "numerical remote marginal preserved",
+      "passed": true
+    },
+    {
+      "label": "numerical labelled endpoint",
+      "passed": true
+    },
+    {
+      "label": "numerical reversible word error bound",
+      "passed": true
+    },
+    {
+      "label": "numerical selected local matrix unitary",
+      "passed": true
+    },
+    {
+      "label": "numerical remote marginal preserved",
+      "passed": true
+    },
+    {
+      "label": "numerical labelled endpoint",
+      "passed": true
+    },
+    {
+      "label": "numerical reversible word error bound",
+      "passed": true
+    },
+    {
+      "label": "numerical selected local matrix unitary",
+      "passed": true
+    },
+    {
+      "label": "numerical remote marginal preserved",
+      "passed": true
+    },
+    {
+      "label": "numerical labelled endpoint",
+      "passed": true
+    },
+    {
+      "label": "numerical reversible word error bound",
+      "passed": true
+    },
+    {
+      "label": "numerical selected local matrix unitary",
+      "passed": true
+    },
+    {
+      "label": "numerical remote marginal preserved",
+      "passed": true
+    },
+    {
+      "label": "numerical labelled endpoint",
+      "passed": true
+    },
+    {
+      "label": "numerical reversible word error bound",
+      "passed": true
+    },
+    {
+      "label": "numerical selected local matrix unitary",
+      "passed": true
+    },
+    {
+      "label": "numerical remote marginal preserved",
+      "passed": true
+    },
+    {
+      "label": "numerical labelled endpoint",
+      "passed": true
+    },
+    {
+      "label": "numerical reversible word error bound",
+      "passed": true
+    },
+    {
+      "label": "exact full word reversal restores frame labels",
+      "passed": true
+    },
+    {
+      "label": "numerical full word reversal restores physical state",
+      "passed": true
+    },
+    {
+      "label": "exact independent coordinate updates commute on every frame pair",
+      "passed": true
+    },
+    {
+      "label": "exact catalogue size",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "exact selected label map is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact label inverse",
+      "passed": true
+    },
+    {
+      "label": "numerical bottleneck edge bound",
+      "passed": true
+    },
+    {
+      "label": "numerical cost graph has no matching at preceding threshold",
+      "passed": true
+    },
+    {
+      "label": "numerical matching obeys analytic uniform bound",
+      "passed": true
+    },
+    {
+      "label": "numerical inverse command has same error bound",
+      "passed": true
+    },
+    {
+      "label": "exact selected label map is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact label inverse",
+      "passed": true
+    },
+    {
+      "label": "numerical bottleneck edge bound",
+      "passed": true
+    },
+    {
+      "label": "numerical cost graph has no matching at preceding threshold",
+      "passed": true
+    },
+    {
+      "label": "numerical matching obeys analytic uniform bound",
+      "passed": true
+    },
+    {
+      "label": "numerical inverse command has same error bound",
+      "passed": true
+    },
+    {
+      "label": "exact selected label map is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact label inverse",
+      "passed": true
+    },
+    {
+      "label": "numerical bottleneck edge bound",
+      "passed": true
+    },
+    {
+      "label": "numerical cost graph has no matching at preceding threshold",
+      "passed": true
+    },
+    {
+      "label": "numerical matching obeys analytic uniform bound",
+      "passed": true
+    },
+    {
+      "label": "numerical inverse command has same error bound",
+      "passed": true
+    },
+    {
+      "label": "numerical selected local matrix unitary",
+      "passed": true
+    },
+    {
+      "label": "numerical remote marginal preserved",
+      "passed": true
+    },
+    {
+      "label": "numerical labelled endpoint",
+      "passed": true
+    },
+    {
+      "label": "numerical reversible word error bound",
+      "passed": true
+    },
+    {
+      "label": "numerical selected local matrix unitary",
+      "passed": true
+    },
+    {
+      "label": "numerical remote marginal preserved",
+      "passed": true
+    },
+    {
+      "label": "numerical labelled endpoint",
+      "passed": true
+    },
+    {
+      "label": "numerical reversible word error bound",
+      "passed": true
+    },
+    {
+      "label": "numerical selected local matrix unitary",
+      "passed": true
+    },
+    {
+      "label": "numerical remote marginal preserved",
+      "passed": true
+    },
+    {
+      "label": "numerical labelled endpoint",
+      "passed": true
+    },
+    {
+      "label": "numerical reversible word error bound",
+      "passed": true
+    },
+    {
+      "label": "numerical selected local matrix unitary",
+      "passed": true
+    },
+    {
+      "label": "numerical remote marginal preserved",
+      "passed": true
+    },
+    {
+      "label": "numerical labelled endpoint",
+      "passed": true
+    },
+    {
+      "label": "numerical reversible word error bound",
+      "passed": true
+    },
+    {
+      "label": "numerical selected local matrix unitary",
+      "passed": true
+    },
+    {
+      "label": "numerical remote marginal preserved",
+      "passed": true
+    },
+    {
+      "label": "numerical labelled endpoint",
+      "passed": true
+    },
+    {
+      "label": "numerical reversible word error bound",
+      "passed": true
+    },
+    {
+      "label": "numerical selected local matrix unitary",
+      "passed": true
+    },
+    {
+      "label": "numerical remote marginal preserved",
+      "passed": true
+    },
+    {
+      "label": "numerical labelled endpoint",
+      "passed": true
+    },
+    {
+      "label": "numerical reversible word error bound",
+      "passed": true
+    },
+    {
+      "label": "numerical selected local matrix unitary",
+      "passed": true
+    },
+    {
+      "label": "numerical remote marginal preserved",
+      "passed": true
+    },
+    {
+      "label": "numerical labelled endpoint",
+      "passed": true
+    },
+    {
+      "label": "numerical reversible word error bound",
+      "passed": true
+    },
+    {
+      "label": "numerical selected local matrix unitary",
+      "passed": true
+    },
+    {
+      "label": "numerical remote marginal preserved",
+      "passed": true
+    },
+    {
+      "label": "numerical labelled endpoint",
+      "passed": true
+    },
+    {
+      "label": "numerical reversible word error bound",
+      "passed": true
+    },
+    {
+      "label": "numerical selected local matrix unitary",
+      "passed": true
+    },
+    {
+      "label": "numerical remote marginal preserved",
+      "passed": true
+    },
+    {
+      "label": "numerical labelled endpoint",
+      "passed": true
+    },
+    {
+      "label": "numerical reversible word error bound",
+      "passed": true
+    },
+    {
+      "label": "numerical selected local matrix unitary",
+      "passed": true
+    },
+    {
+      "label": "numerical remote marginal preserved",
+      "passed": true
+    },
+    {
+      "label": "numerical labelled endpoint",
+      "passed": true
+    },
+    {
+      "label": "numerical reversible word error bound",
+      "passed": true
+    },
+    {
+      "label": "numerical selected local matrix unitary",
+      "passed": true
+    },
+    {
+      "label": "numerical remote marginal preserved",
+      "passed": true
+    },
+    {
+      "label": "numerical labelled endpoint",
+      "passed": true
+    },
+    {
+      "label": "numerical reversible word error bound",
+      "passed": true
+    },
+    {
+      "label": "numerical selected local matrix unitary",
+      "passed": true
+    },
+    {
+      "label": "numerical remote marginal preserved",
+      "passed": true
+    },
+    {
+      "label": "numerical labelled endpoint",
+      "passed": true
+    },
+    {
+      "label": "numerical reversible word error bound",
+      "passed": true
+    },
+    {
+      "label": "numerical selected local matrix unitary",
+      "passed": true
+    },
+    {
+      "label": "numerical remote marginal preserved",
+      "passed": true
+    },
+    {
+      "label": "numerical labelled endpoint",
+      "passed": true
+    },
+    {
+      "label": "numerical reversible word error bound",
+      "passed": true
+    },
+    {
+      "label": "numerical selected local matrix unitary",
+      "passed": true
+    },
+    {
+      "label": "numerical remote marginal preserved",
+      "passed": true
+    },
+    {
+      "label": "numerical labelled endpoint",
+      "passed": true
+    },
+    {
+      "label": "numerical reversible word error bound",
+      "passed": true
+    },
+    {
+      "label": "numerical selected local matrix unitary",
+      "passed": true
+    },
+    {
+      "label": "numerical remote marginal preserved",
+      "passed": true
+    },
+    {
+      "label": "numerical labelled endpoint",
+      "passed": true
+    },
+    {
+      "label": "numerical reversible word error bound",
+      "passed": true
+    },
+    {
+      "label": "numerical selected local matrix unitary",
+      "passed": true
+    },
+    {
+      "label": "numerical remote marginal preserved",
+      "passed": true
+    },
+    {
+      "label": "numerical labelled endpoint",
+      "passed": true
+    },
+    {
+      "label": "numerical reversible word error bound",
+      "passed": true
+    },
+    {
+      "label": "numerical selected local matrix unitary",
+      "passed": true
+    },
+    {
+      "label": "numerical remote marginal preserved",
+      "passed": true
+    },
+    {
+      "label": "numerical labelled endpoint",
+      "passed": true
+    },
+    {
+      "label": "numerical reversible word error bound",
+      "passed": true
+    },
+    {
+      "label": "numerical selected local matrix unitary",
+      "passed": true
+    },
+    {
+      "label": "numerical remote marginal preserved",
+      "passed": true
+    },
+    {
+      "label": "numerical labelled endpoint",
+      "passed": true
+    },
+    {
+      "label": "numerical reversible word error bound",
+      "passed": true
+    },
+    {
+      "label": "numerical selected local matrix unitary",
+      "passed": true
+    },
+    {
+      "label": "numerical remote marginal preserved",
+      "passed": true
+    },
+    {
+      "label": "numerical labelled endpoint",
+      "passed": true
+    },
+    {
+      "label": "numerical reversible word error bound",
+      "passed": true
+    },
+    {
+      "label": "numerical selected local matrix unitary",
+      "passed": true
+    },
+    {
+      "label": "numerical remote marginal preserved",
+      "passed": true
+    },
+    {
+      "label": "numerical labelled endpoint",
+      "passed": true
+    },
+    {
+      "label": "numerical reversible word error bound",
+      "passed": true
+    },
+    {
+      "label": "numerical selected local matrix unitary",
+      "passed": true
+    },
+    {
+      "label": "numerical remote marginal preserved",
+      "passed": true
+    },
+    {
+      "label": "numerical labelled endpoint",
+      "passed": true
+    },
+    {
+      "label": "numerical reversible word error bound",
+      "passed": true
+    },
+    {
+      "label": "numerical selected local matrix unitary",
+      "passed": true
+    },
+    {
+      "label": "numerical remote marginal preserved",
+      "passed": true
+    },
+    {
+      "label": "numerical labelled endpoint",
+      "passed": true
+    },
+    {
+      "label": "numerical reversible word error bound",
+      "passed": true
+    },
+    {
+      "label": "numerical selected local matrix unitary",
+      "passed": true
+    },
+    {
+      "label": "numerical remote marginal preserved",
+      "passed": true
+    },
+    {
+      "label": "numerical labelled endpoint",
+      "passed": true
+    },
+    {
+      "label": "numerical reversible word error bound",
+      "passed": true
+    },
+    {
+      "label": "numerical selected local matrix unitary",
+      "passed": true
+    },
+    {
+      "label": "numerical remote marginal preserved",
+      "passed": true
+    },
+    {
+      "label": "numerical labelled endpoint",
+      "passed": true
+    },
+    {
+      "label": "numerical reversible word error bound",
+      "passed": true
+    },
+    {
+      "label": "exact full word reversal restores frame labels",
+      "passed": true
+    },
+    {
+      "label": "numerical full word reversal restores physical state",
+      "passed": true
+    },
+    {
+      "label": "exact independent coordinate updates commute on every frame pair",
+      "passed": true
+    },
+    {
+      "label": "exact catalogue size",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "numerical cell-radius sample",
+      "passed": true
+    },
+    {
+      "label": "exact selected label map is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact label inverse",
+      "passed": true
+    },
+    {
+      "label": "numerical bottleneck edge bound",
+      "passed": true
+    },
+    {
+      "label": "numerical cost graph has no matching at preceding threshold",
+      "passed": true
+    },
+    {
+      "label": "numerical matching obeys analytic uniform bound",
+      "passed": true
+    },
+    {
+      "label": "numerical inverse command has same error bound",
+      "passed": true
+    },
+    {
+      "label": "exact selected label map is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact label inverse",
+      "passed": true
+    },
+    {
+      "label": "numerical bottleneck edge bound",
+      "passed": true
+    },
+    {
+      "label": "numerical cost graph has no matching at preceding threshold",
+      "passed": true
+    },
+    {
+      "label": "numerical matching obeys analytic uniform bound",
+      "passed": true
+    },
+    {
+      "label": "numerical inverse command has same error bound",
+      "passed": true
+    },
+    {
+      "label": "exact selected label map is a permutation",
+      "passed": true
+    },
+    {
+      "label": "exact label inverse",
+      "passed": true
+    },
+    {
+      "label": "numerical bottleneck edge bound",
+      "passed": true
+    },
+    {
+      "label": "numerical cost graph has no matching at preceding threshold",
+      "passed": true
+    },
+    {
+      "label": "numerical matching obeys analytic uniform bound",
+      "passed": true
+    },
+    {
+      "label": "numerical inverse command has same error bound",
+      "passed": true
+    },
+    {
+      "label": "numerical selected local matrix unitary",
+      "passed": true
+    },
+    {
+      "label": "numerical remote marginal preserved",
+      "passed": true
+    },
+    {
+      "label": "numerical labelled endpoint",
+      "passed": true
+    },
+    {
+      "label": "numerical reversible word error bound",
+      "passed": true
+    },
+    {
+      "label": "numerical selected local matrix unitary",
+      "passed": true
+    },
+    {
+      "label": "numerical remote marginal preserved",
+      "passed": true
+    },
+    {
+      "label": "numerical labelled endpoint",
+      "passed": true
+    },
+    {
+      "label": "numerical reversible word error bound",
+      "passed": true
+    },
+    {
+      "label": "numerical selected local matrix unitary",
+      "passed": true
+    },
+    {
+      "label": "numerical remote marginal preserved",
+      "passed": true
+    },
+    {
+      "label": "numerical labelled endpoint",
+      "passed": true
+    },
+    {
+      "label": "numerical reversible word error bound",
+      "passed": true
+    },
+    {
+      "label": "numerical selected local matrix unitary",
+      "passed": true
+    },
+    {
+      "label": "numerical remote marginal preserved",
+      "passed": true
+    },
+    {
+      "label": "numerical labelled endpoint",
+      "passed": true
+    },
+    {
+      "label": "numerical reversible word error bound",
+      "passed": true
+    },
+    {
+      "label": "numerical selected local matrix unitary",
+      "passed": true
+    },
+    {
+      "label": "numerical remote marginal preserved",
+      "passed": true
+    },
+    {
+      "label": "numerical labelled endpoint",
+      "passed": true
+    },
+    {
+      "label": "numerical reversible word error bound",
+      "passed": true
+    },
+    {
+      "label": "numerical selected local matrix unitary",
+      "passed": true
+    },
+    {
+      "label": "numerical remote marginal preserved",
+      "passed": true
+    },
+    {
+      "label": "numerical labelled endpoint",
+      "passed": true
+    },
+    {
+      "label": "numerical reversible word error bound",
+      "passed": true
+    },
+    {
+      "label": "numerical selected local matrix unitary",
+      "passed": true
+    },
+    {
+      "label": "numerical remote marginal preserved",
+      "passed": true
+    },
+    {
+      "label": "numerical labelled endpoint",
+      "passed": true
+    },
+    {
+      "label": "numerical reversible word error bound",
+      "passed": true
+    },
+    {
+      "label": "numerical selected local matrix unitary",
+      "passed": true
+    },
+    {
+      "label": "numerical remote marginal preserved",
+      "passed": true
+    },
+    {
+      "label": "numerical labelled endpoint",
+      "passed": true
+    },
+    {
+      "label": "numerical reversible word error bound",
+      "passed": true
+    },
+    {
+      "label": "numerical selected local matrix unitary",
+      "passed": true
+    },
+    {
+      "label": "numerical remote marginal preserved",
+      "passed": true
+    },
+    {
+      "label": "numerical labelled endpoint",
+      "passed": true
+    },
+    {
+      "label": "numerical reversible word error bound",
+      "passed": true
+    },
+    {
+      "label": "numerical selected local matrix unitary",
+      "passed": true
+    },
+    {
+      "label": "numerical remote marginal preserved",
+      "passed": true
+    },
+    {
+      "label": "numerical labelled endpoint",
+      "passed": true
+    },
+    {
+      "label": "numerical reversible word error bound",
+      "passed": true
+    },
+    {
+      "label": "numerical selected local matrix unitary",
+      "passed": true
+    },
+    {
+      "label": "numerical remote marginal preserved",
+      "passed": true
+    },
+    {
+      "label": "numerical labelled endpoint",
+      "passed": true
+    },
+    {
+      "label": "numerical reversible word error bound",
+      "passed": true
+    },
+    {
+      "label": "numerical selected local matrix unitary",
+      "passed": true
+    },
+    {
+      "label": "numerical remote marginal preserved",
+      "passed": true
+    },
+    {
+      "label": "numerical labelled endpoint",
+      "passed": true
+    },
+    {
+      "label": "numerical reversible word error bound",
+      "passed": true
+    },
+    {
+      "label": "numerical selected local matrix unitary",
+      "passed": true
+    },
+    {
+      "label": "numerical remote marginal preserved",
+      "passed": true
+    },
+    {
+      "label": "numerical labelled endpoint",
+      "passed": true
+    },
+    {
+      "label": "numerical reversible word error bound",
+      "passed": true
+    },
+    {
+      "label": "numerical selected local matrix unitary",
+      "passed": true
+    },
+    {
+      "label": "numerical remote marginal preserved",
+      "passed": true
+    },
+    {
+      "label": "numerical labelled endpoint",
+      "passed": true
+    },
+    {
+      "label": "numerical reversible word error bound",
+      "passed": true
+    },
+    {
+      "label": "numerical selected local matrix unitary",
+      "passed": true
+    },
+    {
+      "label": "numerical remote marginal preserved",
+      "passed": true
+    },
+    {
+      "label": "numerical labelled endpoint",
+      "passed": true
+    },
+    {
+      "label": "numerical reversible word error bound",
+      "passed": true
+    },
+    {
+      "label": "numerical selected local matrix unitary",
+      "passed": true
+    },
+    {
+      "label": "numerical remote marginal preserved",
+      "passed": true
+    },
+    {
+      "label": "numerical labelled endpoint",
+      "passed": true
+    },
+    {
+      "label": "numerical reversible word error bound",
+      "passed": true
+    },
+    {
+      "label": "numerical selected local matrix unitary",
+      "passed": true
+    },
+    {
+      "label": "numerical remote marginal preserved",
+      "passed": true
+    },
+    {
+      "label": "numerical labelled endpoint",
+      "passed": true
+    },
+    {
+      "label": "numerical reversible word error bound",
+      "passed": true
+    },
+    {
+      "label": "numerical selected local matrix unitary",
+      "passed": true
+    },
+    {
+      "label": "numerical remote marginal preserved",
+      "passed": true
+    },
+    {
+      "label": "numerical labelled endpoint",
+      "passed": true
+    },
+    {
+      "label": "numerical reversible word error bound",
+      "passed": true
+    },
+    {
+      "label": "numerical selected local matrix unitary",
+      "passed": true
+    },
+    {
+      "label": "numerical remote marginal preserved",
+      "passed": true
+    },
+    {
+      "label": "numerical labelled endpoint",
+      "passed": true
+    },
+    {
+      "label": "numerical reversible word error bound",
+      "passed": true
+    },
+    {
+      "label": "numerical selected local matrix unitary",
+      "passed": true
+    },
+    {
+      "label": "numerical remote marginal preserved",
+      "passed": true
+    },
+    {
+      "label": "numerical labelled endpoint",
+      "passed": true
+    },
+    {
+      "label": "numerical reversible word error bound",
+      "passed": true
+    },
+    {
+      "label": "numerical selected local matrix unitary",
+      "passed": true
+    },
+    {
+      "label": "numerical remote marginal preserved",
+      "passed": true
+    },
+    {
+      "label": "numerical labelled endpoint",
+      "passed": true
+    },
+    {
+      "label": "numerical reversible word error bound",
+      "passed": true
+    },
+    {
+      "label": "numerical selected local matrix unitary",
+      "passed": true
+    },
+    {
+      "label": "numerical remote marginal preserved",
+      "passed": true
+    },
+    {
+      "label": "numerical labelled endpoint",
+      "passed": true
+    },
+    {
+      "label": "numerical reversible word error bound",
+      "passed": true
+    },
+    {
+      "label": "numerical selected local matrix unitary",
+      "passed": true
+    },
+    {
+      "label": "numerical remote marginal preserved",
+      "passed": true
+    },
+    {
+      "label": "numerical labelled endpoint",
+      "passed": true
+    },
+    {
+      "label": "numerical reversible word error bound",
+      "passed": true
+    },
+    {
+      "label": "numerical selected local matrix unitary",
+      "passed": true
+    },
+    {
+      "label": "numerical remote marginal preserved",
+      "passed": true
+    },
+    {
+      "label": "numerical labelled endpoint",
+      "passed": true
+    },
+    {
+      "label": "numerical reversible word error bound",
+      "passed": true
+    },
+    {
+      "label": "exact full word reversal restores frame labels",
+      "passed": true
+    },
+    {
+      "label": "numerical full word reversal restores physical state",
+      "passed": true
+    },
+    {
+      "label": "exact independent coordinate updates commute on every frame pair",
+      "passed": true
+    }
+  ],
+  "finished_utc": "2026-09-11T05:05:10.998473+00:00"
+}

@@ -1,0 +1,40 @@
+{
+	"started_utc":"2026-09-15T23:21:59Z",
+	"script":"verify_twoqubit_histories.wl",
+	"script_version":"0.1",
+	"loaded_source_path":null,
+	"execution_mode":"interactive evaluation",
+	"script_sha256":null,
+	"source_hash_status":"unavailable; no executed source file was identified or hashing failed",
+	"record_directory_source":"saved notebook directory",
+	"record_directory":"\/Users\/njblost\/Library\/Mobile Documents\/com~apple~CloudDocs\/9. RS\/raqm-paper\/code\/reproducibility\/twoqubit_histories_mathematica_20260915T232159_763d0968Z",
+	"wolfram_version":"13.3.0 for Mac OS X ARM (64-bit) (April 11, 2023)",
+	"system_id":"MacOSX-ARM64",
+	"operating_system":"MacOSX",
+	"system_word_length":64,
+	"arithmetic":"exact integer, rational and symbolic",
+	"scope":"Exact labelled phase lift and classified shared local-H family with fixed CNOT; no unrestricted matching or refinement optimality claim.",
+	"finished_utc":"2026-09-15T23:21:59Z",
+	"status":"failed",
+	"total_assertions":4,
+	"passed_assertions":3,
+	"results":{},
+	"checks":[
+		{
+			"label":"C T_B absent from original phase-Clifford translate",
+			"passed":true
+		},
+		{
+			"label":"exact unchanged CNOT relative spectrum",
+			"passed":true
+		},
+		{
+			"label":"C T_B absent from original phase-Clifford translate",
+			"passed":true
+		},
+		{
+			"label":"exact unchanged CNOT relative spectrum",
+			"passed":false
+		}
+	]
+}
